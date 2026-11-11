@@ -84,3 +84,15 @@ class Version2Guards(unittest.TestCase):
         self.assertEqual((p.bid, p.ask), (None, None))
         reason = self.bot.con.execute("SELECT reason FROM pauses").fetchone()[0]
         self.assertIn("other makers left", reason)
+
+
+class OneSided(unittest.TestCase):
+    def test_one_sided_only_places_the_buy_order(self):
+        bot = rb.PaperBot(rb.Config(one_sided=True), ":memory:")
+        bot.picks["m"] = rb.Pick("m", "Calm", "t", 100, 4.5, 20, 0.01, "")
+        bot.pos["m"] = rb.Position()
+        bot.active = {"m"}
+        rb.sc.fetch_books = lambda tokens: {"t": _book(0.49, 0.51)}
+        bot.cycle(dt=5)
+        self.assertIsNotNone(bot.pos["m"].bid)
+        self.assertIsNone(bot.pos["m"].ask)

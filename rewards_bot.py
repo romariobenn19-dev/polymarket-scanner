@@ -55,6 +55,7 @@ class Config:
     max_markets: int = 2               # $50 covers about two markets at a 20-share minimum
     daily_loss_limit: float = 7.5      # stop for the day after losing 15% of the budget
     quote_depth: float = 0.5           # quote at this fraction of max spread from the midpoint (0.5 = halfway)
+    one_sided: bool = False            # quote only the buy-YES side (costs about half, scores 1/3)
     min_mid: float = 0.15              # skip near-certain markets (prices jump at the end)
     max_mid: float = 0.85
     min_days_left: float = 7.0         # skip markets that resolve soon
@@ -170,7 +171,10 @@ def candidates(cfg: Config, events: list[dict]) -> list[Pick]:
                 continue
             if abs(sc._f(m.get("oneHourPriceChange")) or 0) > cfg.max_1h_move or abs(sc._f(m.get("oneDayPriceChange")) or 0) > cfg.max_1d_move:
                 continue
-            cost = ms * (1 - cfg.quote_depth * v / 100 * 2)  # buy YES + buy NO at min size ≈ min_size x (1 - 2d)
+            if cfg.one_sided:
+                cost = ms * max(mid - cfg.quote_depth * v / 100, 0.01)  # one buy order only
+            else:
+                cost = ms * (1 - cfg.quote_depth * v / 100 * 2)  # buy YES + buy NO at min size ≈ min_size x (1 - 2d)
             if cost > cfg.max_per_market:
                 continue
             out.append(Pick(m["id"], q, sc.yes_token(m), rate, v, ms, float(m.get("orderPriceMinTickSize") or 0.01),
@@ -191,7 +195,8 @@ def pick_markets(cfg: Config, verbose=True) -> list[Pick]:
             continue
         mid = (bb + ba) / 2
         bid, ask = quotes_for(mid, p.v, p.tick, cfg.quote_depth, bb, ba)
-        ours = q_min(order_score(p.v, (mid - bid) * 100, p.min_size), order_score(p.v, (ask - mid) * 100, p.min_size), mid)
+        s_ask = 0.0 if cfg.one_sided else order_score(p.v, (ask - mid) * 100, p.min_size)
+        ours = q_min(order_score(p.v, (mid - bid) * 100, p.min_size), s_ask, mid)
         q1, q2 = book_scores(b, mid, p.v)
         others = max(min(q1, q2), max(q1, q2) / REWARD_SINGLE_SIDE_DIVISOR)
         p.est_daily = p.daily_rate * ours / (ours + others) if ours > 0 else 0.0
@@ -366,7 +371,7 @@ class PaperBot:
             if p.yes <= 0 and p.no <= 0:
                 if free >= bid * size:
                     p.bid, free = bid, free - bid * size
-                if free >= (1 - ask) * size:
+                if not cfg.one_sided and free >= (1 - ask) * size:
                     p.ask = ask
             elif p.yes > 0:
                 p.ask = ask   # sells YES: closes the position, needs no new money
@@ -445,6 +450,9 @@ def main(argv=None) -> int:
     ap.add_argument("command", choices=["run", "report", "pick"])
     ap.add_argument("--hours", type=float, default=6)
     ap.add_argument("--budget", type=float, help="override the $50 budget")
+    ap.add_argument("--depth", type=float, help="quote at this fraction of max spread from the midpoint")
+    ap.add_argument("--one-sided", action="store_true", help="quote only the buy side")
+    ap.add_argument("--markets", type=int, help="how many markets at once")
     ap.add_argument("--db", default="paper.db")
     ap.add_argument("--out")
     args = ap.parse_args(argv)
@@ -453,6 +461,13 @@ def main(argv=None) -> int:
         cfg.budget = args.budget
         cfg.max_per_market = args.budget / 2
         cfg.daily_loss_limit = args.budget * 0.15
+    if args.depth is not None:
+        cfg.quote_depth = args.depth
+    if args.one_sided:
+        cfg.one_sided = True
+    if args.markets:
+        cfg.max_markets = args.markets
+        cfg.max_per_market = cfg.budget / args.markets
     if args.command == "pick":
         pick_markets(cfg)
         return 0

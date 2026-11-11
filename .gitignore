@@ -7,3 +7,6 @@ paper.db
 paper.log
 paper2.db
 paper2.log
+paper_*.db
+paper_*.log
+saver.log
