@@ -1,0 +1,5 @@
+scan.db
+*.db
+__pycache__/
+report*.md
+scan.log
