@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-rewards_bot.py - Polymarket liquidity-rewards market maker. PAPER MODE ONLY (no orders are sent).
+rewards_bot.py - Polymarket liquidity-rewards market maker (version 2). PAPER MODE ONLY (no orders are sent).
 
     python rewards_bot.py run --hours 6        paper-trade against the live order books
     python rewards_bot.py report               results so far
@@ -36,7 +36,7 @@ import math
 import sqlite3
 import sys
 import time
-from dataclasses import asdict, dataclass, field
+from dataclasses import asdict, dataclass
 from datetime import datetime, timezone
 
 import scanner as sc  # shared Polymarket data helpers
@@ -48,19 +48,30 @@ import scanner as sc  # shared Polymarket data helpers
 
 @dataclass
 class Config:
+    # Version 2: avoid the losses seen in the first paper test (fast-moving markets, getting
+    # filled again and again as the price slides, staying in when other makers leave).
     budget: float = 50.0               # total USDC the bot may use
     max_per_market: float = 25.0       # never commit more than this to one market
     max_markets: int = 2               # $50 covers about two markets at a 20-share minimum
     daily_loss_limit: float = 7.5      # stop for the day after losing 15% of the budget
-    inventory_limit: float = 0.6       # stop buying one side once holdings use 60% of a market's allowance
     quote_depth: float = 0.5           # quote at this fraction of max spread from the midpoint (0.5 = halfway)
     min_mid: float = 0.15              # skip near-certain markets (prices jump at the end)
     max_mid: float = 0.85
-    min_days_left: float = 3.0         # skip markets that resolve soon
+    min_days_left: float = 7.0         # skip markets that resolve soon
     min_volume24h: float = 500.0       # skip dead markets
-    cycle_seconds: int = 30            # requote every 30 s
+    cycle_seconds: int = 5             # check prices every 5 s
+    move_pause: float = 0.02           # price moved 2c within move_window -> pull orders
+    move_window: int = 60              # seconds
+    pause_minutes: float = 10.0        # how long to stay out after a fast move
+    max_share: float = 0.30            # our reward share above this = other makers left; pull out
+    max_1h_move: float = 0.01          # only pick markets that moved <= 1c in the last hour
+    max_1d_move: float = 0.03          # and <= 3c in the last day
     reselect_minutes: int = 60         # re-pick markets every hour
     skip_words: tuple = (" vs. ", " vs ", "O/U", "Spread:", "Up or Down", "Handicap")  # live sports / crypto ticks
+    # topics that jump on scheduled data or live prices (lower-case match)
+    skip_topics: tuple = ("cpi", "pce", "inflation", "fed ", "fed?", "interest rate", "bps", "gdp", "unemployment",
+                          "payroll", "jobs report", "temperature", "bitcoin", "ethereum", "solana", "btc", "eth ",
+                          "price of", "above $", "below $", "close above", "close below", "market cap")
 
 
 REWARD_SINGLE_SIDE_DIVISOR = 3.0  # Polymarket's "c"; one-sided liquidity scores 1/c (check the official settings page)
@@ -155,7 +166,9 @@ def candidates(cfg: Config, events: list[dict]) -> list[Pick]:
                 continue
             if (sc._f(m.get("volume24hrClob")) or sc._f(m.get("volume24hr")) or 0) < cfg.min_volume24h:
                 continue
-            if any(w in q for w in cfg.skip_words):
+            if any(w in q for w in cfg.skip_words) or any(t in q.lower() for t in cfg.skip_topics):
+                continue
+            if abs(sc._f(m.get("oneHourPriceChange")) or 0) > cfg.max_1h_move or abs(sc._f(m.get("oneDayPriceChange")) or 0) > cfg.max_1d_move:
                 continue
             cost = ms * (1 - cfg.quote_depth * v / 100 * 2)  # buy YES + buy NO at min size ≈ min_size x (1 - 2d)
             if cost > cfg.max_per_market:
@@ -218,6 +231,7 @@ CREATE TABLE IF NOT EXISTS fills (ts REAL, market_id TEXT, question TEXT, side T
 CREATE TABLE IF NOT EXISTS accruals (ts REAL, market_id TEXT, question TEXT, amount REAL, share REAL);
 CREATE TABLE IF NOT EXISTS picks (ts REAL, market_id TEXT, question TEXT, daily_rate REAL, est_daily REAL, cost REAL);
 CREATE TABLE IF NOT EXISTS meta (k TEXT PRIMARY KEY, v TEXT);
+CREATE TABLE IF NOT EXISTS pauses (ts REAL, market_id TEXT, question TEXT, reason TEXT);
 """
 
 
@@ -232,6 +246,8 @@ class PaperBot:
         self.picks: dict[str, Pick] = {}
         self.last_mid: dict[str, float] = {}
         self.stopped_day: str | None = None
+        self.mid_hist: dict[str, list] = {}
+        self.paused_until: dict[str, float] = {}
         self.day_start_equity = cfg.budget
         self.day = None
         self.con.execute("INSERT OR REPLACE INTO meta VALUES ('config', ?)", (json.dumps(asdict(cfg)),))
@@ -316,24 +332,47 @@ class PaperBot:
                 ours = q_min(s1, s2, mid)
                 q1, q2 = book_scores(b, mid, v)
                 others = max(min(q1, q2), max(q1, q2) / REWARD_SINGLE_SIDE_DIVISOR)
+                share = 0.0
                 if ours > 0:
                     share = ours / (ours + others)
                     amount = pk.daily_rate * share * dt / 86400
                     self.rewards += amount
                     self.con.execute("INSERT INTO accruals VALUES (?,?,?,?,?)", (now, mid_id, pk.question, amount, share))
-            # 3) requote around the new midpoint (or stop)
+            else:
+                share = 0.0
+            # 3) guards: fast price move, or other makers have left
+            hist = [h for h in self.mid_hist.get(mid_id, []) if now - h[0] <= cfg.move_window]
+            hist.append((now, mid))
+            self.mid_hist[mid_id] = hist
+            move = max(abs(mid - h[1]) for h in hist)
+            reason = None
+            if move >= cfg.move_pause - 1e-9:
+                reason = f"price moved {move * 100:.1f}c in {cfg.move_window}s"
+            elif share > cfg.max_share:
+                reason = f"our reward share {share * 100:.0f}% (other makers left)"
+            if reason and self.paused_until.get(mid_id, 0) <= now:
+                self.paused_until[mid_id] = now + cfg.pause_minutes * 60
+                self.con.execute("INSERT INTO pauses VALUES (?,?,?,?)", (now, mid_id, pk.question, reason))
+                print(f"[{sc.iso(now)}] pause {pk.question[:50]}: {reason}", flush=True)
+            # 4) requote around the new midpoint (or stay out)
             p.bid = p.ask = None
-            if self.stopped_day == today or mid_id not in self.active or not (0.05 < mid < 0.95):
+            if (self.stopped_day == today or mid_id not in self.active or not (0.05 < mid < 0.95)
+                    or self.paused_until.get(mid_id, 0) > now):
                 continue
             bid, ask = quotes_for(mid, v, pk.tick, cfg.quote_depth, bb, ba)
             size = pk.min_size
-            allowance = cfg.max_per_market
             free = self.cash - sum(self.locked(i, q) for i, q in self.pos.items() if i != mid_id)
-            if p.yes * mid < cfg.inventory_limit * allowance and free >= bid * size:
-                p.bid, free = bid, free - bid * size
-            if p.no * (1 - mid) < cfg.inventory_limit * allowance and free >= (1 - ask) * size:
-                p.ask = ask
-            p.size = size
+            # holding shares already: only quote the side that sells them
+            if p.yes <= 0 and p.no <= 0:
+                if free >= bid * size:
+                    p.bid, free = bid, free - bid * size
+                if free >= (1 - ask) * size:
+                    p.ask = ask
+            elif p.yes > 0:
+                p.ask = ask   # sells YES: closes the position, needs no new money
+            else:
+                p.bid = bid   # buys YES against held NO: closes the position
+            p.size = size if (p.yes <= 0 and p.no <= 0) else max(p.yes, p.no)
         eq = self.equity()
         if self.stopped_day != today and self.day_start_equity - eq >= cfg.daily_loss_limit:
             self.stopped_day = today
@@ -392,6 +431,9 @@ def report(db_path="paper.db") -> str:
                             FROM accruals a GROUP BY a.market_id ORDER BY SUM(a.amount) DESC"""):
         L.append(f"| {r[0][:70]} | ${r[1]:.3f} | {r[3]} | {r[2] * 100:.1f}% |")
     fills = con.execute("SELECT COUNT(*) FROM fills").fetchone()[0]
+    pauses = con.execute("SELECT COUNT(*) FROM pauses").fetchone()[0] if con.execute(
+        "SELECT name FROM sqlite_master WHERE name='pauses'").fetchone() else 0
+    L += ["", f"{pauses} times it pulled its orders for safety (fast move or other makers leaving)."]
     L += ["", f"{fills} paper fills (price moved through our order).",
           "", "_Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: "
           "judge it over several days that include news-driven moves._"]
