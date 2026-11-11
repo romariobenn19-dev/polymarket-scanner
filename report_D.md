@@ -1,21 +1,22 @@
 # Rewards bot: paper results
 
-0.1 hours, 2026-11-11 20:16:21 → 2026-11-11 20:22:59 UTC, budget $50
+1.2 hours, 2026-11-11 20:16:21 → 2026-11-11 21:30:47 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.00 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+0.00** (+0.0%) |
-| At this rate, per day | $+nan |
+| Rewards earned | $+0.01 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| **Net result** | **$+0.01** (+0.0%) |
+| At this rate, per day | $+0.11 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
+| Will Variational launch a token by December 31, 2026? | $0.003 | 0 | 3.0% |
+| Ukraine signs peace deal with Russia by December 31, 2027? | $0.001 | 0 | 0.1% |
 | Will PRI win the most seats in the 2027 Durango Congress election? | $0.001 | 0 | 1.5% |
-| Ukraine signs peace deal with Russia by December 31, 2027? | $0.000 | 0 | 0.1% |
 
 0 times it pulled its orders for safety (fast move or other makers leaving).
 
