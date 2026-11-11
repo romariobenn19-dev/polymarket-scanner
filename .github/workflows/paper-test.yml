@@ -1,21 +1,17 @@
 name: Paper test (rewards bot A/B/C/D)
 
 # Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
-# Each run resumes the saved results from the paper-results branch, runs for `hours`,
-# saves again, and starts the next run until runs_left reaches 0.
+# Each run resumes the saved results from the paper-results branch, runs for `hours`
+# and saves again. Start the next run when one finishes; results carry over.
 on:
   workflow_dispatch:
     inputs:
       hours:
         description: 'Hours per run (max ~5.7)'
         default: '5.5'
-      runs_left:
-        description: 'How many runs in a row (including this one)'
-        default: '3'
 
 permissions:
   contents: write
-  actions: write
 
 concurrency:
   group: paper-test
@@ -65,10 +61,3 @@ jobs:
         run: |
           python3 saver.py --once
           python3 compare.py >> "$GITHUB_STEP_SUMMARY"
-
-      - name: Start the next run
-        if: success() && inputs.runs_left > 1
-        env:
-          GH_TOKEN: ${{ github.token }}
-          NEXT: ${{ inputs.runs_left }}
-        run: gh workflow run paper-test.yml --ref main -f hours="${{ inputs.hours }}" -f runs_left=$((NEXT - 1))
