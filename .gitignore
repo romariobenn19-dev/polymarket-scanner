@@ -3,3 +3,5 @@ scan.db
 __pycache__/
 report*.md
 scan.log
+paper.db
+paper.log
