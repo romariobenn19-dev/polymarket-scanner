@@ -22,7 +22,8 @@ def summary(path):
         return None
     last = con.execute("SELECT equity, rewards, holdings FROM cycles ORDER BY ts DESC LIMIT 1").fetchone()
     worst = con.execute("SELECT MIN(equity) FROM cycles").fetchone()[0]
-    hours = (first[1] - first[0]) / 3600
+    ts = [r[0] for r in con.execute("SELECT ts FROM cycles ORDER BY ts")]
+    hours = sum(b - a for a, b in zip(ts, ts[1:]) if b - a < 60) / 3600  # running time, excluding restarts
     fills = con.execute("SELECT COUNT(*) FROM fills").fetchone()[0]
     pauses = con.execute("SELECT COUNT(*) FROM pauses").fetchone()[0]
     markets = [r[0] for r in con.execute("SELECT DISTINCT question FROM accruals")]

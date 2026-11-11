@@ -1,0 +1,74 @@
+name: Paper test (rewards bot A/B/C/D)
+
+# Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
+# Each run resumes the saved results from the paper-results branch, runs for `hours`,
+# saves again, and starts the next run until runs_left reaches 0.
+on:
+  workflow_dispatch:
+    inputs:
+      hours:
+        description: 'Hours per run (max ~5.7)'
+        default: '5.5'
+      runs_left:
+        description: 'How many runs in a row (including this one)'
+        default: '3'
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: paper-test
+  cancel-in-progress: false
+
+jobs:
+  paper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install requests websockets
+
+      - name: Restore saved results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          if git fetch -q origin paper-results; then
+            git worktree add -q ../pm-results paper-results
+            cp ../pm-results/paper_*.db . 2>/dev/null || true
+          else
+            git worktree add -q --orphan -b paper-results ../pm-results
+          fi
+          ls -la paper_*.db 2>/dev/null || echo "starting fresh"
+
+      - name: Run versions A, B, C, D
+        env:
+          HOURS: ${{ inputs.hours }}
+        run: |
+          python3 rewards_bot.py run --hours "$HOURS" --db paper_A.db > paper_A.log 2>&1 & A=$!
+          python3 rewards_bot.py run --hours "$HOURS" --db paper_B.db --depth 0.25 > paper_B.log 2>&1 & B=$!
+          python3 rewards_bot.py run --hours "$HOURS" --db paper_C.db --one-sided --markets 4 > paper_C.log 2>&1 & C=$!
+          python3 rewards_bot_d.py run --hours "$HOURS" --db paper_D.db > paper_D.log 2>&1 & D=$!
+          python3 saver.py > saver.log 2>&1 & S=$!
+          wait $A $B $C $D || true
+          kill $S 2>/dev/null || true
+          tail -n 3 paper_*.log
+
+      - name: Save results
+        if: always()
+        run: |
+          python3 saver.py --once
+          python3 compare.py >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Start the next run
+        if: success() && inputs.runs_left > 1
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NEXT: ${{ inputs.runs_left }}
+        run: gh workflow run paper-test.yml --ref main -f hours="${{ inputs.hours }}" -f runs_left=$((NEXT - 1))

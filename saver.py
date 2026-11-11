@@ -13,7 +13,7 @@ def run(cmd, cwd=HERE):
     return subprocess.run(cmd, cwd=cwd, capture_output=True, text=True, timeout=300)
 
 
-while True:
+def save_once():
     try:
         run(["python3", "compare.py", str(OUT / "COMPARISON.md")])
         for v in "ABCD":
@@ -30,4 +30,13 @@ while True:
             print(stamp, "pushed" if r.returncode == 0 else f"push failed: {r.stderr.strip()[:200]}", flush=True)
     except Exception as e:
         print("saver error:", e, flush=True)
-    time.sleep(1800)
+
+
+if __name__ == "__main__":
+    import sys
+    if "--once" in sys.argv:
+        save_once()
+    else:
+        while True:
+            save_once()
+            time.sleep(1800)
