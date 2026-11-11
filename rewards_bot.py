@@ -258,6 +258,47 @@ class PaperBot:
         self.con.execute("INSERT OR REPLACE INTO meta VALUES ('config', ?)", (json.dumps(asdict(cfg)),))
         self.con.execute("INSERT OR IGNORE INTO meta VALUES ('started', ?)", (str(time.time()),))
         self.con.commit()
+        self._last_save = 0.0
+        self.load_state()
+
+    # ---- resume after a restart ---------------------------------------- #
+
+    STATE_FIELDS = ("cash", "rewards", "paused_until", "day", "day_start_equity", "stopped_day", "last_mid")
+
+    def save_state(self, every: float = 10.0, force: bool = False) -> None:
+        now = time.time()
+        if not force and now - self._last_save < every:
+            return
+        self._last_save = now
+        state = {k: getattr(self, k) for k in self.STATE_FIELDS}
+        state["pos"] = {k: asdict(v) for k, v in self.pos.items()}
+        state["picks"] = {k: asdict(v) for k, v in self.picks.items()}
+        state.update(self.extra_state())
+        self.con.execute("INSERT OR REPLACE INTO meta VALUES ('state', ?)", (json.dumps(state),))
+        self.con.commit()
+
+    def extra_state(self) -> dict:
+        return {}
+
+    def load_state(self) -> bool:
+        row = self.con.execute("SELECT v FROM meta WHERE k='state'").fetchone()
+        if not row:
+            return False
+        st = json.loads(row[0])
+        for k in self.STATE_FIELDS:
+            if k in st:
+                setattr(self, k, st[k])
+        self.pos = {k: Position(**v) for k, v in st.get("pos", {}).items()}
+        for p in self.pos.values():
+            p.bid = p.ask = None  # resting orders do not survive a restart
+        self.picks = {k: Pick(**v) for k, v in st.get("picks", {}).items()}
+        self.load_extra(st)
+        print(f"[{sc.iso(time.time())}] resumed: cash ${self.cash:.2f}, rewards ${self.rewards:.3f}, "
+              f"{sum(1 for p in self.pos.values() if p.yes or p.no)} positions", flush=True)
+        return True
+
+    def load_extra(self, st: dict) -> None:
+        pass
 
     def holdings_value(self) -> float:
         return sum(p.yes * self.last_mid.get(mid, 0.5) + p.no * (1 - self.last_mid.get(mid, 0.5)) for mid, p in self.pos.items())
@@ -384,6 +425,7 @@ class PaperBot:
             print(f"[{sc.iso(now)}] daily loss limit hit (${self.day_start_equity - eq:.2f}); quotes off until tomorrow")
         self.con.execute("INSERT INTO cycles VALUES (?,?,?,?,?,?)", (now, eq, self.cash, self.holdings_value(), self.rewards, len(self.active)))
         self.con.commit()
+        self.save_state()
 
     def run(self, hours: float):
         cfg = self.cfg

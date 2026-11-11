@@ -13,6 +13,10 @@ start() {  # name, extra args
 start A ""
 start B "--depth 0.25"
 start C "--one-sided --markets 4"
+if ! pgrep -f "rewards_bot_d.py run" >/dev/null; then
+  setsid nohup python3 rewards_bot_d.py run --hours "${HOURS_D:-16}" --db paper_D.db >> paper_D.log 2>&1 < /dev/null &
+  echo "started D"
+fi
 
 RESULTS=../pm-results
 if [ ! -d "$RESULTS" ]; then

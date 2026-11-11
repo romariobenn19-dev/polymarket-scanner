@@ -9,6 +9,7 @@ VERSIONS = [
     ("A", "paper_A.db", "Version 2 as is: both sides, halfway out"),
     ("B", "paper_B.db", "Both sides, quarter of the way out (closer to the price)"),
     ("C", "paper_C.db", "Buy side only, 4 markets"),
+    ("D", "paper_D.db", "Live feed, trade alarm, history-based picks, learns (started ~1h later)"),
 ]
 
 

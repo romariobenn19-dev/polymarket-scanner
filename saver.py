@@ -16,7 +16,7 @@ def run(cmd, cwd=HERE):
 while True:
     try:
         run(["python3", "compare.py", str(OUT / "COMPARISON.md")])
-        for v in "ABC":
+        for v in "ABCD":
             db = HERE / f"paper_{v}.db"
             if db.exists():
                 src, dst = sqlite3.connect(db), sqlite3.connect(OUT / f"paper_{v}.db")

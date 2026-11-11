@@ -50,7 +50,11 @@ class Version2Guards(unittest.TestCase):
         self.bot.pos["m"] = rb.Position()
         self.bot.active = {"m"}
         self.books = {}
+        self._saved = rb.sc.fetch_books
         rb.sc.fetch_books = lambda tokens: {"t": self.books["t"]}
+
+    def tearDown(self):
+        rb.sc.fetch_books = self._saved
 
     def step(self, bid, ask, size=500):
         self.books["t"] = _book(bid, ask, size)
@@ -96,3 +100,20 @@ class OneSided(unittest.TestCase):
         bot.cycle(dt=5)
         self.assertIsNotNone(bot.pos["m"].bid)
         self.assertIsNone(bot.pos["m"].ask)
+
+
+class Resume(unittest.TestCase):
+    def test_state_survives_a_restart(self):
+        import tempfile
+        path = os.path.join(tempfile.mkdtemp(), "p.db")
+        bot = rb.PaperBot(rb.Config(), path)
+        bot.picks["m"] = rb.Pick("m", "Q", "t", 100, 4.5, 20, 0.01, "")
+        bot.pos["m"] = rb.Position(yes=20, cost=9.6, bid=0.47)
+        bot.cash, bot.rewards = 40.4, 0.25
+        bot.save_state(force=True)
+        again = rb.PaperBot(rb.Config(), path)
+        self.assertAlmostEqual(again.cash, 40.4)
+        self.assertAlmostEqual(again.rewards, 0.25)
+        self.assertEqual(again.pos["m"].yes, 20)
+        self.assertIsNone(again.pos["m"].bid)   # orders do not survive
+        self.assertEqual(again.picks["m"].question, "Q")
