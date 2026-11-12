@@ -5,12 +5,14 @@ import sqlite3
 import sys
 from datetime import datetime, timezone
 
-VERSIONS = [
+ALL_VERSIONS = [
     ("A", "paper_A.db", "Version 2 as is: both sides, halfway out"),
     ("B", "paper_B.db", "Both sides, quarter of the way out (closer to the price)"),
     ("C", "paper_C.db", "Buy side only, 4 markets"),
-    ("D", "paper_D.db", "Live feed, trade alarm, history-based picks, learns (started ~1h later)"),
+    ("D", "paper_D.db", "Live feed, trade alarm, history-based picks, learns"),
+    ("E", "paper_E.db", "D's protections + A's appetite + time limit on stuck shares, max 2 stuck, queue cover"),
 ]
+VERSIONS = [v for v in ALL_VERSIONS if v[0] in os.environ.get("PAPER_VERSIONS", "ABE")]
 
 
 def summary(path):

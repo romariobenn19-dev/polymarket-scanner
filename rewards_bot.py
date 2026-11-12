@@ -125,6 +125,7 @@ class Pick:
     end: str
     est_daily: float = 0.0
     cost: float = 0.0
+    fee_rate: float = 0.0  # taker fee rate (fee per share = rate x p x (1 - p))
 
 
 def days_left(end_iso: str | None) -> float:
@@ -177,8 +178,9 @@ def candidates(cfg: Config, events: list[dict]) -> list[Pick]:
                 cost = ms * (1 - cfg.quote_depth * v / 100 * 2)  # buy YES + buy NO at min size ≈ min_size x (1 - 2d)
             if cost > cfg.max_per_market:
                 continue
+            fee = float((m.get("feeSchedule") or {}).get("rate") or 0) if m.get("feesEnabled") else 0.0
             out.append(Pick(m["id"], q, sc.yes_token(m), rate, v, ms, float(m.get("orderPriceMinTickSize") or 0.01),
-                            m.get("endDate", ""), cost=cost))
+                            m.get("endDate", ""), cost=cost, fee_rate=fee))
     return out
 
 

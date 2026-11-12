@@ -222,7 +222,7 @@ def pick_markets_d(cfg: ConfigD, banned: set[str] = frozenset(), verbose=True) -
         p.est_daily = p.daily_rate * ours / (ours + others) if ours > 0 else 0.0
         risk = swing_loss_per_day(price_history(p.token, cfg.history_days), mid - bid, p.min_size)
         p.risk = risk
-        p.net = p.est_daily - risk
+        p.net = p.est_daily - getattr(cfg, "risk_weight", 1.0) * risk
         if p.net > 0:
             scored.append(p)
     ranked = sorted(scored, key=lambda p: -p.net / max(p.cost, 1))
@@ -237,7 +237,8 @@ def pick_markets_d(cfg: ConfigD, banned: set[str] = frozenset(), verbose=True) -
         print(f"{len(cands)} reward markets fit the rules, {len(scored)} still positive after expected swing losses; "
               f"chose {len(chosen)} (uses ${used:.2f} of ${cfg.budget:.0f}):")
         for p in chosen:
-            print(f"  est. rewards ${p.est_daily:5.2f}/day - swing risk ${p.risk:5.2f}/day = ${p.net:5.2f}/day, needs ${p.cost:5.2f}  {p.question[:60]}")
+            w = getattr(cfg, "risk_weight", 1.0)
+            print(f"  est. rewards ${p.est_daily:5.2f}/day - swing risk ${w * p.risk:5.2f}/day = ${p.net:5.2f}/day, needs ${p.cost:5.2f}  {p.question[:60]}")
     return chosen
 
 

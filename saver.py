@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """saver.py - every 30 min: comparison + reports + database copies -> paper-results branch."""
+import os
 import sqlite3
 import subprocess
 import time
@@ -16,7 +17,7 @@ def run(cmd, cwd=HERE):
 def save_once():
     try:
         run(["python3", "compare.py", str(OUT / "COMPARISON.md")])
-        for v in "ABCD":
+        for v in os.environ.get("PAPER_VERSIONS", "ABE"):
             db = HERE / f"paper_{v}.db"
             if db.exists():
                 src, dst = sqlite3.connect(db), sqlite3.connect(OUT / f"paper_{v}.db")
