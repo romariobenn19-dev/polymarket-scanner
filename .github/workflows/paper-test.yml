@@ -1,4 +1,4 @@
-name: Paper test (rewards bot A/E/F at $50/$100/$200)
+name: Paper test (rewards bots A/E/F, jump bot G)
 
 # Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
 # Each run resumes the saved results from the paper-results branch, runs for `hours`
@@ -43,7 +43,7 @@ jobs:
           fi
           ls -la paper_*.db 2>/dev/null || echo "starting fresh"
 
-      - name: Run versions A, E and F ($50, $100, $200)
+      - name: Run versions A, E, F ($50/$100/$200) and G
         env:
           HOURS: ${{ inputs.hours }}
         run: |
@@ -52,8 +52,9 @@ jobs:
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F.db > paper_F.log 2>&1 & F=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F100.db --budget 100 > paper_F100.log 2>&1 & F100=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F200.db --budget 200 > paper_F200.log 2>&1 & F200=$!
+          python3 jump_bot.py run --hours "$HOURS" --db paper_G.db > paper_G.log 2>&1 & G=$!
           python3 saver.py > saver.log 2>&1 & S=$!
-          wait $A $E $F $F100 $F200 || true
+          wait $A $E $F $F100 $F200 $G || true
           kill $S 2>/dev/null || true
           tail -n 3 paper_*.log
 
@@ -62,3 +63,4 @@ jobs:
         run: |
           python3 saver.py --once
           python3 compare.py >> "$GITHUB_STEP_SUMMARY"
+          python3 jump_bot.py report --db paper_G.db >> "$GITHUB_STEP_SUMMARY" || true
