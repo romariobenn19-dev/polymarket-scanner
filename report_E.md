@@ -1,23 +1,23 @@
 # Rewards bot: paper results
 
-0.5 hours, 2026-11-12 14:11:11 → 2026-11-12 14:40:30 UTC, budget $50
+1.0 hours, 2026-11-12 14:11:11 → 2026-11-12 15:09:54 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.01 |
+| Rewards earned | $+0.06 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.70 |
-| **Net result** | **$-1.69** (-3.4%) |
-| At this rate, per day | $-82.91 |
+| **Net result** | **$-1.64** (-3.3%) |
+| At this rate, per day | $-40.17 |
 | Still holding (at midpoint) | $3.90 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| GPT-7 released by June 30, 2027? | $0.007 | 0 | 1.7% |
-| Will Google be the second-best AI lab at the end of January 2027? | $0.005 | 1 | 2.0% |
+| Will Google be the second-best AI lab at the end of January 2027? | $0.050 | 1 | 10.6% |
+| GPT-7 released by June 30, 2027? | $0.012 | 0 | 1.4% |
 
-3 times it pulled its orders for safety (fast move or other makers leaving).
+6 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
