@@ -1,18 +1,18 @@
-# Paper test comparison (2026-11-11 23:30 UTC)
+# Paper test comparison (2026-11-12 00:00 UTC)
 
 Budget $50 each, same live order books, no real orders.
 
 | | **A** | **B** | **C** | **D** |
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | Both sides, quarter of the way out (closer to the price) | Buy side only, 4 markets | Live feed, trade alarm, history-based picks, learns (started ~1h later) |
-| Hours running | 2.6 | 2.6 | 2.6 | 2.6 |
-| Rewards | $+0.24 | $+0.21 | $+0.26 | $+0.04 |
-| Gain/loss on shares | $-0.20 | $-0.00 | $+0.00 | $+0.00 |
-| **Net result** | **$+0.04** | **$+0.21** | **$+0.26** | **$+0.04** |
-| Net per day (at this pace) | $+0.33 | $+1.90 | $+2.38 | $+0.33 |
+| Hours running | 3.1 | 3.1 | 3.1 | 3.1 |
+| Rewards | $+0.26 | $+0.24 | $+0.28 | $+0.04 |
+| Gain/loss on shares | $+0.20 | $+0.40 | $-0.00 | $-0.00 |
+| **Net result** | **$+0.46** | **$+0.64** | **$+0.28** | **$+0.04** |
+| Net per day (at this pace) | $+3.57 | $+4.98 | $+2.20 | $+0.31 |
 | Worst point | $-1.20 | $-1.23 | $+0.00 | $+0.00 |
 | Fills | 1 | 2 | 0 | 0 |
-| Safety pauses | 7 | 12 | 8 | 0 |
+| Safety pauses | 7 | 12 | 10 | 0 |
 
 - **A** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by 
 - **B** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by 

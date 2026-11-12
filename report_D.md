@@ -1,11 +1,11 @@
 # Rewards bot: paper results
 
-3.2 hours, 2026-11-11 20:16:21 → 2026-11-11 23:30:56 UTC, budget $50
+3.7 hours, 2026-11-11 20:16:21 → 2026-11-12 00:00:45 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+0.04 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
 | **Net result** | **$+0.04** (+0.1%) |
 | At this rate, per day | $+0.26 |
 | Still holding (at midpoint) | $0.00 |
@@ -15,9 +15,9 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Vox win 61-65 seats in the 2026 Spanish general election? | $0.021 | 0 | 3.8% |
-| Ukraine signs peace deal with Russia by December 31, 2027? | $0.007 | 0 | 0.1% |
+| Ukraine signs peace deal with Russia by December 31, 2027? | $0.008 | 0 | 0.1% |
+| Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.005 | 0 | 0.6% |
 | Will Variational launch a token by December 31, 2026? | $0.005 | 0 | 2.3% |
-| Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.002 | 0 | 0.5% |
 | Will PRI win the most seats in the 2027 Durango Congress election? | $0.001 | 0 | 1.5% |
 
 0 times it pulled its orders for safety (fast move or other makers leaving).
