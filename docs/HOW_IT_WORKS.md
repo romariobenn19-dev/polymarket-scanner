@@ -7,6 +7,29 @@ and `rewards_bot.py`).
 
 ---
 
+## Version F (rewards_bot_f.py): what changes from E
+
+Sections 1–7 below describe version E. Version F keeps all of it except:
+
+| # | Rule in F | Replaces in E |
+|---|---|---|
+| 1 | **Realistic paper fills.** An order remembers how many shares were already waiting at its price. Trades at that price use up that queue first; it fills only when the queue ahead is gone, a trade happens at a worse price, or the other side crosses it. People ahead cancelling moves it up. | Any trade at the order's price counted as a fill. |
+| 2 | **$1 payout minimum.** Polymarket does not pay reward amounts under $1. A market is only used if it is expected to earn **$1.25+/day**; if minimum-size orders can't reach that, size goes up (2×, 3×, 4×) using at most 80% of the budget in that market. | No minimum. |
+| 3 | **Adjusted midpoint.** Book levels smaller than the minimum reward size are ignored for the midpoint, microprice and other traders' scores (Polymarket scores from this size-cutoff-adjusted midpoint). | Raw best prices. |
+| 4 | **No near-worthless orders.** A new order needs queue cover within **80%** of the reward zone, else that side is not quoted. | Fell back to the far edge, scoring ~0 with full fill risk. |
+| 5 | **One market per event.** Never two markets from the same event, and none from an event where shares are already held. | Allowed (e.g. two NVIDIA CEO markets). |
+| 6 | **Exit ramp.** Stuck shares get a waiting sell order at break-even (price paid minus rewards already earned in that market); after 90 min it steps 1 tick lower every 15 min, never below best bid + 1 tick. The forced sale at 3 h stays as the last resort. The exit order keeps working during pauses. | Half distance, then forced sale at 3 h. |
+| 7 | **Losses judged against earnings.** A market with negative net result gets orders 0.10 of the zone further out (up to 0.30). It is banned for 24 h only after losing more than max(expected daily rewards, $0.30). | Banned after $0.30. |
+| 8 | **Minute-level risk.** Market choice uses the last day of minute-by-minute prices instead of a week of hourly prices, plus the cost of one forced sale a day at the market's own taker fee. Finer price steps score better automatically because orders land closer to the target distance. | Hourly prices, no fee. |
+
+**First result:** with these rules, on the afternoon of 12 Nov 2026 **no market qualified** with $50.
+Calm markets paid under $1/day at the sizes $50 allows; the one that cleared $1.25 (a TV contest)
+had 16 one-minute jumps of 3¢+ in a day, up to 16.5¢, which hourly data had hidden. Applying the $1
+minimum to night 1's results: A, B, C and D would have been paid **$0** if the minimum applies per
+market per day (only B's $1.44 for 12 Nov if it applies to the daily total).
+
+---
+
 ## 1. Where the money comes from
 
 Polymarket pays a daily amount on many markets ("liquidity rewards") to people who keep **buy and

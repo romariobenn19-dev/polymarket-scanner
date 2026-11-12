@@ -11,8 +11,20 @@ ALL_VERSIONS = [
     ("C", "paper_C.db", "Buy side only, 4 markets"),
     ("D", "paper_D.db", "Live feed, trade alarm, history-based picks, learns"),
     ("E", "paper_E.db", "D's protections + A's appetite + time limit on stuck shares, max 2 stuck, queue cover"),
+    ("F", "paper_F.db", "E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk"),
 ]
-VERSIONS = [v for v in ALL_VERSIONS if v[0] in os.environ.get("PAPER_VERSIONS", "ABE")]
+VERSIONS = [v for v in ALL_VERSIONS if v[0] in os.environ.get("PAPER_VERSIONS", "AEF")]
+
+
+def paid_rewards(con) -> tuple[float, float]:
+    """Polymarket does not pay amounts under $1 (treated here as per market per UTC day).
+    Returns (paid on finished days, today's markets already at $1+)."""
+    rows = con.execute("""SELECT date(ts, 'unixepoch') AS d, market_id, SUM(amount) FROM accruals
+                          GROUP BY d, market_id""").fetchall()
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    done = sum(a for d, _, a in rows if d < today and a >= 1.0)
+    now = sum(a for d, _, a in rows if d == today and a >= 1.0)
+    return done, now
 
 
 def summary(path):
@@ -30,7 +42,8 @@ def summary(path):
     pauses = con.execute("SELECT COUNT(*) FROM pauses").fetchone()[0]
     markets = [r[0] for r in con.execute("SELECT DISTINCT question FROM accruals")]
     net = last[0] - 50
-    return dict(hours=hours, net=net, rewards=last[1], trading=net - last[1], holdings=last[2], worst=worst - 50,
+    paid_done, paid_today = paid_rewards(con)
+    return dict(paid=paid_done + paid_today, hours=hours, net=net, rewards=last[1], trading=net - last[1], holdings=last[2], worst=worst - 50,
                 fills=fills, pauses=pauses, per_day=net / hours * 24 if hours > 0.5 else None, markets=markets)
 
 
@@ -44,7 +57,8 @@ def main():
     line("What it does", lambda r: "")
     L[-1] = "| What it does | " + " | ".join(d for _, _, d in VERSIONS) + " |"
     line("Hours running", lambda r: f"{r['hours']:.1f}")
-    line("Rewards", lambda r: f"${r['rewards']:+.2f}")
+    line("Rewards (estimated)", lambda r: f"${r['rewards']:+.2f}")
+    line("Rewards Polymarket would pay ($1+/market/day)", lambda r: f"${r['paid']:+.2f}")
     line("Gain/loss on shares", lambda r: f"${r['trading']:+.2f}")
     line("**Net result**", lambda r: f"**${r['net']:+.2f}**")
     line("Net per day (at this pace)", lambda r: f"${r['per_day']:+.2f}" if r["per_day"] is not None else "–")
