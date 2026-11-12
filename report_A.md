@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-8.9 hours, 2026-11-11 20:16:11 → 2026-11-12 05:10:57 UTC, budget $50
+9.4 hours, 2026-11-11 20:16:11 → 2026-11-12 05:40:42 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.71 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+5.30 |
-| **Net result** | **$+6.01** (+12.0%) |
-| At this rate, per day | $+16.19 |
-| Still holding (at midpoint) | $13.50 |
+| Rewards earned | $+0.73 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+6.60 |
+| **Net result** | **$+7.33** (+14.7%) |
+| At this rate, per day | $+18.71 |
+| Still holding (at midpoint) | $14.80 |
 
 ## Markets quoted
 
@@ -21,15 +21,15 @@
 | Will CZ post 20-39 posts from November 13 to November 20, 2026? | $0.038 | 0 | 2.3% |
 | Will the median home value in Los Angeles Metro be between $1,115,000  | $0.035 | 0 | 1.3% |
 | Will Mohsen Rezaei attend a US x Iran diplomatic meeting by December 3 | $0.033 | 0 | 1.6% |
+| Will the Republicans win Mississippi in the 2028 Presidential Election | $0.031 | 0 | 1.2% |
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.027 | 0 | 13.0% |
 | Will there be no next Gemini Flash-Lite model (3.6+) release by Novemb | $0.026 | 0 | 0.3% |
 | Will Morena win the most seats in the 2027 Yucatán Congress election? | $0.021 | 1 | 2.5% |
+| Will Caedrel Win the 2026 Esports Content Creator of the Year Award? | $0.017 | 0 | 4.1% |
 | Will Variational launch a token by December 31, 2026? | $0.016 | 0 | 7.8% |
-| Will the Republicans win Mississippi in the 2028 Presidential Election | $0.015 | 0 | 1.1% |
-| Will Caedrel Win the 2026 Esports Content Creator of the Year Award? | $0.010 | 0 | 4.6% |
 | Will Google have the #1 AI model at the end of November 2026? | $0.009 | 0 | 7.4% |
 
-21 times it pulled its orders for safety (fast move or other makers leaving).
+27 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 

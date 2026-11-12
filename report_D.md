@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-8.9 hours, 2026-11-11 20:16:21 → 2026-11-12 05:10:56 UTC, budget $50
+9.4 hours, 2026-11-11 20:16:21 → 2026-11-12 05:40:44 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.12 |
+| Rewards earned | $+0.13 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+0.12** (+0.2%) |
-| At this rate, per day | $+0.34 |
+| **Net result** | **$+0.13** (+0.3%) |
+| At this rate, per day | $+0.33 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -17,8 +17,8 @@
 | Will Google have the #1 AI model at the end of November 2026? | $0.025 | 0 | 6.7% |
 | Will Variational launch a token by December 31, 2026? | $0.022 | 0 | 5.2% |
 | Will Vox win 61-65 seats in the 2026 Spanish general election? | $0.021 | 0 | 3.8% |
-| Tom Holland as Spider-Man? | $0.016 | 0 | 2.2% |
-| Will "GTA VI" have a Metascore of at least 97? | $0.015 | 0 | 1.2% |
+| Will "GTA VI" have a Metascore of at least 97? | $0.020 | 0 | 1.2% |
+| Tom Holland as Spider-Man? | $0.018 | 0 | 2.2% |
 | Ukraine signs peace deal with Russia by December 31, 2027? | $0.012 | 0 | 0.1% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.010 | 0 | 0.6% |
 | Will "GTA VI" have a Metascore of at least 96? | $0.001 | 0 | 0.3% |
