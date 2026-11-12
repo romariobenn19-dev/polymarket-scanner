@@ -114,7 +114,9 @@ class SelectionShare(unittest.TestCase):
     def test_market_where_we_would_be_alone_is_skipped(self):
         cfg = rf.ConfigF()
         pk = rb.Pick("x", "alone", "tx", 5, 4.5, 20, 0.01, "", cost=19, event_id="e9")
-        thin = book([(0.47, 60), (0.40, 5)], [(0.53, 60), (0.60, 5)])  # cover exists but nobody scores much
+        # plenty of shares waiting (cover), but all in orders below the 20-share reward minimum,
+        # so nobody else scores and our share would be ~100%
+        thin = book([(0.49, 15), (0.48, 15), (0.47, 15), (0.40, 100)], [(0.51, 15), (0.52, 15), (0.53, 15), (0.60, 100)])
         saved = (rf.sc.fetch_events, rf.rb.candidates, rf.sc.fetch_books, rf.minute_history)
         try:
             rf.sc.fetch_events = lambda min_liquidity=0: []
