@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-9.4 hours, 2026-11-11 20:16:17 → 2026-11-12 05:40:42 UTC, budget $50
+9.9 hours, 2026-11-11 20:16:17 → 2026-11-12 06:11:04 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.66 |
+| Rewards earned | $+0.72 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.75 |
-| **Net result** | **$-1.09** (-2.2%) |
-| At this rate, per day | $-2.79 |
+| **Net result** | **$-1.03** (-2.1%) |
+| At this rate, per day | $-2.49 |
 | Still holding (at midpoint) | $9.75 |
 
 ## Markets quoted
@@ -15,10 +15,11 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Next Google Gemini Flash-Lite Model (3.6+) released by November 30, 20 | $0.129 | 1 | 1.9% |
-| Will Gemini Krypton debut at a score of at least 1560 by June 30, 2027 | $0.102 | 0 | 25.2% |
-| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.069 | 0 | 0.5% |
+| Will Gemini Krypton debut at a score of at least 1560 by June 30, 2027 | $0.111 | 0 | 6.7% |
+| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.085 | 0 | 0.5% |
 | JD Vance 2028 presidential odds leader on November 30? | $0.061 | 0 | 0.3% |
 | Will Iran target Iraq by November 30, 2026? | $0.043 | 0 | 2.1% |
+| Will Ian Buck be the next CEO of NVIDIA? | $0.037 | 0 | 0.2% |
 | Will Mohsen Rezaei attend a US x Iran diplomatic meeting by December 3 | $0.030 | 0 | 0.5% |
 | Will Ra'am be in the next Israeli government? | $0.028 | 0 | 5.5% |
 | Will Rihanna have the second-greatest number of monthly Spotify listen | $0.028 | 0 | 2.4% |
@@ -36,10 +37,11 @@
 | Will Ben Ferguson be the next White House Press Secretary? | $0.006 | 0 | 1.1% |
 | Will Elon Musk’s net worth be between $800B and $900B on November 30? | $0.006 | 0 | 0.6% |
 | Will the Trump and Xi handshake last 2–6 seconds at APEC? | $0.004 | 0 | 67.1% |
+| Will Anthropic be the #3 AI Lab at the end of November 2026 (Style Con | $0.002 | 0 | 4.5% |
 | DeSantis's Republican nomination odds hit 25% by December 31? | $0.001 | 0 | 0.6% |
 | Vance's Republican nomination odds hit 45% by December 31? | $0.001 | 0 | 1.1% |
 
-40 times it pulled its orders for safety (fast move or other makers leaving).
+43 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
