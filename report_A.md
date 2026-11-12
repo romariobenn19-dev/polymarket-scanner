@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-11.4 hours, 2026-11-11 20:16:11 → 2026-11-12 07:40:47 UTC, budget $50
+11.9 hours, 2026-11-11 20:16:11 → 2026-11-12 08:10:41 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.23 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+4.30 |
-| **Net result** | **$+5.53** (+11.1%) |
-| At this rate, per day | $+11.62 |
-| Still holding (at midpoint) | $23.50 |
+| Rewards earned | $+1.24 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+4.00 |
+| **Net result** | **$+5.24** (+10.5%) |
+| At this rate, per day | $+10.56 |
+| Still holding (at midpoint) | $23.20 |
 
 ## Markets quoted
 
@@ -30,9 +30,11 @@
 | Will Morena win the most seats in the 2027 Yucatán Congress election? | $0.021 | 1 | 2.5% |
 | Will Caedrel Win the 2026 Esports Content Creator of the Year Award? | $0.017 | 0 | 4.1% |
 | Will Variational launch a token by December 31, 2026? | $0.016 | 0 | 7.8% |
+| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.011 | 0 | 2.6% |
 | Will Google have the #1 AI model at the end of November 2026? | $0.009 | 0 | 7.4% |
+| Will "End of Beginning – Djo" be the top song for 2026? | $0.003 | 0 | 1.2% |
 
-49 times it pulled its orders for safety (fast move or other makers leaving).
+51 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 

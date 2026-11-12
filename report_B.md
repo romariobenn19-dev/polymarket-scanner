@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-11.4 hours, 2026-11-11 20:16:17 → 2026-11-12 07:40:52 UTC, budget $50
+11.9 hours, 2026-11-11 20:16:17 → 2026-11-12 08:10:40 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.67 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+5.10 |
-| **Net result** | **$+6.77** (+13.5%) |
-| At this rate, per day | $+14.25 |
-| Still holding (at midpoint) | $42.90 |
+| Rewards earned | $+1.68 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+4.80 |
+| **Net result** | **$+6.48** (+13.0%) |
+| At this rate, per day | $+13.06 |
+| Still holding (at midpoint) | $42.60 |
 
 ## Markets quoted
 
@@ -29,8 +29,9 @@
 | Will Caedrel Win the 2026 Esports Content Creator of the Year Award? | $0.016 | 0 | 3.8% |
 | Will Variational launch a token by December 31, 2026? | $0.013 | 0 | 6.0% |
 | Will Rihanna have the second-greatest number of monthly Spotify listen | $0.007 | 0 | 1.8% |
+| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.006 | 0 | 1.6% |
 
-52 times it pulled its orders for safety (fast move or other makers leaving).
+54 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-11.4 hours, 2026-11-11 20:16:21 → 2026-11-12 07:40:45 UTC, budget $50
+11.9 hours, 2026-11-11 20:16:21 → 2026-11-12 08:10:42 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.15 |
+| Rewards earned | $+0.16 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+0.15** (+0.3%) |
-| At this rate, per day | $+0.32 |
+| **Net result** | **$+0.16** (+0.3%) |
+| At this rate, per day | $+0.31 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -22,6 +22,8 @@
 | Ukraine signs peace deal with Russia by December 31, 2027? | $0.012 | 0 | 0.1% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.010 | 0 | 0.6% |
 | Will "GTA VI" have a Metascore of at least 96? | $0.004 | 0 | 0.3% |
+| Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.003 | 0 | 0.3% |
+| Will Manchester City finish in the top 4 of the 2026-27 English Premie | $0.002 | 0 | 2.3% |
 | Will PRI win the most seats in the 2027 Durango Congress election? | $0.001 | 0 | 1.5% |
 | Will the Golden State Warriors make the 2027 NBA Playoffs? | $0.001 | 0 | 0.4% |
 
