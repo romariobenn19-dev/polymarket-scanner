@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-7.9 hours, 2026-11-11 20:16:11 → 2026-11-12 04:10:47 UTC, budget $50
+8.4 hours, 2026-11-11 20:16:11 → 2026-11-12 04:40:42 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.63 |
+| Rewards earned | $+0.69 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+1.80 |
-| **Net result** | **$+2.43** (+4.9%) |
-| At this rate, per day | $+7.36 |
+| **Net result** | **$+2.49** (+5.0%) |
+| At this rate, per day | $+7.10 |
 | Still holding (at midpoint) | $10.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.190 | 0 | 1.4% |
+| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.243 | 0 | 1.5% |
 | Will Iran target Iraq by November 30, 2026? | $0.129 | 0 | 6.1% |
 | Will the median home value in Miami be between $830,000 and $851,000 o | $0.069 | 0 | 11.0% |
 | Will CZ post 40-59 posts from November 13 to November 20, 2026? | $0.040 | 0 | 3.8% |
@@ -24,10 +24,10 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.027 | 0 | 13.0% |
 | Will there be no next Gemini Flash-Lite model (3.6+) release by Novemb | $0.026 | 0 | 0.3% |
 | Will Morena win the most seats in the 2027 Yucatán Congress election? | $0.021 | 1 | 2.5% |
+| Will Variational launch a token by December 31, 2026? | $0.016 | 0 | 7.8% |
 | Will Google have the #1 AI model at the end of November 2026? | $0.009 | 0 | 7.4% |
-| Will Variational launch a token by December 31, 2026? | $0.008 | 0 | 7.8% |
 
-13 times it pulled its orders for safety (fast move or other makers leaving).
+17 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
