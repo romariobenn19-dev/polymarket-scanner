@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """compare.py - side-by-side results of the paper-test versions."""
+import json
 import os
 import sqlite3
 import sys
@@ -12,8 +13,11 @@ ALL_VERSIONS = [
     ("D", "paper_D.db", "Live feed, trade alarm, history-based picks, learns"),
     ("E", "paper_E.db", "D's protections + A's appetite + time limit on stuck shares, max 2 stuck, queue cover"),
     ("F", "paper_F.db", "E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk"),
+    ("F100", "paper_F100.db", "Version F with $100"),
+    ("F200", "paper_F200.db", "Version F with $200"),
 ]
-VERSIONS = [v for v in ALL_VERSIONS if v[0] in os.environ.get("PAPER_VERSIONS", "AEF")]
+WANTED = os.environ.get("PAPER_VERSIONS", "A,E,F,F100,F200").split(",")
+VERSIONS = [v for v in ALL_VERSIONS if v[0] in WANTED]
 
 
 def paid_rewards(con) -> tuple[float, float]:
@@ -41,21 +45,24 @@ def summary(path):
     fills = con.execute("SELECT COUNT(*) FROM fills").fetchone()[0]
     pauses = con.execute("SELECT COUNT(*) FROM pauses").fetchone()[0]
     markets = [r[0] for r in con.execute("SELECT DISTINCT question FROM accruals")]
-    net = last[0] - 50
+    row = con.execute("SELECT v FROM meta WHERE k='config'").fetchone()
+    budget = json.loads(row[0]).get("budget", 50) if row else 50
+    net = last[0] - budget
     paid_done, paid_today = paid_rewards(con)
-    return dict(paid=paid_done + paid_today, hours=hours, net=net, rewards=last[1], trading=net - last[1], holdings=last[2], worst=worst - 50,
+    return dict(paid=paid_done + paid_today, hours=hours, net=net, rewards=last[1], trading=net - last[1], holdings=last[2], worst=worst - budget, budget=budget,
                 fills=fills, pauses=pauses, per_day=net / hours * 24 if hours > 0.5 else None, markets=markets)
 
 
 def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    L = [f"# Paper test comparison ({now})", "", "Budget $50 each, same live order books, no real orders.", "",
+    L = [f"# Paper test comparison ({now})", "", "Same live order books, no real orders. A and E use $50; F runs with $50, $100 and $200.", "",
          "| | " + " | ".join(f"**{v}**" for v, _, _ in VERSIONS) + " |", "|---|" + "---|" * len(VERSIONS)]
     rows = {v: summary(p) for v, p, _ in VERSIONS}
     def line(label, fn):
         L.append(f"| {label} | " + " | ".join(fn(rows[v]) if rows[v] else "–" for v, _, _ in VERSIONS) + " |")
     line("What it does", lambda r: "")
     L[-1] = "| What it does | " + " | ".join(d for _, _, d in VERSIONS) + " |"
+    line("Budget", lambda r: f"${r['budget']:.0f}")
     line("Hours running", lambda r: f"{r['hours']:.1f}")
     line("Rewards (estimated)", lambda r: f"${r['rewards']:+.2f}")
     line("Rewards Polymarket would pay ($1+/market/day)", lambda r: f"${r['paid']:+.2f}")

@@ -1,4 +1,4 @@
-name: Paper test (rewards bot A/E/F)
+name: Paper test (rewards bot A/E/F at $50/$100/$200)
 
 # Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
 # Each run resumes the saved results from the paper-results branch, runs for `hours`
@@ -43,15 +43,17 @@ jobs:
           fi
           ls -la paper_*.db 2>/dev/null || echo "starting fresh"
 
-      - name: Run versions A, E, F
+      - name: Run versions A, E and F ($50, $100, $200)
         env:
           HOURS: ${{ inputs.hours }}
         run: |
           python3 rewards_bot.py run --hours "$HOURS" --db paper_A.db > paper_A.log 2>&1 & A=$!
           python3 rewards_bot_e.py run --hours "$HOURS" --db paper_E.db > paper_E.log 2>&1 & E=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F.db > paper_F.log 2>&1 & F=$!
+          python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F100.db --budget 100 > paper_F100.log 2>&1 & F100=$!
+          python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F200.db --budget 200 > paper_F200.log 2>&1 & F200=$!
           python3 saver.py > saver.log 2>&1 & S=$!
-          wait $A $E $F || true
+          wait $A $E $F $F100 $F200 || true
           kill $S 2>/dev/null || true
           tail -n 3 paper_*.log
 

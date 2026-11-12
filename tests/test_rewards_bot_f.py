@@ -127,3 +127,12 @@ class SelectionShare(unittest.TestCase):
         finally:
             rf.sc.fetch_events, rf.rb.candidates, rf.sc.fetch_books, rf.minute_history = saved
         self.assertEqual(chosen, [])
+
+
+class Budgets(unittest.TestCase):
+    def test_same_rules_more_money(self):
+        for budget, per, loss, mult in ((50, 25, 7.5, 4), (100, 50, 15, 8), (200, 100, 30, 16)):
+            cfg = rf.budget_config(budget)
+            self.assertEqual((cfg.budget, cfg.max_per_market, cfg.daily_loss_limit, cfg.max_size_mult), (budget, per, loss, mult))
+            self.assertEqual(cfg.max_markets, 2)
+            self.assertEqual(cfg.min_daily_per_market, 1.25)

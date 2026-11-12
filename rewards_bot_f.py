@@ -404,14 +404,26 @@ class PaperBotF(re_.PaperBotE):
         self.save_state()
 
 
+def budget_config(budget: float) -> ConfigF:
+    """Same rules for every budget; only the money (and so the order sizes) changes:
+    at most half per market (80% if only one market qualifies), daily loss limit 15%."""
+    cfg = ConfigF()
+    cfg.budget = budget
+    cfg.max_per_market = budget / 2
+    cfg.daily_loss_limit = budget * 0.15
+    cfg.max_size_mult = max(4, int(budget // 12.5))
+    return cfg
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Liquidity-rewards bot version F (paper mode)")
     ap.add_argument("command", choices=["run", "report", "pick"])
     ap.add_argument("--hours", type=float, default=6)
     ap.add_argument("--db", default="paper_F.db")
     ap.add_argument("--out")
+    ap.add_argument("--budget", type=float, default=50.0, help="paper money (default $50)")
     args = ap.parse_args(argv)
-    cfg = ConfigF()
+    cfg = budget_config(args.budget)
     if args.command == "pick":
         pick_markets_f(cfg)
         return 0
