@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-6.1 hours, 2026-11-12 16:57:15 → 2026-11-12 23:05:29 UTC, budget $200
+6.6 hours, 2026-11-12 16:57:15 → 2026-11-12 23:35:46 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+0.85 |
+| Rewards earned | $+0.92 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+0.85** (+0.4%) |
+| **Net result** | **$+0.92** (+0.5%) |
 | At this rate, per day | $+3.33 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,10 +14,10 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Another GTA VI trailer released by November 30? | $0.455 | 0 | 5.4% |
+| Another GTA VI trailer released by November 30? | $0.488 | 0 | 5.2% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
+| Will "Encore" be played last at the 2027 Big Game halftime show? | $0.114 | 0 | 0.6% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
-| Will "Encore" be played last at the 2027 Big Game halftime show? | $0.077 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 
