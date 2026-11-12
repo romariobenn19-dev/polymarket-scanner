@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-8.4 hours, 2026-11-11 20:16:11 → 2026-11-12 04:40:42 UTC, budget $50
+8.9 hours, 2026-11-11 20:16:11 → 2026-11-12 05:10:57 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.69 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+1.80 |
-| **Net result** | **$+2.49** (+5.0%) |
-| At this rate, per day | $+7.10 |
-| Still holding (at midpoint) | $10.00 |
+| Rewards earned | $+0.71 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+5.30 |
+| **Net result** | **$+6.01** (+12.0%) |
+| At this rate, per day | $+16.19 |
+| Still holding (at midpoint) | $13.50 |
 
 ## Markets quoted
 
@@ -25,9 +25,11 @@
 | Will there be no next Gemini Flash-Lite model (3.6+) release by Novemb | $0.026 | 0 | 0.3% |
 | Will Morena win the most seats in the 2027 Yucatán Congress election? | $0.021 | 1 | 2.5% |
 | Will Variational launch a token by December 31, 2026? | $0.016 | 0 | 7.8% |
+| Will the Republicans win Mississippi in the 2028 Presidential Election | $0.015 | 0 | 1.1% |
+| Will Caedrel Win the 2026 Esports Content Creator of the Year Award? | $0.010 | 0 | 4.6% |
 | Will Google have the #1 AI model at the end of November 2026? | $0.009 | 0 | 7.4% |
 
-17 times it pulled its orders for safety (fast move or other makers leaving).
+21 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
