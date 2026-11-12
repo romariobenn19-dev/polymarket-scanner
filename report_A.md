@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-1.6 hours, 2026-11-12 15:14:48 → 2026-11-12 16:53:07 UTC, budget $50
+2.2 hours, 2026-11-12 15:14:48 → 2026-11-12 17:26:34 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.13 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.10 |
-| **Net result** | **$+0.23** (+0.5%) |
-| At this rate, per day | $+3.42 |
-| Still holding (at midpoint) | $16.10 |
+| Rewards earned | $+0.16 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+1.50 |
+| **Net result** | **$+1.66** (+3.3%) |
+| At this rate, per day | $+18.09 |
+| Still holding (at midpoint) | $17.50 |
 
 ## Markets quoted
 
@@ -17,9 +17,11 @@
 | Jensen Huang admits to another affair by December 31? | $0.064 | 0 | 1.0% |
 | Will Joe Henley win The Voice: Season 30? | $0.034 | 0 | 0.7% |
 | Will Diable play for Bilibili Gaming in 2027? | $0.030 | 0 | 3.4% |
+| Will Anthropic be the second-best AI lab at the end of November 2026? | $0.020 | 0 | 15.6% |
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
+| Will the next Fable model (5.2+) debut at a score of at least 1510 by  | $0.003 | 0 | 1.1% |
 
-5 times it pulled its orders for safety (fast move or other makers leaving).
+7 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
