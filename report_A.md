@@ -1,22 +1,22 @@
 # Rewards bot: paper results
 
-9.9 hours, 2026-11-11 20:16:11 → 2026-11-12 06:11:04 UTC, budget $50
+10.4 hours, 2026-11-11 20:16:11 → 2026-11-12 06:40:44 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.89 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+3.50 |
-| **Net result** | **$+4.39** (+8.8%) |
-| At this rate, per day | $+10.63 |
-| Still holding (at midpoint) | $11.70 |
+| Rewards earned | $+1.09 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+5.10 |
+| **Net result** | **$+6.19** (+12.4%) |
+| At this rate, per day | $+14.28 |
+| Still holding (at midpoint) | $13.30 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.292 | 0 | 1.4% |
+| Will there be no next Meta Muse Spark model release by November 30, 20 | $0.357 | 0 | 1.5% |
+| Will Ian Buck be the next CEO of NVIDIA? | $0.245 | 0 | 1.0% |
 | Will Iran target Iraq by November 30, 2026? | $0.129 | 0 | 6.1% |
-| Will Ian Buck be the next CEO of NVIDIA? | $0.107 | 0 | 0.7% |
 | Will the median home value in Miami be between $830,000 and $851,000 o | $0.069 | 0 | 11.0% |
 | Will CZ post 40-59 posts from November 13 to November 20, 2026? | $0.040 | 0 | 3.8% |
 | Will CZ post 20-39 posts from November 13 to November 20, 2026? | $0.038 | 0 | 2.3% |
@@ -30,7 +30,7 @@
 | Will Variational launch a token by December 31, 2026? | $0.016 | 0 | 7.8% |
 | Will Google have the #1 AI model at the end of November 2026? | $0.009 | 0 | 7.4% |
 
-32 times it pulled its orders for safety (fast move or other makers leaving).
+38 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 

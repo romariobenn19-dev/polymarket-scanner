@@ -1,18 +1,18 @@
-# Paper test comparison (2026-11-12 06:11 UTC)
+# Paper test comparison (2026-11-12 06:41 UTC)
 
 Budget $50 each, same live order books, no real orders.
 
 | | **A** | **B** | **C** | **D** |
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | Both sides, quarter of the way out (closer to the price) | Buy side only, 4 markets | Live feed, trade alarm, history-based picks, learns (started ~1h later) |
-| Hours running | 9.1 | 9.1 | 9.1 | 9.0 |
-| Rewards | $+0.89 | $+1.27 | $+0.72 | $+0.14 |
-| Gain/loss on shares | $+3.50 | $+5.30 | $-1.75 | $-0.00 |
-| **Net result** | **$+4.39** | **$+6.57** | **$-1.03** | **$+0.14** |
-| Net per day (at this pace) | $+11.62 | $+17.34 | $-2.73 | $+0.36 |
+| Hours running | 9.6 | 9.6 | 9.6 | 9.5 |
+| Rewards | $+1.09 | $+1.47 | $+0.81 | $+0.14 |
+| Gain/loss on shares | $+5.10 | $+6.00 | $-2.00 | $+0.00 |
+| **Net result** | **$+6.19** | **$+7.47** | **$-1.19** | **$+0.14** |
+| Net per day (at this pace) | $+15.54 | $+18.70 | $-3.00 | $+0.36 |
 | Worst point | $-1.20 | $-1.23 | $-1.61 | $+0.00 |
 | Fills | 1 | 3 | 1 | 0 |
-| Safety pauses | 32 | 36 | 43 | 0 |
+| Safety pauses | 38 | 42 | 45 | 0 |
 
 - **A** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 40-59 posts from November 13 to November 20, 20; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release; Will there be no next Meta Muse Spark model release by Novem; Will Google have the #1 AI model at the end of November 2026; Will the median home value in Los Angeles Metro be between $; Will Variational launch a token by December 31, 2026?; Will the Republicans win Mississippi in the 2028 Presidentia; Will Caedrel Win the 2026 Esports Content Creator of the Yea; Will Ian Buck be the next CEO of NVIDIA?
 - **B** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release; Will there be no next Meta Muse Spark model release by Novem; Will the median home value in Los Angeles Metro be between $; Will Variational launch a token by December 31, 2026?; Will the Republicans win Mississippi in the 2028 Presidentia; Will Caedrel Win the 2026 Esports Content Creator of the Yea; Will Ian Buck be the next CEO of NVIDIA?
