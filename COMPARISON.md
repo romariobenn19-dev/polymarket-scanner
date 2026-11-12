@@ -1,18 +1,18 @@
-# Paper test comparison (2026-11-12 03:10 UTC)
+# Paper test comparison (2026-11-12 03:40 UTC)
 
 Budget $50 each, same live order books, no real orders.
 
 | | **A** | **B** | **C** | **D** |
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | Both sides, quarter of the way out (closer to the price) | Buy side only, 4 markets | Live feed, trade alarm, history-based picks, learns (started ~1h later) |
-| Hours running | 6.1 | 6.1 | 6.1 | 6.1 |
-| Rewards | $+0.51 | $+0.63 | $+0.49 | $+0.09 |
-| Gain/loss on shares | $-0.20 | $+0.10 | $-0.00 | $-0.00 |
-| **Net result** | **$+0.31** | **$+0.73** | **$+0.49** | **$+0.09** |
-| Net per day (at this pace) | $+1.21 | $+2.86 | $+1.93 | $+0.36 |
+| Hours running | 6.6 | 6.6 | 6.6 | 6.6 |
+| Rewards | $+0.57 | $+0.74 | $+0.52 | $+0.10 |
+| Gain/loss on shares | $+1.40 | $+1.70 | $+0.00 | $+0.00 |
+| **Net result** | **$+1.97** | **$+2.44** | **$+0.52** | **$+0.10** |
+| Net per day (at this pace) | $+7.17 | $+8.90 | $+1.90 | $+0.35 |
 | Worst point | $-1.20 | $-1.23 | $+0.00 | $+0.00 |
 | Fills | 1 | 2 | 0 | 0 |
-| Safety pauses | 9 | 14 | 22 | 0 |
+| Safety pauses | 10 | 15 | 26 | 0 |
 
 - **A** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 40-59 posts from November 13 to November 20, 20; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release; Will there be no next Meta Muse Spark model release by Novem; Will Google have the #1 AI model at the end of November 2026; Will the median home value in Los Angeles Metro be between $
 - **B** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release; Will there be no next Meta Muse Spark model release by Novem; Will the median home value in Los Angeles Metro be between $
