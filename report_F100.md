@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-2.0 hours, 2026-11-12 16:57:15 → 2026-11-12 18:56:34 UTC, budget $100
+2.5 hours, 2026-11-12 16:57:15 → 2026-11-12 19:26:47 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+0.32 |
+| Rewards earned | $+0.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+0.32** (+0.3%) |
-| At this rate, per day | $+3.80 |
+| **Net result** | **$+0.37** (+0.4%) |
+| At this rate, per day | $+3.57 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Another GTA VI trailer released by November 30? | $0.191 | 0 | 9.1% |
+| Another GTA VI trailer released by November 30? | $0.246 | 0 | 7.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 
