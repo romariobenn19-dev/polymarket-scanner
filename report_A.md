@@ -1,22 +1,23 @@
 # Rewards bot: paper results
 
-5.8 hours, 2026-11-12 15:14:48 → 2026-11-12 21:01:55 UTC, budget $50
+6.3 hours, 2026-11-12 15:14:48 → 2026-11-12 21:35:30 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.41 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+1.70 |
-| **Net result** | **$+2.11** (+4.2%) |
-| At this rate, per day | $+8.76 |
-| Still holding (at midpoint) | $17.70 |
+| Rewards earned | $+0.49 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+2.20 |
+| **Net result** | **$+2.69** (+5.4%) |
+| At this rate, per day | $+10.17 |
+| Still holding (at midpoint) | $18.20 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
+| Will NVIDIA's next CEO be an internal candidate? | $0.133 | 0 | 1.3% |
 | Will Diable play for Bilibili Gaming in 2027? | $0.102 | 0 | 6.8% |
-| Will NVIDIA's next CEO be an internal candidate? | $0.095 | 0 | 1.4% |
 | Jensen Huang admits to another affair by December 31? | $0.064 | 0 | 1.0% |
+| Will the D66–VVD–CDA Dutch coalition break in 2026? | $0.044 | 0 | 3.6% |
 | Will Joe Henley win The Voice: Season 30? | $0.034 | 0 | 0.7% |
 | Will Anthropic be the second-best AI lab at the end of November 2026? | $0.031 | 0 | 12.3% |
 | Will Anthropic raise between $75B and $85B in its IPO? | $0.029 | 0 | 3.5% |
@@ -25,9 +26,8 @@
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.008 | 0 | 3.2% |
 | Will the next Fable model (5.2+) debut at a score of at least 1510 by  | $0.006 | 0 | 1.0% |
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
-| Will the D66–VVD–CDA Dutch coalition break in 2026? | $0.005 | 0 | 3.0% |
 
-38 times it pulled its orders for safety (fast move or other makers leaving).
+40 times it pulled its orders for safety (fast move or other makers leaving).
 
 1 paper fills (price moved through our order).
 
