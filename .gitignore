@@ -11,3 +11,5 @@ paper_*.db
 paper_*.log
 saver.log
 part1/
+research/cache.db
+research/cache_*.db
