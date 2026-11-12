@@ -1,18 +1,18 @@
-# Paper test comparison (2026-11-12 01:31 UTC)
+# Paper test comparison (2026-11-12 02:01 UTC)
 
 Budget $50 each, same live order books, no real orders.
 
 | | **A** | **B** | **C** | **D** |
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | Both sides, quarter of the way out (closer to the price) | Buy side only, 4 markets | Live feed, trade alarm, history-based picks, learns (started ~1h later) |
-| Hours running | 4.6 | 4.6 | 4.6 | 4.6 |
-| Rewards | $+0.36 | $+0.41 | $+0.37 | $+0.06 |
-| Gain/loss on shares | $+0.10 | $+0.30 | $+0.00 | $-0.00 |
-| **Net result** | **$+0.46** | **$+0.71** | **$+0.37** | **$+0.06** |
-| Net per day (at this pace) | $+2.42 | $+3.68 | $+1.91 | $+0.33 |
+| Hours running | 5.1 | 5.1 | 5.1 | 5.1 |
+| Rewards | $+0.38 | $+0.45 | $+0.41 | $+0.07 |
+| Gain/loss on shares | $+0.10 | $+0.30 | $-0.00 | $+0.00 |
+| **Net result** | **$+0.48** | **$+0.75** | **$+0.41** | **$+0.07** |
+| Net per day (at this pace) | $+2.27 | $+3.53 | $+1.91 | $+0.35 |
 | Worst point | $-1.20 | $-1.23 | $+0.00 | $+0.00 |
 | Fills | 1 | 2 | 0 | 0 |
-| Safety pauses | 9 | 14 | 14 | 0 |
+| Safety pauses | 9 | 14 | 16 | 0 |
 
 - **A** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 40-59 posts from November 13 to November 20, 20; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release
 - **B** markets: Will Iran target Iraq by November 30, 2026?; Will the median home value in Miami be between $830,000 and ; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Morena win the most seats in the 2027 Yucatán Congress ; Will Mohsen Rezaei attend a US x Iran diplomatic meeting by ; Will CZ post 20-39 posts from November 13 to November 20, 20; Will there be no next Gemini Flash-Lite model (3.6+) release
