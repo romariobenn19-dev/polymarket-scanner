@@ -1,15 +1,15 @@
-# Paper test comparison (2026-11-12 00:31 UTC)
+# Paper test comparison (2026-11-12 01:01 UTC)
 
 Budget $50 each, same live order books, no real orders.
 
 | | **A** | **B** | **C** | **D** |
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | Both sides, quarter of the way out (closer to the price) | Buy side only, 4 markets | Live feed, trade alarm, history-based picks, learns (started ~1h later) |
-| Hours running | 3.6 | 3.6 | 3.6 | 3.6 |
-| Rewards | $+0.30 | $+0.31 | $+0.31 | $+0.05 |
-| Gain/loss on shares | $+0.30 | $+0.50 | $+0.00 | $-0.00 |
-| **Net result** | **$+0.60** | **$+0.81** | **$+0.31** | **$+0.05** |
-| Net per day (at this pace) | $+4.01 | $+5.41 | $+2.08 | $+0.33 |
+| Hours running | 4.1 | 4.1 | 4.1 | 4.1 |
+| Rewards | $+0.34 | $+0.36 | $+0.33 | $+0.05 |
+| Gain/loss on shares | $+0.10 | $+0.30 | $-0.00 | $+0.00 |
+| **Net result** | **$+0.44** | **$+0.66** | **$+0.33** | **$+0.05** |
+| Net per day (at this pace) | $+2.57 | $+3.85 | $+1.94 | $+0.32 |
 | Worst point | $-1.20 | $-1.23 | $+0.00 | $+0.00 |
 | Fills | 1 | 2 | 0 | 0 |
 | Safety pauses | 8 | 13 | 10 | 0 |
