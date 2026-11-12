@@ -108,3 +108,20 @@ class Selection(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SelectionShare(unittest.TestCase):
+    def test_market_where_we_would_be_alone_is_skipped(self):
+        cfg = rf.ConfigF()
+        pk = rb.Pick("x", "alone", "tx", 5, 4.5, 20, 0.01, "", cost=19, event_id="e9")
+        thin = book([(0.47, 60), (0.40, 5)], [(0.53, 60), (0.60, 5)])  # cover exists but nobody scores much
+        saved = (rf.sc.fetch_events, rf.rb.candidates, rf.sc.fetch_books, rf.minute_history)
+        try:
+            rf.sc.fetch_events = lambda min_liquidity=0: []
+            rf.rb.candidates = lambda cfg, events: [rb.Pick(**vars(pk))]
+            rf.sc.fetch_books = lambda tokens: {t: thin for t in tokens}
+            rf.minute_history = lambda token: [0.5] * 500
+            chosen = rf.pick_markets_f(cfg, verbose=False)
+        finally:
+            rf.sc.fetch_events, rf.rb.candidates, rf.sc.fetch_books, rf.minute_history = saved
+        self.assertEqual(chosen, [])

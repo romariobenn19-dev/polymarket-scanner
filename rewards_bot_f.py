@@ -160,6 +160,8 @@ def pick_markets_f(cfg: ConfigF, banned: set[str] = frozenset(), avoid_events: s
                 break
         if mid is None or (bid is None and ask is None) or p.est_daily < cfg.min_daily_per_market:
             continue
+        if p.est_daily > cfg.max_share * p.daily_rate:
+            continue  # we'd hold most of the rewards: the 30% safety rule would pause us at once
         size = p.min_size * p.size_mult
         distance = min(d for d in ((mid - bid) if bid is not None else 1, (ask - mid) if ask is not None else 1))
         p.risk = minute_swing_loss(minute_history(p.token), distance, size)
