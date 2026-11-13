@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-24.2 hours, 2026-11-12 15:14:54 → 2026-11-13 15:28:12 UTC, budget $50
+24.7 hours, 2026-11-12 15:14:54 → 2026-11-13 15:57:53 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.56 |
+| Rewards earned | $+0.58 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-0.84** (-1.7%) |
-| At this rate, per day | $-0.83 |
+| **Net result** | **$-0.82** (-1.6%) |
+| At this rate, per day | $-0.80 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,12 +15,12 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.162 | 0 | 2.9% |
-| Will Google be the second-best AI Agent Lab at the end of November 202 | $0.118 | 0 | 8.4% |
+| Will Google be the second-best AI Agent Lab at the end of November 202 | $0.129 | 0 | 9.1% |
 | Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.051 | 0 | 1.7% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
 | US reissues Iran oil sanction relief by December 31? | $0.036 | 0 | 3.7% |
 | Will the Ornn A100 Index be between $1.00 and $1.25 on November 30, 20 | $0.032 | 0 | 6.4% |
-| Will Meta be the third-best AI lab at the end of January 2027? | $0.019 | 0 | 4.2% |
+| Will Meta be the third-best AI lab at the end of January 2027? | $0.024 | 0 | 4.1% |
 | Will "Blinding Lights" by The Weeknd be on the radio in GTA VI at laun | $0.016 | 0 | 3.9% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.016 | 2 | 0.7% |
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
@@ -34,7 +34,7 @@
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
 | Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
 
-8 times it pulled its orders for safety (fast move or other makers leaving).
+11 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
