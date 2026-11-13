@@ -1,19 +1,20 @@
 # Version G (fade sudden rises): paper results
 
-4.9 hours, budget $50, $5 per trade
+5.4 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 39 (9 traded) |
+| Signals found | 42 (10 traded) |
 | Closed trades | 3 (1 profitable) |
 | Profit on closed trades | $-2.02 |
-| Open trades | 6 (worth $29.93 if sold now) |
-| **Total now** | **$47.28 (-2.72)** |
+| Open trades | 7 (worth $32.85 if sold now) |
+| **Total now** | **$45.08 (-4.92)** |
 
 ## Trades
 
 | Market | YES at signal | Rise | NO bought | NO sold | Exit | PnL |
 |---|---|---|---|---|---|---|
+| Will Export-control chip security become law this year? | 60¢ | +18¢ | 42.0¢ |  | open |  |
 | Will Jensen Huang's resignation or removal be announced | 60¢ | +20¢ | 42.0¢ |  | open |  |
 | Will Howard Lutnick leave the Trump administration befo | 41¢ | +15¢ | 60.0¢ |  | open |  |
 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | 54¢ | +38¢ | 46.9¢ | 77.1¢ | take profit | $+2.99 |
@@ -34,6 +35,7 @@
 | spread 21.0c too wide | 2 |
 | spread 16.0c too wide | 2 |
 | already holding this event | 2 |
+| spread 84.8c too wide | 1 |
 | spread 60.7c too wide | 1 |
 | spread 51.1c too wide | 1 |
 | spread 5.0c too wide | 1 |
@@ -47,6 +49,7 @@
 | spread 22.0c too wide | 1 |
 | spread 21.5c too wide | 1 |
 | spread 19.3c too wide | 1 |
+| spread 14.7c too wide | 1 |
 | spread 13.9c too wide | 1 |
 | spread 12.8c too wide | 1 |
 | spread 12.0c too wide | 1 |

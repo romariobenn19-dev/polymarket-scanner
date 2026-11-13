@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-9.1 hours, 2026-11-12 16:57:15 → 2026-11-13 02:05:31 UTC, budget $100
+9.6 hours, 2026-11-12 16:57:15 → 2026-11-13 02:35:29 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+0.95 |
+| Rewards earned | $+0.99 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+0.95** (+0.9%) |
-| At this rate, per day | $+2.48 |
+| **Net result** | **$+0.99** (+1.0%) |
+| At this rate, per day | $+2.46 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,6 +18,7 @@
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
+| Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 
 0 times it pulled its orders for safety (fast move or other makers leaving).
