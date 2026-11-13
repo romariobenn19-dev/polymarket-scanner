@@ -17,13 +17,13 @@ def run(cmd, cwd=HERE):
 def save_once():
     try:
         run(["python3", "compare.py", str(OUT / "COMPARISON.md")])
-        for v in os.environ.get("PAPER_VERSIONS", "A,E,F,F100,F200,G").split(","):
+        for v in os.environ.get("PAPER_VERSIONS", "A,E,F,F100,F200,G,H").split(","):
             db = HERE / f"paper_{v}.db"
             if db.exists():
                 src, dst = sqlite3.connect(db), sqlite3.connect(OUT / f"paper_{v}.db")
                 src.backup(dst)
                 src.close(); dst.close()
-                tool = "jump_bot.py" if v == "G" else "rewards_bot.py"
+                tool = {"G": "jump_bot.py", "H": "settle_bot.py"}.get(v, "rewards_bot.py")
                 run(["python3", tool, "report", "--db", str(db), "--out", str(OUT / f"report_{v}.md")])
         run(["git", "add", "-A"], OUT)
         stamp = time.strftime("%H:%M", time.gmtime())
