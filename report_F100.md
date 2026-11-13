@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-25.5 hours, 2026-11-12 16:57:15 → 2026-11-13 18:28:54 UTC, budget $100
+26.0 hours, 2026-11-12 16:57:15 → 2026-11-13 18:59:01 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+1.65 |
+| Rewards earned | $+1.67 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+1.65** (+1.6%) |
-| At this rate, per day | $+1.55 |
+| **Net result** | **$+1.67** (+1.7%) |
+| At this rate, per day | $+1.54 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -22,11 +22,12 @@
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
+| US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
-| US x Iran Effective Ceasefire by November 30? | $0.031 | 0 | 0.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
+| Will Elon Musk post 1000+ tweets in November 2026? | $0.001 | 0 | 1.8% |
 
 11 times it pulled its orders for safety (fast move or other makers leaving).
 

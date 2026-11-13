@@ -1,22 +1,22 @@
 # Rewards bot: paper results
 
-27.2 hours, 2026-11-12 15:14:48 → 2026-11-13 18:28:55 UTC, budget $50
+27.7 hours, 2026-11-12 15:14:48 → 2026-11-13 18:59:03 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.32 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+7.90 |
-| **Net result** | **$+9.22** (+18.4%) |
-| At this rate, per day | $+8.13 |
-| Still holding (at midpoint) | $57.70 |
+| Rewards earned | $+1.34 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+3.40 |
+| **Net result** | **$+4.74** (+9.5%) |
+| At this rate, per day | $+4.10 |
+| Still holding (at midpoint) | $53.20 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Jensen Huang rejoin NVIDIA by December 31, 2027? | $0.234 | 1 | 1.9% |
+| Will Jensen Huang publicly testify before Congress by June 30, 2027? | $0.217 | 1 | 0.5% |
 | Will NVIDIA's next CEO be an internal candidate? | $0.217 | 1 | 1.0% |
-| Will Jensen Huang publicly testify before Congress by June 30, 2027? | $0.200 | 1 | 0.6% |
 | Jensen Huang admits to another affair by December 31? | $0.129 | 0 | 0.3% |
 | Will Diable play for Bilibili Gaming in 2027? | $0.114 | 0 | 4.8% |
 | Will the D66–VVD–CDA Dutch coalition break in 2026? | $0.112 | 1 | 3.6% |
@@ -35,7 +35,7 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-174 times it pulled its orders for safety (fast move or other makers leaving).
+182 times it pulled its orders for safety (fast move or other makers leaving).
 
 5 paper fills (price moved through our order).
 
