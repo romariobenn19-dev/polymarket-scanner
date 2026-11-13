@@ -1,19 +1,20 @@
 # Version G (fade sudden rises): paper results
 
-2.9 hours, budget $50, $5 per trade
+3.5 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 35 (8 traded) |
+| Signals found | 36 (9 traded) |
 | Closed trades | 2 (1 profitable) |
 | Profit on closed trades | $+0.01 |
-| Open trades | 6 (worth $29.02 if sold now) |
-| **Total now** | **$48.35 (-1.65)** |
+| Open trades | 7 (worth $32.25 if sold now) |
+| **Total now** | **$46.46 (-3.54)** |
 
 ## Trades
 
 | Market | YES at signal | Rise | NO bought | NO sold | Exit | PnL |
 |---|---|---|---|---|---|---|
+| Will Jensen Huang's resignation or removal be announced | 60¢ | +20¢ | 42.0¢ |  | open |  |
 | Will Howard Lutnick leave the Trump administration befo | 41¢ | +15¢ | 60.0¢ |  | open |  |
 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | 54¢ | +38¢ | 46.9¢ | 77.1¢ | take profit | $+2.99 |
 | Tesla and SpaceX merger officially announced by January | 46¢ | +27¢ | 56.0¢ |  | open |  |
