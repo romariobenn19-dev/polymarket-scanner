@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-13.2 hours, 2026-11-12 16:57:15 → 2026-11-13 06:08:18 UTC, budget $200
+13.7 hours, 2026-11-12 16:57:15 → 2026-11-13 06:38:46 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+1.38 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+1.38** (+0.7%) |
-| At this rate, per day | $+2.51 |
+| Rewards earned | $+1.40 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+1.40** (+0.7%) |
+| At this rate, per day | $+2.46 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -21,6 +21,7 @@
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
+| Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.026 | 0 | 2.2% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
 3 times it pulled its orders for safety (fast move or other makers leaving).

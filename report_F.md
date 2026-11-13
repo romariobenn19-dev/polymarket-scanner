@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-14.9 hours, 2026-11-12 15:14:49 → 2026-11-13 06:08:18 UTC, budget $50
+15.4 hours, 2026-11-12 15:14:49 → 2026-11-13 06:38:46 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+0.04 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
 | **Net result** | **$+0.04** (+0.1%) |
-| At this rate, per day | $+0.07 |
+| At this rate, per day | $+0.06 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
