@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-25.0 hours, 2026-11-12 16:57:15 → 2026-11-13 17:57:51 UTC, budget $200
+25.5 hours, 2026-11-12 16:57:15 → 2026-11-13 18:28:55 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.23 |
+| Rewards earned | $+2.29 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+2.23** (+1.1%) |
-| At this rate, per day | $+2.14 |
+| **Net result** | **$+2.29** (+1.1%) |
+| At this rate, per day | $+2.16 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -26,6 +26,8 @@
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
+| US x Iran Effective Ceasefire by November 30? | $0.030 | 0 | 0.3% |
+| Will Elon Musk post 1000+ tweets in November 2026? | $0.030 | 0 | 2.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
