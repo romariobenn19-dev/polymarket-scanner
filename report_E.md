@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-23.2 hours, 2026-11-12 15:14:54 → 2026-11-13 14:27:54 UTC, budget $50
+23.7 hours, 2026-11-12 15:14:54 → 2026-11-13 14:57:51 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.43 |
+| Rewards earned | $+0.44 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-0.97** (-1.9%) |
-| At this rate, per day | $-1.01 |
+| **Net result** | **$-0.96** (-1.9%) |
+| At this rate, per day | $-0.97 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,14 +18,14 @@
 | Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.051 | 0 | 1.7% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
 | US reissues Iran oil sanction relief by December 31? | $0.036 | 0 | 3.7% |
-| Will the Ornn A100 Index be between $1.00 and $1.25 on November 30, 20 | $0.023 | 0 | 6.1% |
+| Will the Ornn A100 Index be between $1.00 and $1.25 on November 30, 20 | $0.032 | 0 | 6.4% |
 | Will "Blinding Lights" by The Weeknd be on the radio in GTA VI at laun | $0.016 | 0 | 3.9% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.016 | 2 | 0.7% |
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.013 | 0 | 0.5% |
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.013 | 0 | 5.1% |
+| Will Meta be the third-best AI lab at the end of January 2027? | $0.011 | 0 | 3.9% |
 | Will the Bank of Russia announce no change at the December 2026 meetin | $0.011 | 0 | 1.2% |
-| Will Meta be the third-best AI lab at the end of January 2027? | $0.007 | 0 | 5.1% |
 | Will "Babydoll — Dominic Fike" be the top song for 2026? | $0.007 | 0 | 3.5% |
 | Will Karl-Anthony Towns lead the NBA in rebounds per game in 2026-27? | $0.005 | 0 | 1.7% |
 | Tom Holland as Spider-Man? | $0.004 | 0 | 2.0% |

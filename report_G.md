@@ -1,20 +1,21 @@
 # Version G (fade sudden rises): paper results
 
-17.3 hours, budget $50, $5 per trade
+17.8 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 70 (12 traded) |
-| Closed trades | 4 (1 profitable) |
-| Profit on closed trades | $-5.37 |
-| Open trades | 8 (worth $40.24 if sold now) |
-| **Total now** | **$43.99 (-6.01)** |
+| Signals found | 73 (13 traded) |
+| Closed trades | 5 (1 profitable) |
+| Profit on closed trades | $-7.34 |
+| Open trades | 8 (worth $38.58 if sold now) |
+| **Total now** | **$40.32 (-9.68)** |
 
 ## Trades
 
 | Market | YES at signal | Rise | NO bought | NO sold | Exit | PnL |
 |---|---|---|---|---|---|---|
-| Howard Lutnick out as Secretary of Commerce by December | 48¢ | +21¢ | 53.0¢ |  | open |  |
+| Monastir: Pedro Vives Marcos vs Alejandro Moro Canas | 57¢ | +25¢ | 43.0¢ |  | open |  |
+| Howard Lutnick out as Secretary of Commerce by December | 48¢ | +21¢ | 53.0¢ | 34.0¢ | stop loss | $-1.97 |
 | Will Ethereum dip to $1,800 in November? | 56¢ | +23¢ | 45.0¢ |  | open |  |
 | Will Export-control chip security become law this year? | 60¢ | +18¢ | 42.0¢ |  | open |  |
 | Will Jensen Huang's resignation or removal be announced | 60¢ | +20¢ | 42.0¢ |  | open |  |
@@ -31,7 +32,7 @@
 
 | Reason | Count |
 |---|---|
-| budget in use | 10 |
+| budget in use | 11 |
 | spread 15.0c too wide | 4 |
 | already holding this event | 4 |
 | spread 21.0c too wide | 3 |
@@ -51,6 +52,7 @@
 | spread 49.5c too wide | 1 |
 | spread 44.0c too wide | 1 |
 | spread 41.0c too wide | 1 |
+| spread 40.0c too wide | 1 |
 | spread 39.0c too wide | 1 |
 | spread 38.0c too wide | 1 |
 | spread 34.0c too wide | 1 |

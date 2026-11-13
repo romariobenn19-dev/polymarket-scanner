@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-21.5 hours, 2026-11-12 16:57:15 → 2026-11-13 14:27:57 UTC, budget $100
+22.0 hours, 2026-11-12 16:57:15 → 2026-11-13 14:57:51 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+1.25 |
+| Rewards earned | $+1.27 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+1.25** (+1.2%) |
-| At this rate, per day | $+1.39 |
+| **Net result** | **$+1.27** (+1.3%) |
+| At this rate, per day | $+1.38 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Another GTA VI trailer released by November 30? | $0.750 | 0 | 4.2% |
+| Another GTA VI trailer released by November 30? | $0.771 | 0 | 4.1% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
@@ -23,7 +23,7 @@
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 
-2 times it pulled its orders for safety (fast move or other makers leaving).
+4 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 

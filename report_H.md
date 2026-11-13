@@ -1,6 +1,6 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-10.2 hours, budget $50, $10 per trade
+10.8 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
