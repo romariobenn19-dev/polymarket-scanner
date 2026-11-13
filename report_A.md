@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-15.9 hours, 2026-11-12 15:14:48 → 2026-11-13 07:08:17 UTC, budget $50
+16.4 hours, 2026-11-12 15:14:48 → 2026-11-13 07:38:56 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.02 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+1.90 |
-| **Net result** | **$+2.92** (+5.8%) |
-| At this rate, per day | $+4.40 |
-| Still holding (at midpoint) | $39.50 |
+| Rewards earned | $+1.07 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+2.00 |
+| **Net result** | **$+3.07** (+6.1%) |
+| At this rate, per day | $+4.50 |
+| Still holding (at midpoint) | $39.60 |
 
 ## Markets quoted
 
@@ -21,8 +21,10 @@
 | Will the D66–VVD–CDA Dutch coalition break in 2026? | $0.112 | 1 | 3.6% |
 | Next Russia-Ukraine senior diplomatic meeting by November 30, 2026? | $0.041 | 0 | 2.0% |
 | Will Joe Henley win The Voice: Season 30? | $0.034 | 0 | 0.7% |
+| Will Jensen Huang publicly testify before Congress by December 31, 202 | $0.032 | 0 | 1.6% |
 | Will Anthropic be the second-best AI lab at the end of November 2026? | $0.031 | 0 | 12.3% |
 | Will Anthropic raise between $75B and $85B in its IPO? | $0.029 | 0 | 3.5% |
+| Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by December 31, 2 | $0.026 | 0 | 7.3% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.020 | 0 | 1.1% |
 | Will Ian Buck be the next CEO of NVIDIA? | $0.012 | 0 | 0.0% |
 | Will Lady Gaga appear at the 2026 NFL Christmas Day halftime show? | $0.011 | 0 | 0.2% |
@@ -32,7 +34,7 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-97 times it pulled its orders for safety (fast move or other makers leaving).
+102 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 
