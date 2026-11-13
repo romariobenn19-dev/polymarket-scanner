@@ -1,22 +1,22 @@
 # Rewards bot: paper results
 
-14.4 hours, 2026-11-12 15:14:54 → 2026-11-13 05:38:33 UTC, budget $50
+14.9 hours, 2026-11-12 15:14:54 → 2026-11-13 06:08:18 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.26 |
+| Rewards earned | $+0.35 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-1.14** (-2.3%) |
-| At this rate, per day | $-1.90 |
+| **Net result** | **$-1.05** (-2.1%) |
+| At this rate, per day | $-1.70 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will no Israeli government be formed after the 2026 Knesset election? | $0.078 | 0 | 2.7% |
+| Will no Israeli government be formed after the 2026 Knesset election? | $0.162 | 0 | 2.9% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
-| Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.030 | 0 | 1.8% |
+| Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.033 | 0 | 1.8% |
 | Will "Blinding Lights" by The Weeknd be on the radio in GTA VI at laun | $0.016 | 0 | 3.9% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.016 | 2 | 0.7% |
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
