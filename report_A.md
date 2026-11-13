@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-9.4 hours, 2026-11-12 15:14:48 → 2026-11-13 00:35:53 UTC, budget $50
+9.8 hours, 2026-11-12 15:14:48 → 2026-11-13 01:05:34 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.60 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-4.70 |
-| **Net result** | **$-4.10** (-8.2%) |
-| At this rate, per day | $-10.52 |
-| Still holding (at midpoint) | $29.50 |
+| Rewards earned | $+0.61 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-2.20 |
+| **Net result** | **$-1.59** (-3.2%) |
+| At this rate, per day | $-3.88 |
+| Still holding (at midpoint) | $32.00 |
 
 ## Markets quoted
 
@@ -17,7 +17,7 @@
 | Will NVIDIA's next CEO be an internal candidate? | $0.155 | 1 | 1.3% |
 | Will Diable play for Bilibili Gaming in 2027? | $0.114 | 0 | 4.8% |
 | Will the D66–VVD–CDA Dutch coalition break in 2026? | $0.112 | 1 | 3.6% |
-| Jensen Huang admits to another affair by December 31? | $0.071 | 0 | 0.4% |
+| Jensen Huang admits to another affair by December 31? | $0.079 | 0 | 0.3% |
 | Will Joe Henley win The Voice: Season 30? | $0.034 | 0 | 0.7% |
 | Will Anthropic be the second-best AI lab at the end of November 2026? | $0.031 | 0 | 12.3% |
 | Will Anthropic raise between $75B and $85B in its IPO? | $0.029 | 0 | 3.5% |
@@ -28,7 +28,7 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-64 times it pulled its orders for safety (fast move or other makers leaving).
+70 times it pulled its orders for safety (fast move or other makers leaving).
 
 3 paper fills (price moved through our order).
 
