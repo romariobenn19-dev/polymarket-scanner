@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-9.8 hours, 2026-11-12 15:14:48 → 2026-11-13 01:05:34 UTC, budget $50
+10.4 hours, 2026-11-12 15:14:48 → 2026-11-13 01:35:59 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.61 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-2.20 |
-| **Net result** | **$-1.59** (-3.2%) |
-| At this rate, per day | $-3.88 |
-| Still holding (at midpoint) | $32.00 |
+| Rewards earned | $+0.65 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-2.60 |
+| **Net result** | **$-1.95** (-3.9%) |
+| At this rate, per day | $-4.52 |
+| Still holding (at midpoint) | $35.00 |
 
 ## Markets quoted
 
@@ -20,16 +20,18 @@
 | Jensen Huang admits to another affair by December 31? | $0.079 | 0 | 0.3% |
 | Will Joe Henley win The Voice: Season 30? | $0.034 | 0 | 0.7% |
 | Will Anthropic be the second-best AI lab at the end of November 2026? | $0.031 | 0 | 12.3% |
+| Will Jensen Huang rejoin NVIDIA by December 31, 2027? | $0.031 | 1 | 1.1% |
 | Will Anthropic raise between $75B and $85B in its IPO? | $0.029 | 0 | 3.5% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.020 | 0 | 1.1% |
 | Will Ian Buck be the next CEO of NVIDIA? | $0.012 | 0 | 0.0% |
+| Will 3 Jensen Huang affairs be reported by December 31? | $0.010 | 0 | 0.1% |
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.008 | 0 | 3.2% |
 | Will the next Fable model (5.2+) debut at a score of at least 1510 by  | $0.006 | 0 | 1.0% |
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-70 times it pulled its orders for safety (fast move or other makers leaving).
+75 times it pulled its orders for safety (fast move or other makers leaving).
 
-3 paper fills (price moved through our order).
+4 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
