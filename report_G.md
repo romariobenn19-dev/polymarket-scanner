@@ -1,14 +1,14 @@
 # Version G (fade sudden rises): paper results
 
-21.9 hours, budget $50, $5 per trade
+22.3 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
 | Signals found | 86 (14 traded) |
 | Closed trades | 7 (1 profitable) |
 | Profit on closed trades | $-12.75 |
-| Open trades | 7 (worth $35.79 if sold now) |
-| **Total now** | **$37.27 (-12.73)** |
+| Open trades | 7 (worth $36.51 if sold now) |
+| **Total now** | **$38.00 (-12.00)** |
 
 ## Trades
 

@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-26.0 hours, 2026-11-12 16:57:15 → 2026-11-13 18:59:01 UTC, budget $100
+26.5 hours, 2026-11-12 16:57:15 → 2026-11-13 19:27:51 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+1.67 |
+| Rewards earned | $+1.69 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+1.67** (+1.7%) |
-| At this rate, per day | $+1.54 |
+| **Net result** | **$+1.69** (+1.7%) |
+| At this rate, per day | $+1.53 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -26,8 +26,8 @@
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
+| Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
-| Will Elon Musk post 1000+ tweets in November 2026? | $0.001 | 0 | 1.8% |
 
 11 times it pulled its orders for safety (fast move or other makers leaving).
 
