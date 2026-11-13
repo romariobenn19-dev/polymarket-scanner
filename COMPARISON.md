@@ -1,4 +1,4 @@
-# Paper test comparison (2026-11-13 04:07 UTC)
+# Paper test comparison (2026-11-13 04:08 UTC)
 
 Same live order books, no real orders. A and E use $50; F runs with $50, $100 and $200.
 
@@ -9,7 +9,7 @@ Same live order books, no real orders. A and E use $50; F runs with $50, $100 an
 | Hours running | 11.3 | 11.2 | 11.3 | 9.7 | 9.7 |
 | Rewards (estimated) | $+0.68 | $+0.17 | $+0.04 | $+0.99 | $+1.25 |
 | Rewards Polymarket would pay ($1+/market/day) | $+0.00 | $+0.00 | $+0.00 | $+0.00 | $+0.00 |
-| Gain/loss on shares | $+1.30 | $-1.40 | $+0.00 | $-0.00 | $+0.00 |
+| Gain/loss on shares | $+1.30 | $-1.40 | $+0.00 | $-0.00 | $-0.00 |
 | **Net result** | **$+1.98** | **$-1.23** | **$+0.04** | **$+0.99** | **$+1.25** |
 | Net per day (at this pace) | $+4.21 | $-2.63 | $+0.09 | $+2.45 | $+3.11 |
 | Worst point | $-4.40 | $-1.42 | $+0.00 | $+0.00 | $+0.00 |
