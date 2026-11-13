@@ -1,13 +1,13 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-5.0 hours, budget $50, $10 per trade
+5.3 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
 | Trades settled or exited | 0 (0 profitable, average 0.0 days held) |
 | Profit on those | $+0.00 |
-| Open trades | 3 (worth $29.49 at today's prices) |
-| **Total now** | **$49.45 (-0.55)** |
+| Open trades | 3 (worth $29.55 at today's prices) |
+| **Total now** | **$49.51 (-0.49)** |
 
 ## Trades
 

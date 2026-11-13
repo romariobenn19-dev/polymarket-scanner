@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-17.9 hours, 2026-11-12 15:14:54 → 2026-11-13 09:09:16 UTC, budget $50
+18.4 hours, 2026-11-12 15:14:54 → 2026-11-13 09:38:16 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.40 |
+| Rewards earned | $+0.41 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-1.00** (-2.0%) |
-| At this rate, per day | $-1.33 |
+| **Net result** | **$-0.99** (-2.0%) |
+| At this rate, per day | $-1.29 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,9 +15,9 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.162 | 0 | 2.9% |
-| Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.049 | 0 | 1.7% |
+| Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.051 | 0 | 1.7% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
-| US reissues Iran oil sanction relief by December 31? | $0.033 | 0 | 3.8% |
+| US reissues Iran oil sanction relief by December 31? | $0.036 | 0 | 3.7% |
 | Will "Blinding Lights" by The Weeknd be on the radio in GTA VI at laun | $0.016 | 0 | 3.9% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.016 | 2 | 0.7% |
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
