@@ -1,21 +1,21 @@
 # Rewards bot: paper results
 
-17.4 hours, 2026-11-12 15:14:49 → 2026-11-13 08:39:12 UTC, budget $50
+17.9 hours, 2026-11-12 15:14:49 → 2026-11-13 09:09:18 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.07 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+0.07** (+0.1%) |
-| At this rate, per day | $+0.09 |
+| Rewards earned | $+0.09 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| **Net result** | **$+0.09** (+0.2%) |
+| At this rate, per day | $+0.12 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
+| Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
-| Will Anthropic raise between $65B and $75B in its IPO? | $0.026 | 0 | 2.8% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
 2 times it pulled its orders for safety (fast move or other makers leaving).
