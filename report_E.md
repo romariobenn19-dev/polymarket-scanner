@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-26.2 hours, 2026-11-12 15:14:54 → 2026-11-13 17:28:39 UTC, budget $50
+26.7 hours, 2026-11-12 15:14:54 → 2026-11-13 17:57:57 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.61 |
+| Rewards earned | $+0.62 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-0.79** (-1.6%) |
-| At this rate, per day | $-0.73 |
+| **Net result** | **$-0.78** (-1.6%) |
+| At this rate, per day | $-0.70 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -17,16 +17,16 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.162 | 0 | 2.9% |
 | Will Google be the second-best AI Agent Lab at the end of November 202 | $0.129 | 0 | 9.1% |
 | Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.051 | 0 | 1.7% |
+| Will Meta be the third-best AI lab at the end of January 2027? | $0.040 | 0 | 3.5% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
-| Will Meta be the third-best AI lab at the end of January 2027? | $0.037 | 0 | 3.6% |
 | US reissues Iran oil sanction relief by December 31? | $0.036 | 0 | 3.7% |
 | Will the Ornn A100 Index be between $1.00 and $1.25 on November 30, 20 | $0.032 | 0 | 6.4% |
+| Rockstar releases PC version of GTA VI by June 30, 2027? | $0.023 | 0 | 10.9% |
 | Will "Blinding Lights" by The Weeknd be on the radio in GTA VI at laun | $0.016 | 0 | 3.9% |
 | Pedro Sánchez out as PM of Spain by January 31, 2027? | $0.016 | 2 | 0.7% |
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.013 | 0 | 0.5% |
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.013 | 0 | 5.1% |
-| Rockstar releases PC version of GTA VI by June 30, 2027? | $0.012 | 0 | 10.9% |
 | Will the Bank of Russia announce no change at the December 2026 meetin | $0.011 | 0 | 1.2% |
 | Will "Babydoll — Dominic Fike" be the top song for 2026? | $0.007 | 0 | 3.5% |
 | Will Karl-Anthony Towns lead the NBA in rebounds per game in 2026-27? | $0.005 | 0 | 1.7% |
