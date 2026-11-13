@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-11.3 hours, 2026-11-12 15:14:54 → 2026-11-13 02:35:28 UTC, budget $50
+12.9 hours, 2026-11-12 15:14:54 → 2026-11-13 04:07:55 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+0.17 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
 | **Net result** | **$-1.23** (-2.5%) |
-| At this rate, per day | $-2.61 |
+| At this rate, per day | $-2.30 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -27,6 +27,8 @@
 | Tom Holland as Spider-Man? | $0.004 | 0 | 2.0% |
 | Will Anne Hathaway win Best Supporting Actress at the 99th Academy Awa | $0.003 | 0 | 0.6% |
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
+| US reissues Iran oil sanction relief by December 31? | $0.001 | 0 | 4.9% |
+| Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
 
 6 times it pulled its orders for safety (fast move or other makers leaving).
 

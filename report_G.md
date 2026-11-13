@@ -1,25 +1,27 @@
 # Version G (fade sudden rises): paper results
 
-5.4 hours, budget $50, $5 per trade
+7.0 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 42 (10 traded) |
-| Closed trades | 3 (1 profitable) |
-| Profit on closed trades | $-2.02 |
-| Open trades | 7 (worth $32.85 if sold now) |
-| **Total now** | **$45.08 (-4.92)** |
+| Signals found | 46 (12 traded) |
+| Closed trades | 4 (1 profitable) |
+| Profit on closed trades | $-5.37 |
+| Open trades | 8 (worth $38.61 if sold now) |
+| **Total now** | **$42.37 (-7.63)** |
 
 ## Trades
 
 | Market | YES at signal | Rise | NO bought | NO sold | Exit | PnL |
 |---|---|---|---|---|---|---|
+| Howard Lutnick out as Secretary of Commerce by December | 48¢ | +21¢ | 53.0¢ |  | open |  |
+| Will Ethereum dip to $1,800 in November? | 56¢ | +23¢ | 45.0¢ |  | open |  |
 | Will Export-control chip security become law this year? | 60¢ | +18¢ | 42.0¢ |  | open |  |
 | Will Jensen Huang's resignation or removal be announced | 60¢ | +20¢ | 42.0¢ |  | open |  |
 | Will Howard Lutnick leave the Trump administration befo | 41¢ | +15¢ | 60.0¢ |  | open |  |
 | WTA Finals, Group A: Marta Kostyuk vs Coco Gauff | 54¢ | +38¢ | 46.9¢ | 77.1¢ | take profit | $+2.99 |
 | Tesla and SpaceX merger officially announced by January | 46¢ | +27¢ | 56.0¢ |  | open |  |
-| Will Bitcoin dip to $67,500 in November? | 46¢ | +15¢ | 55.0¢ |  | open |  |
+| Will Bitcoin dip to $67,500 in November? | 46¢ | +15¢ | 55.0¢ | 21.0¢ | stop loss | $-3.35 |
 | Will Benjamin Netanyahu receive the second mandate to f | 50¢ | +15¢ | 51.0¢ |  | open |  |
 | Jensen Huang divorce by March 31, 2027? | 45¢ | +22¢ | 56.0¢ |  | open |  |
 | Will Bitcoin dip to $70,000 November 9-15? | 50¢ | +34¢ | 50.0¢ | 33.0¢ | stop loss | $-2.03 |
@@ -30,11 +32,11 @@
 | Reason | Count |
 |---|---|
 | spread 15.0c too wide | 3 |
+| already holding this event | 3 |
 | spread 8.0c too wide | 2 |
 | spread 7.0c too wide | 2 |
 | spread 21.0c too wide | 2 |
 | spread 16.0c too wide | 2 |
-| already holding this event | 2 |
 | spread 84.8c too wide | 1 |
 | spread 60.7c too wide | 1 |
 | spread 51.1c too wide | 1 |
@@ -54,4 +56,5 @@
 | spread 12.8c too wide | 1 |
 | spread 12.0c too wide | 1 |
 | spread 11.0c too wide | 1 |
+| budget in use | 1 |
 
