@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-13.4 hours, 2026-11-12 15:14:54 → 2026-11-13 04:38:21 UTC, budget $50
+13.9 hours, 2026-11-12 15:14:54 → 2026-11-13 05:08:17 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.17 |
+| Rewards earned | $+0.18 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.40 |
-| **Net result** | **$-1.23** (-2.5%) |
-| At this rate, per day | $-2.20 |
+| **Net result** | **$-1.22** (-2.4%) |
+| At this rate, per day | $-2.11 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -21,10 +21,10 @@
 | Will Data center utility cost protection become law this year? | $0.015 | 0 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.013 | 0 | 0.5% |
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.013 | 0 | 5.1% |
-| Will the Bank of Russia announce no change at the December 2026 meetin | $0.009 | 0 | 1.1% |
+| Will the Bank of Russia announce no change at the December 2026 meetin | $0.011 | 0 | 1.2% |
+| US reissues Iran oil sanction relief by December 31? | $0.007 | 0 | 3.0% |
 | Will "Babydoll — Dominic Fike" be the top song for 2026? | $0.007 | 0 | 3.5% |
 | Will Karl-Anthony Towns lead the NBA in rebounds per game in 2026-27? | $0.005 | 0 | 1.7% |
-| US reissues Iran oil sanction relief by December 31? | $0.005 | 0 | 3.6% |
 | Tom Holland as Spider-Man? | $0.004 | 0 | 2.0% |
 | Will Anne Hathaway win Best Supporting Actress at the 99th Academy Awa | $0.003 | 0 | 0.6% |
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
