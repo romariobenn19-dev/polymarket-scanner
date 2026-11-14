@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-48.4 hours, 2026-11-12 16:57:15 → 2026-11-14 17:22:44 UTC, budget $200
+48.9 hours, 2026-11-12 16:57:15 → 2026-11-14 17:52:51 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.51 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.51** (+1.3%) |
+| Rewards earned | $+2.54 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| **Net result** | **$+2.54** (+1.3%) |
 | At this rate, per day | $+1.25 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -23,9 +23,9 @@
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.076 | 0 | 1.6% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.053 | 0 | 2.6% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
