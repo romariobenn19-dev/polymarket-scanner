@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-28.2 hours, 2026-11-12 15:14:54 → 2026-11-13 19:27:49 UTC, budget $50
+48.6 hours, 2026-11-12 15:14:54 → 2026-11-14 15:52:19 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+0.69 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.30 |
-| **Net result** | **$-0.61** (-1.2%) |
-| At this rate, per day | $-0.52 |
-| Still holding (at midpoint) | $7.30 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-5.20 |
+| **Net result** | **$-4.51** (-9.0%) |
+| At this rate, per day | $-2.22 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
@@ -32,14 +32,16 @@
 | Will "Babydoll — Dominic Fike" be the top song for 2026? | $0.007 | 0 | 3.5% |
 | Will Karl-Anthony Towns lead the NBA in rebounds per game in 2026-27? | $0.005 | 0 | 1.7% |
 | Tom Holland as Spider-Man? | $0.004 | 0 | 2.0% |
+| Will there be at least 7000 measles cases in the U.S. in 2026? | $0.004 | 0 | 5.4% |
 | Will the Swiss National Bank make no change to the SNB policy rate at  | $0.004 | 0 | 1.8% |
 | Will Anne Hathaway win Best Supporting Actress at the 99th Academy Awa | $0.003 | 0 | 0.6% |
+| Claude 6 released by June 30, 2027? | $0.003 | 0 | 3.8% |
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
-| Will there be 4 or more North Korea tests in November 2026? | $0.002 | 3 | 4.4% |
+| Will there be 4 or more North Korea tests in November 2026? | $0.002 | 4 | 4.4% |
 | Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
 
-14 times it pulled its orders for safety (fast move or other makers leaving).
+18 times it pulled its orders for safety (fast move or other makers leaving).
 
-5 paper fills (price moved through our order).
+6 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

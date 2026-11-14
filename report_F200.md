@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-26.5 hours, 2026-11-12 16:57:15 → 2026-11-13 19:27:51 UTC, budget $200
+46.9 hours, 2026-11-12 16:57:15 → 2026-11-14 15:52:22 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.37 |
+| Rewards earned | $+2.41 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.37** (+1.2%) |
-| At this rate, per day | $+2.15 |
+| **Net result** | **$+2.41** (+1.2%) |
+| At this rate, per day | $+1.23 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,8 +16,8 @@
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
+| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.311 | 0 | 1.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.276 | 0 | 1.8% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
