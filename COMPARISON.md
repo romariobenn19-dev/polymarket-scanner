@@ -1,4 +1,4 @@
-# Paper test comparison (2026-11-14 16:52 UTC)
+# Paper test comparison (2026-11-14 17:22 UTC)
 
 Same live order books, no real orders. A and E use $50; F runs with $50, $100 and $200.
 
@@ -6,15 +6,15 @@ Same live order books, no real orders. A and E use $50; F runs with $50, $100 an
 |---|---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | D's protections + A's appetite + time limit on stuck shares, max 2 stuck, queue cover | E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk | Version F with $100 | Version F with $200 |
 | Budget | $50 | $50 | $50 | $100 | $200 |
-| Hours running | 23.7 | 23.6 | 23.8 | 22.1 | 22.1 |
-| Rewards (estimated) | $+1.34 | $+0.75 | $+0.16 | $+1.76 | $+2.47 |
+| Hours running | 24.2 | 24.1 | 24.3 | 22.6 | 22.6 |
+| Rewards (estimated) | $+1.34 | $+0.81 | $+0.16 | $+1.78 | $+2.51 |
 | Rewards Polymarket would pay ($1+/market/day) | $+0.00 | $+0.00 | $+0.00 | $+0.00 | $+0.00 |
-| Gain/loss on shares | $+4.10 | $-5.20 | $-0.00 | $+0.00 | $-0.00 |
-| **Net result** | **$+5.44** | **$-4.45** | **$+0.16** | **$+1.76** | **$+2.47** |
-| Net per day (at this pace) | $+5.50 | $-4.53 | $+0.16 | $+1.91 | $+2.68 |
+| Gain/loss on shares | $+4.00 | $-5.20 | $-0.00 | $-0.00 | $+0.00 |
+| **Net result** | **$+5.34** | **$-4.39** | **$+0.16** | **$+1.78** | **$+2.51** |
+| Net per day (at this pace) | $+5.29 | $-4.37 | $+0.15 | $+1.88 | $+2.67 |
 | Worst point | $-4.40 | $-4.51 | $+0.00 | $+0.00 | $+0.00 |
 | Fills | 5 | 6 | 0 | 0 | 0 |
-| Safety pauses | 220 | 21 | 6 | 15 | 17 |
+| Safety pauses | 233 | 21 | 6 | 16 | 18 |
 
 - **A** markets: Will Joe Henley win The Voice: Season 30?; Will Diable play for Bilibili Gaming in 2027?; Jensen Huang admits to another affair by December 31?; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Anthropic be the second-best AI lab at the end of Novem; Will the next Fable model (5.2+) debut at a score of at leas; Will Anthropic raise between $75B and $85B in its IPO?; Will Anthropic have the best Math AI model at the end of Jan; Will Anthropic raise between $65B and $75B in its IPO?; Will NVIDIA's next CEO be an internal candidate?; Will Ian Buck be the next CEO of NVIDIA?; Will the D66–VVD–CDA Dutch coalition break in 2026?; Belgium snap election called by December 31?; Jensen Huang admits to another affair with a woman by Decemb; Will Jensen Huang rejoin NVIDIA by December 31, 2027?; Will 3 Jensen Huang affairs be reported by December 31?; Will Lady Gaga appear at the 2026 NFL Christmas Day halftime; Next Russia-Ukraine senior diplomatic meeting by November 30; Will Jensen Huang publicly testify before Congress by Decemb; Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by Dece; Will Jensen Huang publicly testify before Congress by June 3
 - **E** markets: GPT-7 released by June 30, 2027?; Tom Holland as Spider-Man?; Will USD be between 2.0M and 2.5M Iranian rials on December ; Will "Blinding Lights" by The Weeknd be on the radio in GTA ; Will Anne Hathaway win Best Supporting Actress at the 99th A; Pedro Sánchez out as PM of Spain by January 31, 2027?; Will Anthropic have the best Math AI model at the end of Jan; Will Lindsay Clancy be the #1 searched person on Google this; Will Data center utility cost protection become law this yea; Will the Bank of Russia announce no change at the December 2; Will Harry Kane be the top scorer of the 2026-27 UEFA Nation; Will "Babydoll — Dominic Fike" be the top song for 2026?; Will Karl-Anthony Towns lead the NBA in rebounds per game in; US reissues Iran oil sanction relief by December 31?; Will "99 Problems" be played at the 2027 Big Game halftime s; Will no Israeli government be formed after the 2026 Knesset ; Will the Ornn A100 Index be between $1.00 and $1.25 on Novem; Will Meta be the third-best AI lab at the end of January 202; Will Google be the second-best AI Agent Lab at the end of No; Will the Swiss National Bank make no change to the SNB polic; Rockstar releases PC version of GTA VI by June 30, 2027?; US x Iran Effective Ceasefire by November 30?; Will there be 4 or more North Korea tests in November 2026?; Claude 6 released by June 30, 2027?; Will there be at least 7000 measles cases in the U.S. in 202; Will Anthropic be the #2 AI lab at the end of December 2026?; Will Folarin Balogun rank in Google’s Top 5 Most Searched At

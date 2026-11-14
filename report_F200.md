@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-47.9 hours, 2026-11-12 16:57:15 → 2026-11-14 16:52:36 UTC, budget $200
+48.4 hours, 2026-11-12 16:57:15 → 2026-11-14 17:22:44 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.47 |
+| Rewards earned | $+2.51 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.47** (+1.2%) |
-| At this rate, per day | $+1.24 |
+| **Net result** | **$+2.51** (+1.3%) |
+| At this rate, per day | $+1.25 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -24,16 +24,16 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
-| US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
+| Next Claude Opus (5.6+) released by November 30, 2026? | $0.053 | 0 | 2.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
+| US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
-| Next Claude Opus (5.6+) released by November 30, 2026? | $0.030 | 0 | 2.9% |
+| Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
-| Kimberly Powell announced resignation or removal by November 30, 2026? | $0.011 | 0 | 1.6% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-17 times it pulled its orders for safety (fast move or other makers leaving).
+18 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 

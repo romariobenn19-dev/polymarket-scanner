@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-49.6 hours, 2026-11-12 15:14:48 → 2026-11-14 16:52:36 UTC, budget $50
+50.1 hours, 2026-11-12 15:14:48 → 2026-11-14 17:22:44 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+1.34 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+4.10 |
-| **Net result** | **$+5.44** (+10.9%) |
-| At this rate, per day | $+2.63 |
-| Still holding (at midpoint) | $53.90 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+4.00 |
+| **Net result** | **$+5.34** (+10.7%) |
+| At this rate, per day | $+2.56 |
+| Still holding (at midpoint) | $53.80 |
 
 ## Markets quoted
 
@@ -35,7 +35,7 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-220 times it pulled its orders for safety (fast move or other makers leaving).
+233 times it pulled its orders for safety (fast move or other makers leaving).
 
 5 paper fills (price moved through our order).
 
