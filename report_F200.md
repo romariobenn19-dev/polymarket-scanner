@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-47.4 hours, 2026-11-12 16:57:15 → 2026-11-14 16:22:15 UTC, budget $200
+47.9 hours, 2026-11-12 16:57:15 → 2026-11-14 16:52:36 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.43 |
+| Rewards earned | $+2.47 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.43** (+1.2%) |
-| At this rate, per day | $+1.23 |
+| **Net result** | **$+2.47** (+1.2%) |
+| At this rate, per day | $+1.24 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -28,10 +28,12 @@
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.046 | 0 | 1.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
+| Next Claude Opus (5.6+) released by November 30, 2026? | $0.030 | 0 | 2.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
+| Kimberly Powell announced resignation or removal by November 30, 2026? | $0.011 | 0 | 1.6% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-15 times it pulled its orders for safety (fast move or other makers leaving).
+17 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 

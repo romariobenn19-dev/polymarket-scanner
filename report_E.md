@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-49.1 hours, 2026-11-12 15:14:54 → 2026-11-14 16:22:14 UTC, budget $50
+49.6 hours, 2026-11-12 15:14:54 → 2026-11-14 16:52:35 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.70 |
+| Rewards earned | $+0.75 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-5.20 |
-| **Net result** | **$-4.50** (-9.0%) |
-| At this rate, per day | $-2.20 |
+| **Net result** | **$-4.45** (-8.9%) |
+| At this rate, per day | $-2.15 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -17,6 +17,7 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.162 | 0 | 2.9% |
 | Will Google be the second-best AI Agent Lab at the end of November 202 | $0.154 | 0 | 4.6% |
 | Will Harry Kane be the top scorer of the 2026-27 UEFA Nations League? | $0.051 | 0 | 1.7% |
+| Will Anthropic be the #2 AI lab at the end of December 2026? | $0.048 | 0 | 2.1% |
 | Rockstar releases PC version of GTA VI by June 30, 2027? | $0.045 | 0 | 10.9% |
 | Will Meta be the third-best AI lab at the end of January 2027? | $0.040 | 0 | 3.5% |
 | GPT-7 released by June 30, 2027? | $0.039 | 0 | 1.0% |
@@ -38,6 +39,7 @@
 | Will Anne Hathaway win Best Supporting Actress at the 99th Academy Awa | $0.003 | 0 | 0.6% |
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
 | Will there be 4 or more North Korea tests in November 2026? | $0.002 | 4 | 4.4% |
+| Will Folarin Balogun rank in Google’s Top 5 Most Searched Athletes of  | $0.001 | 0 | 1.0% |
 | Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
 
 21 times it pulled its orders for safety (fast move or other makers leaving).
