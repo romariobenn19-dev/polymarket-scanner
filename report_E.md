@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-52.1 hours, 2026-11-12 15:14:54 → 2026-11-14 19:23:06 UTC, budget $50
+52.6 hours, 2026-11-12 15:14:54 → 2026-11-14 19:53:14 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.83 |
+| Rewards earned | $+0.84 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-5.20 |
-| **Net result** | **$-4.37** (-8.7%) |
-| At this rate, per day | $-2.01 |
+| **Net result** | **$-4.36** (-8.7%) |
+| At this rate, per day | $-1.99 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -30,6 +30,7 @@
 | Claude 6 released by June 30, 2027? | $0.014 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.013 | 0 | 0.5% |
 | Will Anthropic have the best Math AI model at the end of January 2027? | $0.013 | 0 | 5.1% |
+| Will Hyperliquid hit $100 by June 30, 2027? | $0.012 | 0 | 11.4% |
 | Will the Bank of Russia announce no change at the December 2026 meetin | $0.011 | 0 | 1.2% |
 | Will Jason or Lucia die in GTA VI? | $0.008 | 0 | 1.0% |
 | Will "Babydoll — Dominic Fike" be the top song for 2026? | $0.007 | 0 | 3.5% |
@@ -42,9 +43,8 @@
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
 | Will there be 4 or more North Korea tests in November 2026? | $0.002 | 4 | 4.4% |
 | Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
+| Netanyahu out by June 30, 2027? | $0.001 | 0 | 0.7% |
 | Tesla and SpaceX merger officially announced by June 30, 2027? | $0.001 | 0 | 0.2% |
-| Will Hyperliquid hit $100 by June 30, 2027? | $0.000 | 0 | 11.3% |
-| Netanyahu out by June 30, 2027? | $0.000 | 0 | 1.0% |
 
 22 times it pulled its orders for safety (fast move or other makers leaving).
 

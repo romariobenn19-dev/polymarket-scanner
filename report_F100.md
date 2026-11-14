@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-50.4 hours, 2026-11-12 16:57:15 → 2026-11-14 19:23:10 UTC, budget $100
+50.9 hours, 2026-11-12 16:57:15 → 2026-11-14 19:53:18 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+1.78 |
+| Rewards earned | $+1.80 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+1.78** (+1.8%) |
+| **Net result** | **$+1.80** (+1.8%) |
 | At this rate, per day | $+0.85 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -28,10 +28,10 @@
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
+| Will Chovy win Worlds 2026 Finals MVP? | $0.022 | 0 | 4.2% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
-| Will Chovy win Worlds 2026 Finals MVP? | $0.001 | 0 | 2.9% |
 
-16 times it pulled its orders for safety (fast move or other makers leaving).
+18 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 
