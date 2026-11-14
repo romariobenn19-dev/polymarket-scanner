@@ -1,14 +1,14 @@
 # Version G (fade sudden rises): paper results
 
-47.3 hours, budget $50, $5 per trade
+47.7 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 117 (15 traded) |
+| Signals found | 122 (15 traded) |
 | Closed trades | 9 (2 profitable) |
 | Profit on closed trades | $-15.20 |
-| Open trades | 6 (worth $30.31 if sold now) |
-| **Total now** | **$34.53 (-15.47)** |
+| Open trades | 6 (worth $30.75 if sold now) |
+| **Total now** | **$34.97 (-15.03)** |
 
 ## Trades
 
@@ -46,21 +46,23 @@
 | spread 25.0c too wide | 3 |
 | spread 21.0c too wide | 3 |
 | spread 19.0c too wide | 3 |
+| spread 9.0c too wide | 2 |
+| spread 61.0c too wide | 2 |
 | spread 6.0c too wide | 2 |
 | spread 27.0c too wide | 2 |
 | spread 16.0c too wide | 2 |
 | spread 12.0c too wide | 2 |
 | spread 11.0c too wide | 2 |
-| spread 9.0c too wide | 1 |
 | spread 84.8c too wide | 1 |
 | spread 78.0c too wide | 1 |
-| spread 61.0c too wide | 1 |
+| spread 62.0c too wide | 1 |
 | spread 60.7c too wide | 1 |
 | spread 58.0c too wide | 1 |
 | spread 56.0c too wide | 1 |
 | spread 52.0c too wide | 1 |
 | spread 51.1c too wide | 1 |
 | spread 51.0c too wide | 1 |
+| spread 5.7c too wide | 1 |
 | spread 5.0c too wide | 1 |
 | spread 49.5c too wide | 1 |
 | spread 45.0c too wide | 1 |
@@ -72,6 +74,7 @@
 | spread 36.2c too wide | 1 |
 | spread 35.0c too wide | 1 |
 | spread 34.0c too wide | 1 |
+| spread 33.0c too wide | 1 |
 | spread 30.6c too wide | 1 |
 | spread 30.0c too wide | 1 |
 | spread 28.7c too wide | 1 |

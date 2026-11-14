@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-53.1 hours, 2026-11-12 15:14:54 → 2026-11-14 20:23:19 UTC, budget $50
+53.6 hours, 2026-11-12 15:14:54 → 2026-11-14 20:52:13 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+0.85 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-5.20 |
 | **Net result** | **$-4.35** (-8.7%) |
-| At this rate, per day | $-1.96 |
+| At this rate, per day | $-1.95 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -43,10 +43,10 @@
 | Will USD be between 2.0M and 2.5M Iranian rials on December 31? | $0.002 | 0 | 1.3% |
 | Will there be 4 or more North Korea tests in November 2026? | $0.002 | 4 | 4.4% |
 | Netanyahu out by June 30, 2027? | $0.002 | 0 | 0.8% |
+| Russia x Ukraine ceasefire agreement by October 31, 2027? | $0.001 | 0 | 1.0% |
 | Will "99 Problems" be played at the 2027 Big Game halftime show? | $0.001 | 0 | 0.9% |
 | Tesla and SpaceX merger officially announced by June 30, 2027? | $0.001 | 0 | 0.2% |
-| Russia x Ukraine ceasefire agreement by October 31, 2027? | $0.000 | 0 | 1.9% |
-| Russia x Ukraine ceasefire agreement by November 30, 2027? | $0.000 | 0 | 0.8% |
+| Russia x Ukraine ceasefire agreement by November 30, 2027? | $0.000 | 0 | 0.4% |
 
 22 times it pulled its orders for safety (fast move or other makers leaving).
 
