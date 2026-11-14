@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-46.9 hours, 2026-11-12 16:57:15 → 2026-11-14 15:52:22 UTC, budget $200
+47.4 hours, 2026-11-12 16:57:15 → 2026-11-14 16:22:15 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.41 |
+| Rewards earned | $+2.43 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.41** (+1.2%) |
+| **Net result** | **$+2.43** (+1.2%) |
 | At this rate, per day | $+1.23 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,8 +15,8 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
-| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.311 | 0 | 1.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
@@ -31,7 +31,7 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-13 times it pulled its orders for safety (fast move or other makers leaving).
+15 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 

@@ -1,19 +1,20 @@
 # Version G (fade sudden rises): paper results
 
-42.7 hours, budget $50, $5 per trade
+43.2 hours, budget $50, $5 per trade
 
 | | |
 |---|---|
-| Signals found | 96 (14 traded) |
+| Signals found | 99 (15 traded) |
 | Closed trades | 9 (2 profitable) |
 | Profit on closed trades | $-15.20 |
-| Open trades | 5 (worth $25.23 if sold now) |
-| **Total now** | **$34.56 (-15.44)** |
+| Open trades | 6 (worth $29.93 if sold now) |
+| **Total now** | **$34.14 (-15.86)** |
 
 ## Trades
 
 | Market | YES at signal | Rise | NO bought | NO sold | Exit | PnL |
 |---|---|---|---|---|---|---|
+| Will Ethereum dip to $1,600 in November? | 31¢ | +16¢ | 70.7¢ |  | open |  |
 | Will NVIDIA (NVDA) hit (LOW) $136 in November? | 30¢ | +17¢ | 70.0¢ |  | open |  |
 | Monastir: Pedro Vives Marcos vs Alejandro Moro Canas | 57¢ | +25¢ | 43.0¢ | 14.0¢ | stop loss | $-3.58 |
 | Howard Lutnick out as Secretary of Commerce by December | 48¢ | +21¢ | 53.0¢ | 34.0¢ | stop loss | $-1.97 |
@@ -36,11 +37,11 @@
 | budget in use | 18 |
 | spread 15.0c too wide | 4 |
 | already holding this event | 4 |
+| spread 8.0c too wide | 3 |
 | spread 7.0c too wide | 3 |
 | spread 44.0c too wide | 3 |
 | spread 36.0c too wide | 3 |
 | spread 21.0c too wide | 3 |
-| spread 8.0c too wide | 2 |
 | spread 6.0c too wide | 2 |
 | spread 32.0c too wide | 2 |
 | spread 25.0c too wide | 2 |
@@ -50,6 +51,7 @@
 | spread 11.0c too wide | 2 |
 | spread 9.0c too wide | 1 |
 | spread 84.8c too wide | 1 |
+| spread 78.0c too wide | 1 |
 | spread 61.0c too wide | 1 |
 | spread 60.7c too wide | 1 |
 | spread 58.0c too wide | 1 |

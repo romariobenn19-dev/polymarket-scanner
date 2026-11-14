@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-46.9 hours, 2026-11-12 16:57:15 → 2026-11-14 15:52:23 UTC, budget $100
+47.4 hours, 2026-11-12 16:57:15 → 2026-11-14 16:22:16 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+1.73 |
+| Rewards earned | $+1.75 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+1.73** (+1.7%) |
+| **Net result** | **$+1.75** (+1.7%) |
 | At this rate, per day | $+0.88 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
-| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.176 | 0 | 1.4% |
+| Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
@@ -29,7 +29,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 
-11 times it pulled its orders for safety (fast move or other makers leaving).
+13 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 
