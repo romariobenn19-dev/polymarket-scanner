@@ -1,6 +1,6 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-37.7 hours, budget $50, $10 per trade
+38.2 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
@@ -21,7 +21,7 @@
 
 | Reason | Markets |
 |---|---|
-| final figure can still move (weather / votes / range) | 18 |
+| final figure can still move (weather / votes / range) | 23 |
 | spread over 3c (thin market) | 6 |
 | favourite costs 88.0c | 3 |
 | election not clearly decided (under 96c) | 2 |
