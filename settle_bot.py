@@ -52,6 +52,8 @@ class ConfigH:
     election_min_price: float = 0.96     # elections still being counted are only bought when clearly decided
     max_days_past: float = 4.0           # stuck longer = the answer is probably not out yet (CPI lesson)
     safety_exit: float = 0.70
+    daily_loss_limit: float = 10.0       # realised losses in 24h that pause new buys for 24h
+    max_errors: int = 5                  # consecutive failed checks that stop the bot
     poll_seconds: int = 600
 
 
@@ -157,6 +159,8 @@ class SettleBot:
             reason = "empty order book"
         elif asks[0][0] - bids[0][0] > cfg.max_spread:
             reason = "spread over 3c (thin market)"
+        elif self.loss_paused(now):
+            reason = f"paused: lost ${cfg.daily_loss_limit:.0f}+ in the last 24h"
         elif c["event_id"] in {r[2] for r in self.open_trades()}:
             reason = "already holding this event"
         elif sum(r[5] * r[6] for r in self.open_trades()) + cfg.stake > cfg.budget or self.cash < 0.9 * cfg.stake:
@@ -184,6 +188,11 @@ class SettleBot:
         self.con.execute("INSERT INTO seen VALUES (?,?,?,?,?,?)", (now, c["market_id"], c["question"], side, price, "bought"))
         print(f"[{sc.iso(now)}] BUY {side} {shares:.1f} @ {price:.3f} | {c['hours_past']:.0f}h past deadline | {c['question'][:60]}", flush=True)
         return True
+
+    def loss_paused(self, now: float) -> bool:
+        """True while losses realised in a 24h window reach the limit (pause lasts 24h from the last loss)."""
+        row = self.con.execute("SELECT COALESCE(SUM(pnl), 0) FROM trades WHERE exit_ts > ? AND pnl < 0", (now - 86400,)).fetchone()
+        return row[0] <= -self.cfg.daily_loss_limit
 
     def approve(self, c: dict, side: str, price: float, now: float):
         """Last check before buying; return a reason to skip, or None. Version I asks Claude here."""
@@ -235,13 +244,18 @@ class SettleBot:
               f"open {n_open} worth ${open_value:.2f} | total ${self.cash + open_value:.2f}", flush=True)
 
     def run(self, hours: float) -> None:
-        end = time.time() + hours * H
+        end, errors = time.time() + hours * H, 0
         while time.time() < end:
             started = time.time()
             try:
                 self.poll()
+                errors = 0
             except Exception as e:
-                print(f"[{sc.iso(started)}] poll failed: {e}", file=sys.stderr, flush=True)
+                errors += 1
+                print(f"[{sc.iso(started)}] poll failed ({errors} in a row): {e}", file=sys.stderr, flush=True)
+                if errors >= self.cfg.max_errors:
+                    print(f"[{sc.iso(started)}] STOPPED: {errors} failed checks in a row", file=sys.stderr, flush=True)
+                    return
             time.sleep(max(0, self.cfg.poll_seconds - (time.time() - started)))
 
 

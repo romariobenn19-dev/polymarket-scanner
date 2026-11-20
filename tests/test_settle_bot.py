@@ -77,5 +77,27 @@ class Bot(unittest.TestCase):
         self.assertFalse(self.bot.consider({**self.c, "market_id": "x", "token": "tx"}, b, 1000))  # event e1 held
 
 
+class Guards(unittest.TestCase):
+    def setUp(self):
+        self.bot = sb.SettleBot(sb.ConfigH(), ":memory:")
+        self.c = {"market_id": "m1", "event_id": "e1", "question": "Will X be named CEO by Nov 10?", "token": "t1",
+                  "fee_rate": 0.0, "hours_past": 30, "approx": 0.95}
+
+    def test_daily_loss_limit_pauses_buying(self):
+        self.bot.con.execute("INSERT INTO trades (ts, market_id, event_id, exit_ts, pnl) VALUES (0, 'a', 'x', 1000, -6)")
+        self.assertTrue(self.bot.consider(self.c, book([(0.04, 500)], [(0.05, 500)]), 2000))   # -$6: still trading
+        self.bot.con.execute("INSERT INTO trades (ts, market_id, event_id, exit_ts, pnl) VALUES (0, 'b', 'y', 1500, -5)")
+        c2 = {**self.c, "market_id": "m2", "event_id": "e2", "token": "t2"}
+        self.assertFalse(self.bot.consider(c2, book([(0.04, 500)], [(0.05, 500)]), 2000))      # -$11: paused
+        self.assertTrue(self.bot.consider(c2, book([(0.04, 500)], [(0.05, 500)]), 1500 + 86401))  # a day later
+
+    def test_stops_after_repeated_errors(self):
+        calls = []
+        self.bot.poll = lambda: (calls.append(1), (_ for _ in ()).throw(RuntimeError("api down")))
+        self.bot.cfg.poll_seconds = 0
+        self.bot.run(hours=1)
+        self.assertEqual(len(calls), 5)
+
+
 if __name__ == "__main__":
     unittest.main()
