@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-192.9 hours, 2026-11-12 16:57:15 → 2026-11-20 17:48:28 UTC, budget $100
+193.4 hours, 2026-11-12 16:57:15 → 2026-11-20 18:18:53 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+2.18 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+2.18** (+2.2%) |
-| At this rate, per day | $+0.27 |
+| Rewards earned | $+2.28 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+2.28** (+2.3%) |
+| At this rate, per day | $+0.28 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.241 | 0 | 5.8% |
+| Will the Iranian regime fall before 2028? | $0.300 | 0 | 5.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -29,6 +29,7 @@
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
+| JD Vance Republican nomination odds leader on March 31? | $0.037 | 0 | 3.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |

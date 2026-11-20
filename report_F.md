@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-194.6 hours, 2026-11-12 15:14:49 → 2026-11-20 17:48:28 UTC, budget $50
+195.1 hours, 2026-11-12 15:14:49 → 2026-11-20 18:18:54 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.20 |
+| Rewards earned | $+0.22 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+0.20** (+0.4%) |
-| At this rate, per day | $+0.02 |
+| **Net result** | **$+0.22** (+0.4%) |
+| At this rate, per day | $+0.03 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,9 +18,10 @@
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
+| Will HoneyMad finish GTA VI by November 28? | $0.020 | 0 | 2.2% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-6 times it pulled its orders for safety (fast move or other makers leaving).
+7 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 
