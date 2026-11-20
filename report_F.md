@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-195.1 hours, 2026-11-12 15:14:49 → 2026-11-20 18:18:54 UTC, budget $50
+195.6 hours, 2026-11-12 15:14:49 → 2026-11-20 18:48:29 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.22 |
+| Rewards earned | $+0.24 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+0.22** (+0.4%) |
+| **Net result** | **$+0.24** (+0.5%) |
 | At this rate, per day | $+0.03 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -16,12 +16,12 @@
 |---|---|---|---|
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
+| Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
-| Will HoneyMad finish GTA VI by November 28? | $0.020 | 0 | 2.2% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-7 times it pulled its orders for safety (fast move or other makers leaving).
+8 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 

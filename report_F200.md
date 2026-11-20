@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-193.4 hours, 2026-11-12 16:57:15 → 2026-11-20 18:18:51 UTC, budget $200
+193.9 hours, 2026-11-12 16:57:15 → 2026-11-20 18:48:28 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+3.29 |
+| Rewards earned | $+3.39 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+3.29** (+1.6%) |
-| At this rate, per day | $+0.41 |
+| **Net result** | **$+3.39** (+1.7%) |
+| At this rate, per day | $+0.42 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,10 +15,10 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Will the Iranian regime fall before 2028? | $0.364 | 0 | 5.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Will the Iranian regime fall before 2028? | $0.300 | 0 | 5.8% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
@@ -27,12 +27,12 @@
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
-| JD Vance Republican nomination odds leader on March 31? | $0.037 | 0 | 3.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
