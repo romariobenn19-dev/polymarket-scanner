@@ -17,7 +17,7 @@ def run(cmd, cwd=HERE):
 def save_once():
     try:
         run(["python3", "compare.py", str(OUT / "COMPARISON.md")])
-        for v in os.environ.get("PAPER_VERSIONS", "A,F,F100,F200,H,I").split(","):
+        for v in os.environ.get("PAPER_VERSIONS", "A,F,F100,F200,H").split(","):
             db = HERE / f"paper_{v}.db"
             if db.exists():
                 src, dst = sqlite3.connect(db), sqlite3.connect(OUT / f"paper_{v}.db")

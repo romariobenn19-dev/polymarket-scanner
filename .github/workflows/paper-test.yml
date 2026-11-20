@@ -1,4 +1,4 @@
-name: Paper test (rewards bots A/F, settle bot H, Claude-checked settle bot I)
+name: Paper test (rewards bots A/F, settle bot H)
 
 # Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
 # Each run resumes the saved results from the paper-results branch, runs for `hours`
@@ -29,7 +29,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install Dependencies
-        run: pip install requests websockets anthropic
+        run: pip install requests websockets
 
       - name: Restore saved results
         run: |
@@ -43,19 +43,17 @@ jobs:
           fi
           ls -la paper_*.db 2>/dev/null || echo "starting fresh"
 
-      - name: Run versions A, F ($50/$100/$200), H and I
+      - name: Run versions A, F ($50/$100/$200) and H
         env:
           HOURS: ${{ inputs.hours }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python3 rewards_bot.py run --hours "$HOURS" --db paper_A.db > paper_A.log 2>&1 & A=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F.db > paper_F.log 2>&1 & F=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F100.db --budget 100 > paper_F100.log 2>&1 & F100=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F200.db --budget 200 > paper_F200.log 2>&1 & F200=$!
           python3 settle_bot.py run --hours "$HOURS" --db paper_H.db > paper_H.log 2>&1 & H=$!
-          python3 judge_bot.py run --hours "$HOURS" --db paper_I.db > paper_I.log 2>&1 & I=$!
           python3 saver.py > saver.log 2>&1 & S=$!
-          wait $A $F $F100 $F200 $H $I || true
+          wait $A $F $F100 $F200 $H || true
           kill $S 2>/dev/null || true
           tail -n 3 paper_*.log
 
@@ -65,4 +63,3 @@ jobs:
           python3 saver.py --once
           python3 compare.py >> "$GITHUB_STEP_SUMMARY"
           python3 settle_bot.py report --db paper_H.db >> "$GITHUB_STEP_SUMMARY" || true
-          python3 judge_bot.py report --db paper_I.db >> "$GITHUB_STEP_SUMMARY" || true
