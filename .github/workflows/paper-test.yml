@@ -1,9 +1,13 @@
 name: Paper test (rewards bots A/F, settle bot H)
 
-# Manual start: Actions > Paper test > Run workflow. Paper mode only: no keys, no orders.
+# Starts automatically every 6 hours (also manually: Actions > Paper test > Run workflow).
+# To stop the automatic runs: Actions > Paper test > ... > Disable workflow.
+# Paper mode only: no keys, no orders.
 # Each run resumes the saved results from the paper-results branch, runs for `hours`
 # and saves again. Start the next run when one finishes; results carry over.
 on:
+  schedule:
+    - cron: '17 */6 * * *'
   workflow_dispatch:
     inputs:
       hours:
@@ -45,7 +49,7 @@ jobs:
 
       - name: Run versions A, F ($50/$100/$200) and H
         env:
-          HOURS: ${{ inputs.hours }}
+          HOURS: ${{ inputs.hours || '5.5' }}
         run: |
           python3 rewards_bot.py run --hours "$HOURS" --db paper_A.db > paper_A.log 2>&1 & A=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F.db > paper_F.log 2>&1 & F=$!
