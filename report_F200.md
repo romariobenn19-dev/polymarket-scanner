@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-193.9 hours, 2026-11-12 16:57:15 → 2026-11-20 18:48:28 UTC, budget $200
+194.4 hours, 2026-11-12 16:57:15 → 2026-11-20 19:19:03 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+3.39 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+3.39** (+1.7%) |
-| At this rate, per day | $+0.42 |
+| Rewards earned | $+3.53 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+3.53** (+1.8%) |
+| At this rate, per day | $+0.44 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
-| Will the Iranian regime fall before 2028? | $0.364 | 0 | 5.8% |
+| Will the Iranian regime fall before 2028? | $0.436 | 0 | 6.0% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
@@ -29,6 +29,7 @@
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
+| Will Russia invade another country by December 31, 2027? | $0.070 | 0 | 6.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
