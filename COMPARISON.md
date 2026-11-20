@@ -1,23 +1,22 @@
-# Paper test comparison (2026-11-14 20:52 UTC)
+# Paper test comparison (2026-11-20 15:48 UTC)
 
-Same live order books, no real orders. A and E use $50; F runs with $50, $100 and $200.
+Same live order books, no real orders. A uses $50; F runs with $50, $100 and $200.
 
-| | **A** | **E** | **F** | **F100** | **F200** |
-|---|---|---|---|---|---|
-| What it does | Version 2 as is: both sides, halfway out | D's protections + A's appetite + time limit on stuck shares, max 2 stuck, queue cover | E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk | Version F with $100 | Version F with $200 |
-| Budget | $50 | $50 | $50 | $100 | $200 |
-| Hours running | 27.7 | 27.6 | 27.8 | 26.1 | 26.1 |
-| Rewards (estimated) | $+1.34 | $+0.85 | $+0.16 | $+1.84 | $+2.86 |
-| Rewards Polymarket would pay ($1+/market/day) | $+0.00 | $+0.00 | $+0.00 | $+0.00 | $+0.00 |
-| Gain/loss on shares | $+3.70 | $-5.20 | $-0.00 | $+0.00 | $+0.00 |
-| **Net result** | **$+5.04** | **$-4.35** | **$+0.16** | **$+1.84** | **$+2.86** |
-| Net per day (at this pace) | $+4.36 | $-3.78 | $+0.14 | $+1.69 | $+2.63 |
-| Worst point | $-4.40 | $-4.51 | $+0.00 | $+0.00 | $+0.00 |
-| Fills | 5 | 6 | 0 | 0 | 0 |
-| Safety pauses | 310 | 22 | 6 | 20 | 20 |
+| | **A** | **F** | **F100** | **F200** |
+|---|---|---|---|---|
+| What it does | Version 2 as is: both sides, halfway out | E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk | Version F with $100 | Version F with $200 |
+| Budget | $50 | $50 | $100 | $200 |
+| Hours running | 27.7 | 27.8 | 26.1 | 26.1 |
+| Rewards (estimated) | $+1.34 | $+0.16 | $+1.84 | $+2.86 |
+| Rewards Polymarket would pay ($1+/market/day) | $+0.00 | $+0.00 | $+0.00 | $+0.00 |
+| Gain/loss on shares | $+3.70 | $-0.00 | $+0.00 | $+0.00 |
+| **Net result** | **$+5.04** | **$+0.16** | **$+1.84** | **$+2.86** |
+| Net per day (at this pace) | $+4.36 | $+0.14 | $+1.69 | $+2.63 |
+| Worst point | $-4.40 | $+0.00 | $+0.00 | $+0.00 |
+| Fills | 5 | 0 | 0 | 0 |
+| Safety pauses | 310 | 6 | 20 | 20 |
 
 - **A** markets: Will Joe Henley win The Voice: Season 30?; Will Diable play for Bilibili Gaming in 2027?; Jensen Huang admits to another affair by December 31?; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Anthropic be the second-best AI lab at the end of Novem; Will the next Fable model (5.2+) debut at a score of at leas; Will Anthropic raise between $75B and $85B in its IPO?; Will Anthropic have the best Math AI model at the end of Jan; Will Anthropic raise between $65B and $75B in its IPO?; Will NVIDIA's next CEO be an internal candidate?; Will Ian Buck be the next CEO of NVIDIA?; Will the D66–VVD–CDA Dutch coalition break in 2026?; Belgium snap election called by December 31?; Jensen Huang admits to another affair with a woman by Decemb; Will Jensen Huang rejoin NVIDIA by December 31, 2027?; Will 3 Jensen Huang affairs be reported by December 31?; Will Lady Gaga appear at the 2026 NFL Christmas Day halftime; Next Russia-Ukraine senior diplomatic meeting by November 30; Will Jensen Huang publicly testify before Congress by Decemb; Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by Dece; Will Jensen Huang publicly testify before Congress by June 3
-- **E** markets: GPT-7 released by June 30, 2027?; Tom Holland as Spider-Man?; Will USD be between 2.0M and 2.5M Iranian rials on December ; Will "Blinding Lights" by The Weeknd be on the radio in GTA ; Will Anne Hathaway win Best Supporting Actress at the 99th A; Pedro Sánchez out as PM of Spain by January 31, 2027?; Will Anthropic have the best Math AI model at the end of Jan; Will Lindsay Clancy be the #1 searched person on Google this; Will Data center utility cost protection become law this yea; Will the Bank of Russia announce no change at the December 2; Will Harry Kane be the top scorer of the 2026-27 UEFA Nation; Will "Babydoll — Dominic Fike" be the top song for 2026?; Will Karl-Anthony Towns lead the NBA in rebounds per game in; US reissues Iran oil sanction relief by December 31?; Will "99 Problems" be played at the 2027 Big Game halftime s; Will no Israeli government be formed after the 2026 Knesset ; Will the Ornn A100 Index be between $1.00 and $1.25 on Novem; Will Meta be the third-best AI lab at the end of January 202; Will Google be the second-best AI Agent Lab at the end of No; Will the Swiss National Bank make no change to the SNB polic; Rockstar releases PC version of GTA VI by June 30, 2027?; US x Iran Effective Ceasefire by November 30?; Will there be 4 or more North Korea tests in November 2026?; Claude 6 released by June 30, 2027?; Will there be at least 7000 measles cases in the U.S. in 202; Will Anthropic be the #2 AI lab at the end of December 2026?; Will Folarin Balogun rank in Google’s Top 5 Most Searched At; Will Jason or Lucia die in GTA VI?; Tesla and SpaceX merger officially announced by June 30, 202; Will Hyperliquid hit $100 by June 30, 2027?; Netanyahu out by June 30, 2027?; Russia x Ukraine ceasefire agreement by November 30, 2027?; Russia x Ukraine ceasefire agreement by October 31, 2027?
 - **F** markets: Tom Holland as Spider-Man?; Will "End of Beginning – Djo" be the top song for 2026?; Will Anthropic raise between $65B and $75B in its IPO?; Will the Ornn RTX 5090 Index be at least $0.75 on November 3
 - **F100** markets: Will Ben Ferguson be the next White House Press Secretary?; Will Rockstar release GTA VI on PC after March 2027?; Another GTA VI trailer released by November 30?; Will Morgan Wallen be the Billboard #1 top artist in 2026?; Jack Lowden announced as next James Bond?; Callum Turner announced as next James Bond?; Will Anthropic's IPO valuation be between $1.25T and $1.50T?; Will no Israeli government be formed after the 2026 Knesset ; Will Anthropic's IPO valuation be between $1.50T and $1.75T?; Will the Ornn RTX 5090 Index be at least $0.75 on November 3; Pedro Sánchez out as PM of Spain by January 15, 2027?; Kimberly Powell announced resignation or removal by December; US x Iran Effective Ceasefire by November 30?; Will Elon Musk post 1000+ tweets in November 2026?; Kimberly Powell announced resignation or removal by November; Will Chovy win Worlds 2026 Finals MVP?; Will Anthropic sell between 6% and 7% of its shares in its I
 - **F200** markets: Will Ben Ferguson be the next White House Press Secretary?; Will Rockstar release GTA VI on PC after March 2027?; Another GTA VI trailer released by November 30?; Will the next Fable model (5.2+) debut in the top 10 of the ; Will Lindsay Clancy be the #1 searched person on Google this; Will "Encore" be played last at the 2027 Big Game halftime s; Houthis capture Taiz city by December 31?; Will Anthropic's valuation hit (HIGH) $2.0T by December 31?; Will the Xi and Takaichi handshake last 6–10 seconds during ; Will no Israeli government be formed after the 2026 Knesset ; Will the Xi and Takaichi handshake last 2–6 seconds during t; Will Anthropic's IPO valuation be between $1.50T and $1.75T?; Pedro Sánchez out as PM of Spain by January 15, 2027?; Kimberly Powell announced resignation or removal by December; US x Iran Effective Ceasefire by November 30?; Will Elon Musk post 1000+ tweets in November 2026?; Kimberly Powell announced resignation or removal by November; Next Claude Opus (5.6+) released by November 30, 2026?; Tesla and SpaceX merger officially announced by December 31?; Will Anthropic sell between 6% and 7% of its shares in its I
