@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-195.9 hours, 2026-11-12 16:57:15 → 2026-11-20 20:49:19 UTC, budget $100
+196.4 hours, 2026-11-12 16:57:15 → 2026-11-20 21:18:27 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+2.79 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.50 |
-| **Net result** | **$+1.29** (+1.3%) |
-| At this rate, per day | $+0.16 |
-| Still holding (at midpoint) | $39.00 |
+| Rewards earned | $+2.81 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-1.75 |
+| **Net result** | **$+1.06** (+1.1%) |
+| At this rate, per day | $+0.13 |
+| Still holding (at midpoint) | $38.75 |
 
 ## Markets quoted
 
@@ -35,8 +35,8 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
+| Will Benjamin Netanyahu be the next leader out before 2027? | $0.012 | 0 | 2.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
-| Will Benjamin Netanyahu be the next leader out before 2027? | $0.000 | 0 | 2.7% |
 
 24 times it pulled its orders for safety (fast move or other makers leaving).
 
