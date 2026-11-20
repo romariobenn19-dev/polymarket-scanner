@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-51.9 hours, 2026-11-12 16:57:15 → 2026-11-14 20:52:15 UTC, budget $200
+191.4 hours, 2026-11-12 16:57:15 → 2026-11-20 16:18:31 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+2.86 |
+| Rewards earned | $+2.94 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+2.86** (+1.4%) |
-| At this rate, per day | $+1.32 |
+| **Net result** | **$+2.94** (+1.5%) |
+| At this rate, per day | $+0.37 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -27,11 +27,13 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
+| Will the Iranian regime fall before 2028? | $0.063 | 0 | 6.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
+| Will HoneyMad finish GTA VI by December 1? | $0.022 | 0 | 2.1% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
