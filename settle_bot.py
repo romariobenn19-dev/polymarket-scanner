@@ -13,12 +13,12 @@ of the time, +1.7% per dollar, about 2 days of waiting on average. Both losses w
 final figure could still move (a temperature range, a vote count).
 
 Every 10 minutes:
-  1. Finds open markets whose deadline passed at least 6 hours ago, still taking orders, not
+  1. Finds open markets whose deadline passed 6 hours to 4 days ago, still taking orders, not
      disputed, with $5k+ total volume.
   2. Skips types whose final figure can still move: weather/temperature, vote counts/turnout,
-     "between X and Y" ranges.
+     sales/streams/chart figures, "between X and Y" ranges.
   3. Prices the favourite side from the live order book: 90-99c, spread <= 3c, enough shares for
-     the stake, taker fee included (max 98.5c). Markets stuck over 7 days are left alone. Elections need 96c+ (counts can still swing).
+     the stake, taker fee included (max 98.5c). Markets stuck over 4 days are left alone. Elections need 96c+ (counts can still swing).
      $10 per trade, up to $50 in use, one trade per event, safest (highest-priced) first.
   4. Holds until settlement (paid $1 or $0). Safety exit: if the side held falls below 70c,
      sells at the order book to limit the loss.
@@ -50,13 +50,13 @@ class ConfigH:
     min_volume: float = 5_000.0
     min_hours_past: float = 6.0          # sports 'deadlines' are kick-off times; give games time to finish
     election_min_price: float = 0.96     # elections still being counted are only bought when clearly decided
-    max_days_past: float = 7.0           # stuck longer = waiting on certification/disputes
+    max_days_past: float = 4.0           # stuck longer = the answer is probably not out yet (CPI lesson)
     safety_exit: float = 0.70
     poll_seconds: int = 600
 
 
 ELECTION = re.compile(r"election|house race|senate race|mayor|governor|coalition|primary|parliament|seats", re.I)
-RISKY = re.compile(r"temperature|°|weather|rain|snow|vote|turnout|between \$?[\d,.]+|\d+\s*-\s*\d+\s*(°|%|seats)", re.I)
+RISKY = re.compile(r"temperature|°|weather|rain|snow|vote|turnout|sales|streams|views|box office|billboard|chart|between \$?[\d,.]+|\d+\s*-\s*\d+\s*(°|%|seats)", re.I)
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS seen (ts REAL, market_id TEXT, question TEXT, side TEXT, price REAL, reason TEXT);
@@ -141,7 +141,9 @@ class SettleBot:
             ev = (m.get("events") or [{}])[0]
             fee = float((m.get("feeSchedule") or {}).get("rate") or 0) if m.get("feesEnabled") else 0.0
             out.append({"market_id": m["id"], "event_id": str(ev.get("id", m["id"])), "question": m.get("question", ""),
-                        "token": sc.yes_token(m), "fee_rate": fee, "hours_past": hours_past, "approx": fav})
+                        "token": sc.yes_token(m), "fee_rate": fee, "hours_past": hours_past, "approx": fav,
+                        "end": m.get("endDate", ""), "description": m.get("description") or "",
+                        "source": m.get("resolutionSource") or ""})
         # 95-98.5c first (best record in the study), safest first; 90-95c only with spare budget
         return sorted(out, key=lambda c: (c["approx"] < 0.95, -c["approx"]))
 
@@ -168,6 +170,8 @@ class SettleBot:
                 reason = f"favourite costs {price * 100:.1f}c"
             elif ELECTION.search(c["question"]) and price < cfg.election_min_price:
                 reason = "election not clearly decided (under 96c)"
+        if not reason:
+            reason = self.approve(c, side, price, now)
         if reason:
             self.con.execute("INSERT INTO seen VALUES (?,?,?,?,?,?)", (now, c["market_id"], c["question"], "", c["approx"], reason))
             return False
@@ -180,6 +184,10 @@ class SettleBot:
         self.con.execute("INSERT INTO seen VALUES (?,?,?,?,?,?)", (now, c["market_id"], c["question"], side, price, "bought"))
         print(f"[{sc.iso(now)}] BUY {side} {shares:.1f} @ {price:.3f} | {c['hours_past']:.0f}h past deadline | {c['question'][:60]}", flush=True)
         return True
+
+    def approve(self, c: dict, side: str, price: float, now: float):
+        """Last check before buying; return a reason to skip, or None. Version I asks Claude here."""
+        return None
 
     # -- holding --
     def manage(self, books: dict, settled: dict, now: float) -> float:
