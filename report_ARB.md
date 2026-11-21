@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-21 scans over 11.6 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+22 scans over 19.7 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 13. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -10,8 +10,8 @@
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 51 | 39% | no | 8 |
 | Tucker Carlson 2028 election exact outcome? | 4 | $0.961 | 3.9% | 718 | 2% | no | 1 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
-| Kamala Harris 2028 election exact outcome? | 4 | $0.968 | 3.2% | 718 | 2% | no | 4 |
-| Pete Buttigieg 2028 election exact outcome? | 4 | $0.969 | 3.1% | 718 | 2% | no | 3 |
+| Kamala Harris 2028 election exact outcome? | 4 | $0.968 | 3.2% | 717 | 2% | no | 5 |
+| Pete Buttigieg 2028 election exact outcome? | 4 | $0.969 | 3.1% | 717 | 2% | no | 4 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.975 | 2.5% | 718 | 1% | no | 1 |
 | Swiss National Bank Decision in June? | 5 | $0.977 | 2.3% | 216 | 4% | no | 1 |
 | Largest private company end of November? | 10 | $0.977 | 2.3% | 10 | 129% | no | 2 |

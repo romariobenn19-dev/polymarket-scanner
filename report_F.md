@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-221.0 hours, 2026-11-12 15:14:49 → 2026-11-21 20:13:09 UTC, budget $50
+221.5 hours, 2026-11-12 15:14:49 → 2026-11-21 20:43:31 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.75 |
+| Rewards earned | $+0.78 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$-0.05** (-0.1%) |
-| At this rate, per day | $-0.01 |
+| **Net result** | **$-0.02** (-0.0%) |
+| At this rate, per day | $-0.00 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,9 +15,9 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will it be confirmed that a software or configuration error caused the | $0.282 | 2 | 7.8% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.096 | 0 | 3.3% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.063 | 0 | 3.2% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
