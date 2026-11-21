@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-209.1 hours, 2026-11-12 16:57:15 → 2026-11-21 10:02:59 UTC, budget $100
+209.6 hours, 2026-11-12 16:57:15 → 2026-11-21 10:33:06 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+3.35 |
+| Rewards earned | $+3.42 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+2.35** (+2.4%) |
-| At this rate, per day | $+0.27 |
+| **Net result** | **$+2.42** (+2.4%) |
+| At this rate, per day | $+0.28 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
-| Will Russia invade another country by December 31, 2027? | $0.633 | 0 | 4.1% |
+| Will Russia invade another country by December 31, 2027? | $0.678 | 0 | 4.1% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
@@ -36,6 +36,7 @@
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
+| Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.028 | 0 | 2.6% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |

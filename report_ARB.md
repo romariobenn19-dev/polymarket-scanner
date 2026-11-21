@@ -1,16 +1,17 @@
 # Sum-to-one gaps (watch only, no trades)
 
-16 scans over 9.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+17 scans over 9.6 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
-**Different markets with a gap: 10. Of those, settling within 14 days and not open to new outcomes: 1.**
+**Different markets with a gap: 11. Of those, settling within 14 days and not open to new outcomes: 1.**
 
 | Market | Outcomes | Best cost | Profit | Days to end | Yearly | New outcomes possible | Times seen |
 |---|---|---|---|---|---|---|---|
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
+| China Annual Inflation 2026 | 9 | $0.956 | 4.4% | 51 | 38% | no | 4 |
 | Tucker Carlson 2028 election exact outcome? | 4 | $0.961 | 3.9% | 718 | 2% | no | 1 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
 | Pete Buttigieg 2028 election exact outcome? | 4 | $0.969 | 3.1% | 718 | 2% | no | 3 |
-| China Annual Inflation 2026 | 9 | $0.970 | 3.0% | 51 | 24% | no | 3 |
+| Kamala Harris 2028 election exact outcome? | 4 | $0.975 | 2.5% | 718 | 1% | no | 1 |
 | Swiss National Bank Decision in June? | 5 | $0.977 | 2.3% | 216 | 4% | no | 1 |
 | Largest private company end of November? | 10 | $0.977 | 2.3% | 10 | 129% | no | 2 |
 | Swiss National Bank Decision in March? | 5 | $0.980 | 2.0% | 118 | 7% | no | 9 |
