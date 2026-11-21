@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-222.0 hours, 2026-11-12 15:14:48 → 2026-11-21 21:13:09 UTC, budget $50
+222.5 hours, 2026-11-12 15:14:48 → 2026-11-21 21:43:44 UTC, budget $50
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@
 | Next Gemini Flash Model (3.9+) released by December 31, 2026? | $0.006 | 1 | 10.2% |
 | Belgium snap election called by December 31? | $0.003 | 0 | 3.5% |
 
-569 times it pulled its orders for safety (fast move or other makers leaving).
+576 times it pulled its orders for safety (fast move or other makers leaving).
 
 5 paper fills (price moved through our order).
 

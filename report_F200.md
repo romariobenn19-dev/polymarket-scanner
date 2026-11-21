@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-220.3 hours, 2026-11-12 16:57:15 → 2026-11-21 21:13:09 UTC, budget $200
+220.8 hours, 2026-11-12 16:57:15 → 2026-11-21 21:43:39 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.91 |
+| Rewards earned | $+5.96 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.91** (+2.5%) |
-| At this rate, per day | $+0.53 |
+| **Net result** | **$+4.96** (+2.5%) |
+| At this rate, per day | $+0.54 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -20,12 +20,12 @@
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.176 | 0 | 2.3% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.141 | 0 | 2.2% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -46,10 +46,11 @@
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.022 | 0 | 1.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-31 times it pulled its orders for safety (fast move or other makers leaving).
+32 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-220.3 hours, 2026-11-12 16:57:15 → 2026-11-21 21:13:09 UTC, budget $100
+220.8 hours, 2026-11-12 16:57:15 → 2026-11-21 21:43:43 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+3.92 |
+| Rewards earned | $+3.95 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+2.92** (+2.9%) |
+| **Net result** | **$+2.95** (+3.0%) |
 | At this rate, per day | $+0.32 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -18,8 +18,8 @@
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.147 | 0 | 3.0% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
@@ -45,7 +45,7 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
-28 times it pulled its orders for safety (fast move or other makers leaving).
+29 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 
