@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-211.6 hours, 2026-11-12 16:57:15 → 2026-11-21 12:32:20 UTC, budget $200
+218.8 hours, 2026-11-12 16:57:15 → 2026-11-21 19:43:10 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.66 |
+| Rewards earned | $+5.71 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.66** (+2.3%) |
-| At this rate, per day | $+0.53 |
+| **Net result** | **$+4.71** (+2.4%) |
+| At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -34,6 +34,7 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.058 | 0 | 1.8% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
@@ -43,11 +44,11 @@
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.028 | 0 | 1.4% |
+| Will AI solve 0 more Millennium Prize Problems in 2026? | $0.022 | 0 | 0.4% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-29 times it pulled its orders for safety (fast move or other makers leaving).
+30 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
