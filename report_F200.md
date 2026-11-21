@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-218.8 hours, 2026-11-12 16:57:15 → 2026-11-21 19:43:10 UTC, budget $200
+219.3 hours, 2026-11-12 16:57:15 → 2026-11-21 20:13:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.71 |
+| Rewards earned | $+5.78 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.71** (+2.4%) |
+| **Net result** | **$+4.78** (+2.4%) |
 | At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -27,6 +27,7 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.091 | 0 | 2.1% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
@@ -34,7 +35,7 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.058 | 0 | 1.8% |
+| Will AI solve 0 more Millennium Prize Problems in 2026? | $0.063 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
@@ -44,7 +45,6 @@
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
-| Will AI solve 0 more Millennium Prize Problems in 2026? | $0.022 | 0 | 0.4% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 

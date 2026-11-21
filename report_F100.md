@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-218.8 hours, 2026-11-12 16:57:15 → 2026-11-21 19:43:14 UTC, budget $100
+219.3 hours, 2026-11-12 16:57:15 → 2026-11-21 20:13:07 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+3.72 |
+| Rewards earned | $+3.79 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+2.72** (+2.7%) |
-| At this rate, per day | $+0.30 |
+| **Net result** | **$+2.79** (+2.8%) |
+| At this rate, per day | $+0.31 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -26,6 +26,8 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.064 | 0 | 0.5% |
+| Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.063 | 0 | 3.2% |
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
@@ -37,10 +39,8 @@
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.030 | 0 | 3.0% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
-| Will AI solve 0 more Millennium Prize Problems in 2026? | $0.022 | 0 | 0.4% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
