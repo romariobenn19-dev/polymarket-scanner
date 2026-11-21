@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-208.3 hours, 2026-11-12 15:14:49 → 2026-11-21 07:32:27 UTC, budget $50
+208.8 hours, 2026-11-12 15:14:49 → 2026-11-21 08:02:22 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.38 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$-0.42** (-0.8%) |
-| At this rate, per day | $-0.05 |
-| Still holding (at midpoint) | $9.20 |
+| Rewards earned | $+0.45 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.60 |
+| **Net result** | **$-0.15** (-0.3%) |
+| At this rate, per day | $-0.02 |
+| Still holding (at midpoint) | $9.40 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will it be confirmed that a software or configuration error caused the | $0.086 | 1 | 9.3% |
+| Will it be confirmed that a software or configuration error caused the | $0.164 | 1 | 8.8% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |

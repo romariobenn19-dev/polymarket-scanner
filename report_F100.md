@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-206.6 hours, 2026-11-12 16:57:15 → 2026-11-21 07:32:25 UTC, budget $100
+207.1 hours, 2026-11-12 16:57:15 → 2026-11-21 08:02:21 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+3.15 |
+| Rewards earned | $+3.20 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+2.15** (+2.2%) |
+| **Net result** | **$+2.20** (+2.2%) |
 | At this rate, per day | $+0.25 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
-| Will Russia invade another country by December 31, 2027? | $0.441 | 0 | 4.3% |
+| Will Russia invade another country by December 31, 2027? | $0.479 | 0 | 4.2% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -28,11 +28,11 @@
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
+| US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
-| US announces end of Iranian blockade by January 31, 2027? | $0.038 | 0 | 0.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
