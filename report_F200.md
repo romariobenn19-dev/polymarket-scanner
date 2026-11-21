@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-201.0 hours, 2026-11-12 16:57:15 → 2026-11-21 01:58:50 UTC, budget $200
+201.5 hours, 2026-11-12 16:57:15 → 2026-11-21 02:29:22 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+4.30 |
+| Rewards earned | $+4.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.30** (+1.6%) |
-| At this rate, per day | $+0.39 |
+| **Net result** | **$+3.37** (+1.7%) |
+| At this rate, per day | $+0.40 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
-| Will Russia invade another country by December 31, 2027? | $0.418 | 0 | 4.5% |
+| Will Russia invade another country by December 31, 2027? | $0.462 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
@@ -36,12 +36,13 @@
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
+| Israel x Iran ceasefire continues through December 31? | $0.029 | 0 | 1.3% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-27 times it pulled its orders for safety (fast move or other makers leaving).
+28 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
