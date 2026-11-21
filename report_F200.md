@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-202.0 hours, 2026-11-12 16:57:15 → 2026-11-21 02:59:27 UTC, budget $200
+202.5 hours, 2026-11-12 16:57:15 → 2026-11-21 03:29:35 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+4.54 |
+| Rewards earned | $+4.64 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.54** (+1.8%) |
-| At this rate, per day | $+0.42 |
+| **Net result** | **$+3.64** (+1.8%) |
+| At this rate, per day | $+0.43 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
-| Will Russia invade another country by December 31, 2027? | $0.586 | 0 | 5.1% |
+| Will Russia invade another country by December 31, 2027? | $0.626 | 0 | 5.0% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
@@ -31,6 +31,7 @@
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
+| US announces end of Iranian blockade by January 31, 2027? | $0.063 | 0 | 2.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
