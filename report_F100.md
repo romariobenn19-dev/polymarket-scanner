@@ -1,21 +1,21 @@
 # Rewards bot: paper results
 
-196.4 hours, 2026-11-12 16:57:15 → 2026-11-20 21:18:27 UTC, budget $100
+199.5 hours, 2026-11-12 16:57:15 → 2026-11-21 00:28:54 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+2.81 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.75 |
-| **Net result** | **$+1.06** (+1.1%) |
-| At this rate, per day | $+0.13 |
-| Still holding (at midpoint) | $38.75 |
+| Rewards earned | $+2.83 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
+| **Net result** | **$+1.83** (+1.8%) |
+| At this rate, per day | $+0.22 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.577 | 1 | 6.7% |
+| Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | Will Russia invade another country by December 31, 2027? | $0.202 | 0 | 4.9% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
@@ -31,15 +31,15 @@
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
+| Will Benjamin Netanyahu be the next leader out before 2027? | $0.036 | 0 | 4.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
-| Will Benjamin Netanyahu be the next leader out before 2027? | $0.012 | 0 | 2.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 
-24 times it pulled its orders for safety (fast move or other makers leaving).
+25 times it pulled its orders for safety (fast move or other makers leaving).
 
-1 paper fills (price moved through our order).
+2 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

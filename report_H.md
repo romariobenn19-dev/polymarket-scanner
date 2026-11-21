@@ -1,20 +1,20 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-185.0 hours, budget $50, $10 per trade
+188.3 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
-| Trades settled or exited | 1 (0 profitable, average 0.0 days held) |
-| Profit on those | $-8.83 |
-| Open trades | 3 (worth $30.34 at today's prices) |
-| **Total now** | **$41.47 (-8.53)** |
+| Trades settled or exited | 2 (1 profitable, average 3.9 days held) |
+| Profit on those | $-8.47 |
+| Open trades | 2 (worth $20.17 at today's prices) |
+| **Total now** | **$41.68 (-8.32)** |
 
 ## Trades
 
 | Market | Side | Paid | Hours past deadline | Result | PnL |
 |---|---|---|---|---|---|
 | Will "FRESH" first week sales be at least 60k? | NO | 97.7¢ | 43 | safety exit (price fell below 70c) | $-8.83 |
-| Will annual inflation be 3.7% in October? | YES | 96.4¢ | 47 | waiting for settlement |  |
+| Will annual inflation be 3.7% in October? | YES | 96.4¢ | 47 | settled | $+0.36 |
 | Will Core CPI YoY be 2.6% in October? | YES | 95.7¢ | 47 | waiting for settlement |  |
 | Will Russia target Kyiv on November 6, 2026? | YES | 94.2¢ | 143 | waiting for settlement |  |
 
