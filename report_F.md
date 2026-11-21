@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-210.3 hours, 2026-11-12 15:14:49 → 2026-11-21 09:32:55 UTC, budget $50
+210.8 hours, 2026-11-12 15:14:49 → 2026-11-21 10:03:02 UTC, budget $50
 
 | | |
 |---|---|
@@ -23,6 +23,7 @@
 | Will Z.ai be the third-best Chinese AI company at the end of November  | $0.027 | 0 | 3.8% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.001 | 0 | 2.4% |
 
 9 times it pulled its orders for safety (fast move or other makers leaving).
 
