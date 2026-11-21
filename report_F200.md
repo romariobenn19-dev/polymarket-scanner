@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-219.8 hours, 2026-11-12 16:57:15 → 2026-11-21 20:43:29 UTC, budget $200
+220.3 hours, 2026-11-12 16:57:15 → 2026-11-21 21:13:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.86 |
+| Rewards earned | $+5.91 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.86** (+2.4%) |
+| **Net result** | **$+4.91** (+2.5%) |
 | At this rate, per day | $+0.53 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -25,7 +25,7 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.125 | 0 | 2.3% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.141 | 0 | 2.2% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -33,6 +33,7 @@
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
+| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
@@ -40,7 +41,6 @@
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
-| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.044 | 0 | 6.0% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
@@ -49,8 +49,8 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-30 times it pulled its orders for safety (fast move or other makers leaving).
+31 times it pulled its orders for safety (fast move or other makers leaving).
 
-2 paper fills (price moved through our order).
+4 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
