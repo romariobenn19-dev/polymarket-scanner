@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-207.1 hours, 2026-11-12 16:57:15 → 2026-11-21 08:02:19 UTC, budget $200
+207.6 hours, 2026-11-12 16:57:15 → 2026-11-21 08:32:38 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.00 |
+| Rewards earned | $+5.08 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.00** (+2.0%) |
-| At this rate, per day | $+0.46 |
+| **Net result** | **$+4.08** (+2.0%) |
+| At this rate, per day | $+0.47 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $0.863 | 0 | 4.6% |
+| Will Russia invade another country by December 31, 2027? | $0.901 | 0 | 4.6% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
@@ -37,6 +37,7 @@
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
+| Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.037 | 0 | 5.0% |
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
