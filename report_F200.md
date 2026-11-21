@@ -1,31 +1,31 @@
 # Rewards bot: paper results
 
-210.6 hours, 2026-11-12 16:57:15 → 2026-11-21 11:33:21 UTC, budget $200
+211.1 hours, 2026-11-12 16:57:15 → 2026-11-21 12:03:27 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+5.48 |
+| Rewards earned | $+5.58 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.48** (+2.2%) |
-| At this rate, per day | $+0.51 |
+| **Net result** | **$+4.58** (+2.3%) |
+| At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.154 | 0 | 4.4% |
+| Will Russia invade another country by December 31, 2027? | $1.191 | 0 | 4.4% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
+| Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
-| Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.108 | 0 | 3.3% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
@@ -43,7 +43,7 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.028 | 0 | 1.4% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.024 | 0 | 0.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 

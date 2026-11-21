@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-212.3 hours, 2026-11-12 15:14:49 → 2026-11-21 11:33:22 UTC, budget $50
+212.8 hours, 2026-11-12 15:14:49 → 2026-11-21 12:03:30 UTC, budget $50
 
 | | |
 |---|---|
@@ -22,8 +22,9 @@
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
 | Will Z.ai be the third-best Chinese AI company at the end of November  | $0.027 | 0 | 3.8% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.024 | 0 | 0.3% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will Nicolás Maduro be sentenced to no prison time? | $0.001 | 0 | 5.3% |
 
 9 times it pulled its orders for safety (fast move or other makers leaving).
 
