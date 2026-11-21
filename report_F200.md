@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-204.0 hours, 2026-11-12 16:57:15 → 2026-11-21 04:59:53 UTC, budget $200
+204.5 hours, 2026-11-12 16:57:15 → 2026-11-21 05:28:48 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+4.83 |
+| Rewards earned | $+4.89 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.83** (+1.9%) |
-| At this rate, per day | $+0.45 |
+| **Net result** | **$+3.89** (+1.9%) |
+| At this rate, per day | $+0.46 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
-| Will Russia invade another country by December 31, 2027? | $0.741 | 0 | 4.7% |
+| Will Russia invade another country by December 31, 2027? | $0.778 | 0 | 4.7% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
@@ -37,12 +37,12 @@
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
+| Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.022 | 0 | 0.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
-| Will it be confirmed that a software or configuration error caused the | $0.001 | 0 | 3.4% |
 
 28 times it pulled its orders for safety (fast move or other makers leaving).
 
