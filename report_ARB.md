@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-24 scans over 21.7 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+25 scans over 22.7 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 14. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -8,12 +8,12 @@
 |---|---|---|---|---|---|---|---|
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 3 |
+| Andy Beshear 2028 election exact outcome? | 4 | $0.954 | 4.6% | 717 | 2% | no | 2 |
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 51 | 39% | no | 8 |
-| Tucker Carlson 2028 election exact outcome? | 4 | $0.961 | 3.9% | 717 | 2% | no | 2 |
-| Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 7 |
+| Tucker Carlson 2028 election exact outcome? | 4 | $0.961 | 3.9% | 717 | 2% | no | 3 |
+| Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 8 |
+| Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 717 | 2% | no | 6 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
-| Pete Buttigieg 2028 election exact outcome? | 4 | $0.969 | 3.1% | 717 | 2% | no | 5 |
-| Andy Beshear 2028 election exact outcome? | 4 | $0.975 | 2.5% | 717 | 1% | no | 1 |
 | Swiss National Bank Decision in June? | 5 | $0.977 | 2.3% | 216 | 4% | no | 1 |
 | Largest private company end of November? | 10 | $0.977 | 2.3% | 10 | 129% | no | 2 |
 | Swiss National Bank Decision in March? | 5 | $0.980 | 2.0% | 118 | 7% | no | 9 |
