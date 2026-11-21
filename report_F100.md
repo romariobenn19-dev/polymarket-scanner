@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-199.5 hours, 2026-11-12 16:57:15 → 2026-11-21 00:28:54 UTC, budget $100
+200.0 hours, 2026-11-12 16:57:15 → 2026-11-21 00:58:48 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+2.83 |
+| Rewards earned | $+2.85 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+1.83** (+1.8%) |
+| **Net result** | **$+1.85** (+1.9%) |
 | At this rate, per day | $+0.22 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -25,20 +25,20 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
+| Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
-| Will Benjamin Netanyahu be the next leader out before 2027? | $0.036 | 0 | 4.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 
-25 times it pulled its orders for safety (fast move or other makers leaving).
+26 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
