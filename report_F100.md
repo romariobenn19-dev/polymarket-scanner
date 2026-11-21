@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-200.0 hours, 2026-11-12 16:57:15 → 2026-11-21 00:58:48 UTC, budget $100
+200.5 hours, 2026-11-12 16:57:15 → 2026-11-21 01:29:07 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+2.85 |
+| Rewards earned | $+2.87 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+1.85** (+1.9%) |
+| **Net result** | **$+1.87** (+1.9%) |
 | At this rate, per day | $+0.22 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -36,6 +36,7 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.016 | 0 | 0.4% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 
 26 times it pulled its orders for safety (fast move or other makers leaving).

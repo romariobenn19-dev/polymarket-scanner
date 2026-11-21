@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-200.0 hours, 2026-11-12 16:57:15 → 2026-11-21 00:58:50 UTC, budget $200
+200.5 hours, 2026-11-12 16:57:15 → 2026-11-21 01:29:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+4.19 |
+| Rewards earned | $+4.25 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.19** (+1.6%) |
-| At this rate, per day | $+0.38 |
+| **Net result** | **$+3.25** (+1.6%) |
+| At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
-| Will Russia invade another country by December 31, 2027? | $0.332 | 0 | 4.6% |
+| Will Russia invade another country by December 31, 2027? | $0.376 | 0 | 4.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
@@ -38,6 +38,7 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.016 | 0 | 0.4% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
 27 times it pulled its orders for safety (fast move or other makers leaving).
