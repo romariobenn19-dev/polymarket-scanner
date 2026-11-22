@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-222.8 hours, 2026-11-12 16:57:15 → 2026-11-21 23:44:10 UTC, budget $100
+223.3 hours, 2026-11-12 16:57:15 → 2026-11-22 00:14:18 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.05 |
+| Rewards earned | $+4.08 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.05** (+3.1%) |
+| **Net result** | **$+3.08** (+3.1%) |
 | At this rate, per day | $+0.33 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -20,7 +20,7 @@
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.225 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
-| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.101 | 2 | 5.9% |
+| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.120 | 2 | 5.0% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
@@ -44,6 +44,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| US x Iran Effective Ceasefire by December 31? | $0.001 | 0 | 1.2% |
 
 30 times it pulled its orders for safety (fast move or other makers leaving).
 

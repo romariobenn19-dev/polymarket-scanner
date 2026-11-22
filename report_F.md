@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-224.5 hours, 2026-11-12 15:14:49 → 2026-11-21 23:44:14 UTC, budget $50
+225.0 hours, 2026-11-12 15:14:49 → 2026-11-22 00:14:22 UTC, budget $50
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
-| Will Z.ai be the third-best Chinese AI company at the end of November  | $0.027 | 0 | 3.8% |
+| Will Z.ai be the third-best Chinese AI company at the end of November  | $0.028 | 0 | 3.8% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
