@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-244.1 hours, 2026-11-12 16:57:15 → 2026-11-22 21:06:10 UTC, budget $200
+244.6 hours, 2026-11-12 16:57:15 → 2026-11-22 21:36:02 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.13 |
+| Rewards earned | $+7.18 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.13** (+3.1%) |
-| At this rate, per day | $+0.60 |
+| **Net result** | **$+6.18** (+3.1%) |
+| At this rate, per day | $+0.61 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.353 | 0 | 4.4% |
+| Will Russia invade another country by December 31, 2027? | $1.385 | 0 | 4.4% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -35,12 +35,12 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| Will it be confirmed that a software or configuration error caused the | $0.060 | 0 | 3.3% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
