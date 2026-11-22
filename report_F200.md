@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-230.8 hours, 2026-11-12 16:57:15 → 2026-11-22 07:43:39 UTC, budget $200
+231.3 hours, 2026-11-12 16:57:15 → 2026-11-22 08:13:52 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+6.26 |
+| Rewards earned | $+6.33 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.26** (+2.6%) |
+| **Net result** | **$+5.33** (+2.7%) |
 | At this rate, per day | $+0.55 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -17,9 +17,9 @@
 | Will Russia invade another country by December 31, 2027? | $1.227 | 0 | 4.4% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.344 | 0 | 2.6% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.313 | 0 | 2.5% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
@@ -28,6 +28,7 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.091 | 0 | 2.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
@@ -39,7 +40,6 @@
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |

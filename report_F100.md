@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-230.8 hours, 2026-11-12 16:57:15 → 2026-11-22 07:43:38 UTC, budget $100
+231.3 hours, 2026-11-12 16:57:15 → 2026-11-22 08:13:55 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.15 |
+| Rewards earned | $+4.18 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.15** (+3.1%) |
+| **Net result** | **$+3.18** (+3.2%) |
 | At this rate, per day | $+0.33 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -17,7 +17,7 @@
 | Will Russia invade another country by December 31, 2027? | $0.843 | 0 | 4.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.225 | 0 | 2.9% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.255 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.120 | 2 | 5.0% |
