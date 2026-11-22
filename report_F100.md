@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-235.3 hours, 2026-11-12 16:57:15 → 2026-11-22 12:13:38 UTC, budget $100
+243.1 hours, 2026-11-12 16:57:15 → 2026-11-22 20:05:56 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.53 |
+| Rewards earned | $+4.62 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.53** (+3.5%) |
+| **Net result** | **$+3.62** (+3.6%) |
 | At this rate, per day | $+0.36 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,14 +14,14 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $0.843 | 0 | 4.1% |
+| Will Russia invade another country by December 31, 2027? | $0.897 | 0 | 4.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
+| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.157 | 2 | 5.5% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
-| Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.120 | 2 | 5.0% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
@@ -47,7 +47,7 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
-30 times it pulled its orders for safety (fast move or other makers leaving).
+31 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

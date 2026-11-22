@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-237.0 hours, 2026-11-12 15:14:49 → 2026-11-22 12:13:39 UTC, budget $50
+244.9 hours, 2026-11-12 15:14:49 → 2026-11-22 20:06:01 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.89 |
+| Rewards earned | $+0.91 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.09** (+0.2%) |
+| **Net result** | **$+0.11** (+0.2%) |
 | At this rate, per day | $+0.01 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -25,6 +25,7 @@
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
+| 17 or fewer votes for Chris Van Hollen for Senate Democratic Leader? | $0.026 | 0 | 9.7% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
