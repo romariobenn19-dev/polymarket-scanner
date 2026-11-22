@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-233.3 hours, 2026-11-12 16:57:15 → 2026-11-22 10:14:20 UTC, budget $100
+233.8 hours, 2026-11-12 16:57:15 → 2026-11-22 10:44:27 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.29 |
+| Rewards earned | $+4.35 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.29** (+3.3%) |
+| **Net result** | **$+3.35** (+3.3%) |
 | At this rate, per day | $+0.34 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -19,8 +19,8 @@
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
+| US x Iran Effective Ceasefire by November 30? | $0.194 | 0 | 0.8% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
-| US x Iran Effective Ceasefire by November 30? | $0.138 | 0 | 0.7% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.120 | 2 | 5.0% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
