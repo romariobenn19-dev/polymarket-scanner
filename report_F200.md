@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-245.6 hours, 2026-11-12 16:57:15 → 2026-11-22 22:36:04 UTC, budget $200
+246.2 hours, 2026-11-12 16:57:15 → 2026-11-22 23:06:41 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.31 |
+| Rewards earned | $+7.39 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.31** (+3.2%) |
+| **Net result** | **$+6.39** (+3.2%) |
 | At this rate, per day | $+0.62 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,7 +14,7 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.457 | 0 | 4.3% |
+| Will Russia invade another country by December 31, 2027? | $1.496 | 0 | 4.3% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -23,11 +23,11 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.183 | 0 | 0.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.148 | 0 | 0.5% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
