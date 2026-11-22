@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-232.8 hours, 2026-11-12 16:57:15 → 2026-11-22 09:44:16 UTC, budget $200
+233.3 hours, 2026-11-12 16:57:15 → 2026-11-22 10:14:22 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+6.46 |
+| Rewards earned | $+6.59 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.46** (+2.7%) |
-| At this rate, per day | $+0.56 |
+| **Net result** | **$+5.59** (+2.8%) |
+| At this rate, per day | $+0.58 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -21,12 +21,13 @@
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.202 | 0 | 3.2% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.239 | 0 | 3.3% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
+| US x Iran Effective Ceasefire by November 30? | $0.138 | 0 | 0.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -42,7 +43,6 @@
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
-| US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |

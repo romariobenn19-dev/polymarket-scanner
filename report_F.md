@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-234.5 hours, 2026-11-12 15:14:49 → 2026-11-22 09:44:19 UTC, budget $50
+235.0 hours, 2026-11-12 15:14:49 → 2026-11-22 10:14:25 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.82 |
+| Rewards earned | $+0.85 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.02** (+0.0%) |
+| **Net result** | **$+0.05** (+0.1%) |
 | At this rate, per day | $+0.00 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -24,9 +24,9 @@
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
+| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.032 | 0 | 10.6% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
-| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.001 | 0 | 13.4% |
 
 9 times it pulled its orders for safety (fast move or other makers leaving).
 
