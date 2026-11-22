@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-245.4 hours, 2026-11-12 15:14:49 → 2026-11-22 20:35:56 UTC, budget $50
+245.9 hours, 2026-11-12 15:14:49 → 2026-11-22 21:06:17 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+0.94 |
+| Rewards earned | $+0.95 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.14** (+0.3%) |
+| **Net result** | **$+0.15** (+0.3%) |
 | At this rate, per day | $+0.01 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,7 +14,7 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will it be confirmed that a software or configuration error caused the | $0.282 | 2 | 7.8% |
+| Will it be confirmed that a software or configuration error caused the | $0.294 | 2 | 7.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |

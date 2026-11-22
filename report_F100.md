@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-243.6 hours, 2026-11-12 16:57:15 → 2026-11-22 20:35:54 UTC, budget $100
+244.1 hours, 2026-11-12 16:57:15 → 2026-11-22 21:06:14 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.69 |
+| Rewards earned | $+4.75 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.69** (+3.7%) |
-| At this rate, per day | $+0.36 |
+| **Net result** | **$+3.75** (+3.8%) |
+| At this rate, per day | $+0.37 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $0.934 | 0 | 4.1% |
+| Will Russia invade another country by December 31, 2027? | $0.970 | 0 | 4.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
@@ -41,6 +41,7 @@
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
+| Will it be confirmed that a software or configuration error caused the | $0.029 | 0 | 3.0% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
