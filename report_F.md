@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-234.0 hours, 2026-11-12 15:14:49 → 2026-11-22 09:14:12 UTC, budget $50
+234.5 hours, 2026-11-12 15:14:49 → 2026-11-22 09:44:19 UTC, budget $50
 
 | | |
 |---|---|
@@ -26,6 +26,7 @@
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.001 | 0 | 13.4% |
 
 9 times it pulled its orders for safety (fast move or other makers leaving).
 

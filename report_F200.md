@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-232.3 hours, 2026-11-12 16:57:15 → 2026-11-22 09:14:09 UTC, budget $200
+232.8 hours, 2026-11-12 16:57:15 → 2026-11-22 09:44:16 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+6.43 |
+| Rewards earned | $+6.46 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.43** (+2.7%) |
+| **Net result** | **$+5.46** (+2.7%) |
 | At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -21,8 +21,8 @@
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.202 | 0 | 3.2% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.167 | 0 | 3.2% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
