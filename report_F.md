@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-236.0 hours, 2026-11-12 15:14:49 → 2026-11-22 11:14:38 UTC, budget $50
+236.5 hours, 2026-11-12 15:14:49 → 2026-11-22 11:44:45 UTC, budget $50
 
 | | |
 |---|---|
@@ -19,7 +19,7 @@
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
-| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.051 | 0 | 8.6% |
+| Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.052 | 0 | 8.6% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will Z.ai be the third-best Chinese AI company at the end of November  | $0.047 | 0 | 4.2% |
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
