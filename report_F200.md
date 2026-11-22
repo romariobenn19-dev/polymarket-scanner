@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-244.6 hours, 2026-11-12 16:57:15 → 2026-11-22 21:36:02 UTC, budget $200
+245.2 hours, 2026-11-12 16:57:15 → 2026-11-22 22:06:24 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.18 |
+| Rewards earned | $+7.24 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.18** (+3.1%) |
+| **Net result** | **$+6.24** (+3.1%) |
 | At this rate, per day | $+0.61 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,7 +14,7 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.385 | 0 | 4.4% |
+| Will Russia invade another country by December 31, 2027? | $1.421 | 0 | 4.3% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -28,10 +28,10 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.116 | 0 | 0.5% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.088 | 0 | 0.5% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |

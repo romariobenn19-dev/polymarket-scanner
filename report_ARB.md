@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-40 scans over 44.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+41 scans over 45.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -8,12 +8,12 @@
 |---|---|---|---|---|---|---|---|
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 7 |
-| Jon Ossoff 2028 election exact outcome? | 4 | $0.948 | 5.2% | 716 | 3% | no | 2 |
+| Jon Ossoff 2028 election exact outcome? | 4 | $0.948 | 5.2% | 716 | 3% | no | 3 |
 | Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 716 | 3% | no | 18 |
 | Andy Beshear 2028 election exact outcome? | 4 | $0.954 | 4.6% | 717 | 2% | no | 2 |
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 50 | 39% | no | 10 |
 | Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 13 |
-| Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 8 |
+| Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 9 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
 | Bank of Israel Decision in January? | 5 | $0.973 | 2.7% | 44 | 26% | no | 1 |
 | Japan Core-Core CPI YoY in 2026 | 6 | $0.975 | 2.5% | 130 | 7% | no | 11 |
