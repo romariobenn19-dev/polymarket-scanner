@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-230.3 hours, 2026-11-12 16:57:15 → 2026-11-22 07:13:41 UTC, budget $100
+230.8 hours, 2026-11-12 16:57:15 → 2026-11-22 07:43:38 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.12 |
+| Rewards earned | $+4.15 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.12** (+3.1%) |
+| **Net result** | **$+3.15** (+3.1%) |
 | At this rate, per day | $+0.33 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -32,6 +32,7 @@
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
@@ -42,7 +43,6 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.027 | 0 | 2.6% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |

@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-230.3 hours, 2026-11-12 16:57:15 → 2026-11-22 07:13:40 UTC, budget $200
+230.8 hours, 2026-11-12 16:57:15 → 2026-11-22 07:43:39 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+6.20 |
+| Rewards earned | $+6.26 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.20** (+2.6%) |
-| At this rate, per day | $+0.54 |
+| **Net result** | **$+5.26** (+2.6%) |
+| At this rate, per day | $+0.55 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -19,8 +19,8 @@
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.313 | 0 | 2.5% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.283 | 0 | 2.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
@@ -39,6 +39,7 @@
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | US x Iran Effective Ceasefire by November 30? | $0.046 | 0 | 0.2% |
@@ -47,7 +48,6 @@
 | Will it be confirmed that a software or configuration error caused the | $0.032 | 0 | 3.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.027 | 0 | 2.6% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
