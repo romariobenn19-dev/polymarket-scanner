@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-233.8 hours, 2026-11-12 16:57:15 → 2026-11-22 10:44:29 UTC, budget $200
+234.3 hours, 2026-11-12 16:57:15 → 2026-11-22 11:14:33 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+6.68 |
+| Rewards earned | $+6.78 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.68** (+2.8%) |
-| At this rate, per day | $+0.58 |
+| **Net result** | **$+5.78** (+2.9%) |
+| At this rate, per day | $+0.59 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -20,9 +20,9 @@
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.367 | 0 | 2.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.311 | 0 | 3.3% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.275 | 0 | 3.3% |
-| US x Iran Effective Ceasefire by November 30? | $0.194 | 0 | 0.8% |
+| US x Iran Effective Ceasefire by November 30? | $0.259 | 0 | 1.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
