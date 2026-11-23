@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-256.1 hours, 2026-11-12 16:57:15 → 2026-11-23 09:03:39 UTC, budget $100
+256.6 hours, 2026-11-12 16:57:15 → 2026-11-23 09:33:21 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.16 |
+| Rewards earned | $+5.18 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.16** (+4.2%) |
+| **Net result** | **$+4.18** (+4.2%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -41,13 +41,13 @@
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.038 | 0 | 1.8% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
-| Will "GTA VI: The Album" first week sales be at least 150k? | $0.020 | 0 | 1.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
