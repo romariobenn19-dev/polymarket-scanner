@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-258.6 hours, 2026-11-12 16:57:15 → 2026-11-23 11:34:15 UTC, budget $200
+259.1 hours, 2026-11-12 16:57:15 → 2026-11-23 12:04:22 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.15 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.50 |
-| **Net result** | **$+6.65** (+3.3%) |
-| At this rate, per day | $+0.62 |
-| Still holding (at midpoint) | $14.50 |
+| Rewards earned | $+8.22 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
+| **Net result** | **$+6.22** (+3.1%) |
+| At this rate, per day | $+0.58 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.793 | 1 | 4.0% |
+| Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -48,19 +48,19 @@
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.046 | 0 | 0.9% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
+| Will an AI lab announce another Millennium Prize solution by December  | $0.024 | 0 | 1.1% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.002 | 0 | 0.9% |
-| Will an AI lab announce another Millennium Prize solution by December  | $0.001 | 0 | 1.2% |
 
-33 times it pulled its orders for safety (fast move or other makers leaving).
+35 times it pulled its orders for safety (fast move or other makers leaving).
 
-5 paper fills (price moved through our order).
+6 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
