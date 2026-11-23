@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-258.1 hours, 2026-11-12 16:57:15 → 2026-11-23 11:04:08 UTC, budget $100
+258.6 hours, 2026-11-12 16:57:15 → 2026-11-23 11:34:16 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.22 |
+| Rewards earned | $+5.23 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.22** (+4.2%) |
+| **Net result** | **$+4.23** (+4.2%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -50,6 +50,8 @@
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.002 | 0 | 0.9% |
+| Will an AI lab announce another Millennium Prize solution by December  | $0.001 | 0 | 1.2% |
 
 33 times it pulled its orders for safety (fast move or other makers leaving).
 

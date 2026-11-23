@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-259.8 hours, 2026-11-12 15:14:49 → 2026-11-23 11:04:11 UTC, budget $50
+260.3 hours, 2026-11-12 15:14:49 → 2026-11-23 11:34:19 UTC, budget $50
 
 | | |
 |---|---|
@@ -29,6 +29,7 @@
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.002 | 0 | 0.9% |
 
 9 times it pulled its orders for safety (fast move or other makers leaving).
 

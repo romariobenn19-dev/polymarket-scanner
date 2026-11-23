@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-258.1 hours, 2026-11-12 16:57:15 → 2026-11-23 11:04:07 UTC, budget $200
+258.6 hours, 2026-11-12 16:57:15 → 2026-11-23 11:34:15 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.10 |
+| Rewards earned | $+8.15 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.50 |
-| **Net result** | **$+6.60** (+3.3%) |
-| At this rate, per day | $+0.61 |
+| **Net result** | **$+6.65** (+3.3%) |
+| At this rate, per day | $+0.62 |
 | Still holding (at midpoint) | $14.50 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.785 | 1 | 4.0% |
+| Will Russia invade another country by December 31, 2027? | $1.793 | 1 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -31,6 +31,7 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| GTA VI Online released by March 31, 2027? | $0.094 | 0 | 1.1% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
@@ -43,7 +44,6 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| GTA VI Online released by March 31, 2027? | $0.060 | 0 | 1.4% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
@@ -56,6 +56,8 @@
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.002 | 0 | 0.9% |
+| Will an AI lab announce another Millennium Prize solution by December  | $0.001 | 0 | 1.2% |
 
 33 times it pulled its orders for safety (fast move or other makers leaving).
 
