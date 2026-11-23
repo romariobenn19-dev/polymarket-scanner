@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-247.7 hours, 2026-11-12 16:57:15 → 2026-11-23 00:37:02 UTC, budget $100
+248.1 hours, 2026-11-12 16:57:15 → 2026-11-23 01:05:54 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.02 |
+| Rewards earned | $+5.10 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.02** (+4.0%) |
-| At this rate, per day | $+0.39 |
+| **Net result** | **$+4.10** (+4.1%) |
+| At this rate, per day | $+0.40 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.216 | 0 | 4.0% |
+| Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
@@ -33,6 +33,7 @@
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
+| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.056 | 0 | 3.1% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.044 | 0 | 2.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
@@ -47,7 +48,6 @@
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
-| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.003 | 0 | 6.7% |
 
 33 times it pulled its orders for safety (fast move or other makers leaving).
 

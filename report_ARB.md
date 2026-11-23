@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-43 scans over 47.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+44 scans over 48.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -13,7 +13,7 @@
 | Andy Beshear 2028 election exact outcome? | 4 | $0.954 | 4.6% | 717 | 2% | no | 2 |
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 50 | 39% | no | 10 |
 | Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 13 |
-| Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 11 |
+| Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 12 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
 | Bank of Israel Decision in January? | 5 | $0.973 | 2.7% | 44 | 26% | no | 1 |
 | Japan Core-Core CPI YoY in 2026 | 6 | $0.975 | 2.5% | 130 | 7% | no | 11 |

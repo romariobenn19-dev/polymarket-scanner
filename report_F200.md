@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-247.7 hours, 2026-11-12 16:57:15 → 2026-11-23 00:36:59 UTC, budget $200
+248.1 hours, 2026-11-12 16:57:15 → 2026-11-23 01:05:57 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.65 |
+| Rewards earned | $+7.76 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.65** (+3.3%) |
-| At this rate, per day | $+0.64 |
+| **Net result** | **$+6.76** (+3.4%) |
+| At this rate, per day | $+0.65 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.600 | 0 | 4.3% |
+| Will Russia invade another country by December 31, 2027? | $1.629 | 0 | 4.3% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -35,6 +35,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.080 | 0 | 4.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
@@ -53,7 +54,6 @@
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
-| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.003 | 0 | 6.7% |
 
 33 times it pulled its orders for safety (fast move or other makers leaving).
 
