@@ -1,4 +1,4 @@
-# Paper test comparison (2026-11-23 01:06 UTC)
+# Paper test comparison (2026-11-23 07:33 UTC)
 
 Same live order books, no real orders. A uses $50; F runs with $50, $100 and $200.
 
