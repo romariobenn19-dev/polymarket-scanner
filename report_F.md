@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-260.8 hours, 2026-11-12 15:14:49 → 2026-11-23 12:04:26 UTC, budget $50
+261.3 hours, 2026-11-12 15:14:49 → 2026-11-23 12:34:33 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.05 |
+| Rewards earned | $+1.10 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.25** (+0.5%) |
-| At this rate, per day | $+0.02 |
+| **Net result** | **$+0.30** (+0.6%) |
+| At this rate, per day | $+0.03 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,13 +16,13 @@
 |---|---|---|---|
 | Will it be confirmed that a software or configuration error caused the | $0.303 | 2 | 6.5% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
 | 17 or fewer votes for Chris Van Hollen for Senate Democratic Leader? | $0.054 | 0 | 10.0% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.047 | 0 | 0.9% |
 | Will Z.ai be the third-best Chinese AI company at the end of November  | $0.047 | 0 | 4.2% |
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |

@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-259.1 hours, 2026-11-12 16:57:15 → 2026-11-23 12:04:22 UTC, budget $200
+259.6 hours, 2026-11-12 16:57:15 → 2026-11-23 12:34:27 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.22 |
+| Rewards earned | $+8.29 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.22** (+3.1%) |
+| **Net result** | **$+6.29** (+3.1%) |
 | At this rate, per day | $+0.58 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -30,6 +30,7 @@
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by March 31, 2027? | $0.094 | 0 | 1.1% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
@@ -48,16 +49,16 @@
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.046 | 0 | 0.9% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
+| Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
-| Will an AI lab announce another Millennium Prize solution by December  | $0.024 | 0 | 1.1% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
+| US x Iran Effective Ceasefire by December 31? | $0.001 | 0 | 1.1% |
 
 35 times it pulled its orders for safety (fast move or other makers leaving).
 
