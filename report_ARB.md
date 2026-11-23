@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-50 scans over 57.6 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+51 scans over 58.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -16,6 +16,7 @@
 | Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 13 |
 | Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 12 |
 | Maduro Prison Time? | 5 | $0.968 | 3.2% | 406 | 3% | no | 8 |
+| Apple’s Market Cap end of 2026? | 7 | $0.971 | 2.9% | 39 | 33% | no | 2 |
 | Bank of Israel Decision in January? | 5 | $0.973 | 2.7% | 44 | 26% | no | 1 |
 | Japan Core-Core CPI YoY in 2026 | 6 | $0.973 | 2.7% | 129 | 8% | no | 12 |
 | Swiss National Bank Decision in June? | 5 | $0.977 | 2.3% | 216 | 4% | no | 1 |
@@ -24,6 +25,5 @@
 | Alexandria Ocasio-Cortez 2028 election exact outcome? | 4 | $0.980 | 2.0% | 717 | 1% | no | 1 |
 | Canadian unwrought aluminum duty rate on December 31, 2 | 6 | $0.980 | 2.0% | 404 | 2% | no | 1 |
 | How many more Millennium Prize Problems will AI solve i | 6 | $0.983 | 1.7% | 41 | 17% | no | 1 |
-| Apple’s Market Cap end of 2026? | 7 | $0.984 | 1.6% | 39 | 17% | no | 1 |
 | Bank of England decision in December? | 5 | $0.985 | 1.5% | 25 | 25% | no | 1 |
 
