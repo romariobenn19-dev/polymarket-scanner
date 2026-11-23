@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-246.7 hours, 2026-11-12 16:57:15 → 2026-11-22 23:36:46 UTC, budget $100
+247.2 hours, 2026-11-12 16:57:15 → 2026-11-23 00:06:53 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+4.94 |
+| Rewards earned | $+4.98 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+3.94** (+3.9%) |
-| At this rate, per day | $+0.38 |
+| **Net result** | **$+3.98** (+4.0%) |
+| At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.148 | 0 | 4.0% |
+| Will Russia invade another country by December 31, 2027? | $1.185 | 0 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $0.577 | 2 | 6.7% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |

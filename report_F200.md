@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-246.7 hours, 2026-11-12 16:57:15 → 2026-11-22 23:36:47 UTC, budget $200
+247.2 hours, 2026-11-12 16:57:15 → 2026-11-23 00:06:56 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.46 |
+| Rewards earned | $+7.51 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.46** (+3.2%) |
+| **Net result** | **$+6.51** (+3.3%) |
 | At this rate, per day | $+0.63 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -14,7 +14,7 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.532 | 0 | 4.3% |
+| Will Russia invade another country by December 31, 2027? | $1.568 | 0 | 4.3% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -23,7 +23,7 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.217 | 0 | 0.6% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.239 | 0 | 0.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.152 | 0 | 1.0% |
@@ -54,7 +54,7 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-32 times it pulled its orders for safety (fast move or other makers leaving).
+33 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 
