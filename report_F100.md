@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-256.6 hours, 2026-11-12 16:57:15 → 2026-11-23 09:33:21 UTC, budget $100
+257.1 hours, 2026-11-12 16:57:15 → 2026-11-23 10:03:52 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.18 |
+| Rewards earned | $+5.20 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.18** (+4.2%) |
+| **Net result** | **$+4.20** (+4.2%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -30,6 +30,7 @@
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.064 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.062 | 0 | 2.0% |
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
@@ -41,7 +42,6 @@
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
-| Will "GTA VI: The Album" first week sales be at least 150k? | $0.038 | 0 | 1.8% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |

@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-256.6 hours, 2026-11-12 16:57:15 → 2026-11-23 09:33:18 UTC, budget $200
+257.1 hours, 2026-11-12 16:57:15 → 2026-11-23 10:03:54 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.98 |
+| Rewards earned | $+8.01 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.50 |
-| **Net result** | **$+6.48** (+3.2%) |
+| **Net result** | **$+6.51** (+3.3%) |
 | At this rate, per day | $+0.61 |
 | Still holding (at midpoint) | $14.50 |
 
@@ -14,7 +14,7 @@
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.764 | 1 | 4.2% |
+| Will Russia invade another country by December 31, 2027? | $1.771 | 1 | 4.1% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -42,13 +42,13 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.062 | 0 | 2.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
-| Will "GTA VI: The Album" first week sales be at least 150k? | $0.039 | 0 | 1.8% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
