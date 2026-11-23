@@ -1,11 +1,12 @@
 # Sum-to-one gaps (watch only, no trades)
 
-45 scans over 55.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+46 scans over 55.6 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 1.**
 
 | Market | Outcomes | Best cost | Profit | Days to end | Yearly | New outcomes possible | Times seen |
 |---|---|---|---|---|---|---|---|
+| Who will finish GTA VI next? | 13 | $0.013 | 98.7% | 39 | 46682729104094511104% | no | 1 |
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 7 |
 | Jon Ossoff 2028 election exact outcome? | 4 | $0.946 | 5.4% | 716 | 3% | no | 5 |
@@ -25,5 +26,4 @@
 | How many more Millennium Prize Problems will AI solve i | 6 | $0.983 | 1.7% | 41 | 17% | no | 1 |
 | Brazil Annual Inflation 2026 | 10 | $0.986 | 1.4% | 52 | 10% | no | 3 |
 | Which Millennium Prize Problem will AI solve next? | 6 | $0.986 | 1.4% | 406 | 1% | no | 1 |
-| Reserve Bank of Australia Decision in February? | 5 | $0.990 | 1.0% | 81 | 5% | no | 1 |
 
