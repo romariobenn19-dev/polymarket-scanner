@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-255.6 hours, 2026-11-12 16:57:15 → 2026-11-23 08:33:17 UTC, budget $200
+256.1 hours, 2026-11-12 16:57:15 → 2026-11-23 09:03:40 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+7.90 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.90** (+3.4%) |
-| At this rate, per day | $+0.65 |
-| Still holding (at midpoint) | $0.00 |
+| Rewards earned | $+7.95 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-1.50 |
+| **Net result** | **$+6.45** (+3.2%) |
+| At this rate, per day | $+0.60 |
+| Still holding (at midpoint) | $14.50 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will Russia invade another country by December 31, 2027? | $1.722 | 0 | 4.3% |
+| Will Russia invade another country by December 31, 2027? | $1.756 | 1 | 4.2% |
 | Will the Iranian regime fall before 2028? | $0.818 | 2 | 7.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -51,12 +51,13 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.020 | 0 | 1.8% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
 33 times it pulled its orders for safety (fast move or other makers leaving).
 
-4 paper fills (price moved through our order).
+5 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

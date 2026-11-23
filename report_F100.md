@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-255.6 hours, 2026-11-12 16:57:15 → 2026-11-23 08:33:19 UTC, budget $100
+256.1 hours, 2026-11-12 16:57:15 → 2026-11-23 09:03:39 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.14 |
+| Rewards earned | $+5.16 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.14** (+4.1%) |
+| **Net result** | **$+4.16** (+4.2%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -47,6 +47,7 @@
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.020 | 0 | 1.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
