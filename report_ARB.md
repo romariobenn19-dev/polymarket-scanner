@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-49 scans over 57.1 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+50 scans over 57.6 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 1.**
 
@@ -24,6 +24,6 @@
 | Alexandria Ocasio-Cortez 2028 election exact outcome? | 4 | $0.980 | 2.0% | 717 | 1% | no | 1 |
 | Canadian unwrought aluminum duty rate on December 31, 2 | 6 | $0.980 | 2.0% | 404 | 2% | no | 1 |
 | How many more Millennium Prize Problems will AI solve i | 6 | $0.983 | 1.7% | 41 | 17% | no | 1 |
+| Apple’s Market Cap end of 2026? | 7 | $0.984 | 1.6% | 39 | 17% | no | 1 |
 | Bank of England decision in December? | 5 | $0.985 | 1.5% | 25 | 25% | no | 1 |
-| Brazil Annual Inflation 2026 | 10 | $0.986 | 1.4% | 52 | 10% | no | 3 |
 

@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-257.1 hours, 2026-11-12 16:57:15 → 2026-11-23 10:03:52 UTC, budget $100
+257.6 hours, 2026-11-12 16:57:15 → 2026-11-23 10:33:59 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.20 |
+| Rewards earned | $+5.22 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.20** (+4.2%) |
+| **Net result** | **$+4.22** (+4.2%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -23,6 +23,7 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
+| Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
@@ -30,7 +31,6 @@
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.064 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| Will "GTA VI: The Album" first week sales be at least 150k? | $0.062 | 0 | 2.0% |
 | Will Benjamin Netanyahu be the next leader out before 2027? | $0.061 | 0 | 4.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
