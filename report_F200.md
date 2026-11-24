@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-282.9 hours, 2026-11-12 16:57:15 → 2026-11-24 11:51:27 UTC, budget $200
+283.4 hours, 2026-11-12 16:57:15 → 2026-11-24 12:22:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.91 |
+| Rewards earned | $+8.98 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.91** (+3.5%) |
+| **Net result** | **$+6.98** (+3.5%) |
 | At this rate, per day | $+0.59 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $1.028 | 2 | 7.3% |
+| Will the Iranian regime fall before 2028? | $1.079 | 2 | 7.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -56,6 +56,7 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
+| Netanyahu out by June 30, 2027? | $0.024 | 0 | 2.3% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
