@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-275.4 hours, 2026-11-12 16:57:15 → 2026-11-24 04:23:27 UTC, budget $100
+275.9 hours, 2026-11-12 16:57:15 → 2026-11-24 04:53:38 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.47 |
+| Rewards earned | $+5.48 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.47** (+4.5%) |
+| **Net result** | **$+4.48** (+4.5%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -53,9 +53,9 @@
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
+| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
-| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.008 | 0 | 1.1% |
 
 35 times it pulled its orders for safety (fast move or other makers leaving).
 

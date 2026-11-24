@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-275.4 hours, 2026-11-12 16:57:15 → 2026-11-24 04:23:26 UTC, budget $200
+275.9 hours, 2026-11-12 16:57:15 → 2026-11-24 04:53:35 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.55 |
+| Rewards earned | $+8.58 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.55** (+3.3%) |
+| **Net result** | **$+6.58** (+3.3%) |
 | At this rate, per day | $+0.57 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -23,9 +23,9 @@
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
+| GTA VI Online released by March 31, 2027? | $0.309 | 0 | 0.7% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| GTA VI Online released by March 31, 2027? | $0.285 | 0 | 0.7% |
-| US announces end of Iranian blockade by January 31, 2027? | $0.219 | 0 | 1.0% |
+| US announces end of Iranian blockade by January 31, 2027? | $0.226 | 0 | 0.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
@@ -61,7 +61,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-36 times it pulled its orders for safety (fast move or other makers leaving).
+37 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
