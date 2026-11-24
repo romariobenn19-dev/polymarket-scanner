@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-75 scans over 85.4 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+76 scans over 85.9 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 
@@ -10,7 +10,7 @@
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 7 |
 | Jon Ossoff 2028 election exact outcome? | 4 | $0.946 | 5.4% | 716 | 3% | no | 5 |
-| Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 715 | 3% | no | 38 |
+| Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 715 | 3% | no | 39 |
 | Andy Beshear 2028 election exact outcome? | 4 | $0.954 | 4.6% | 717 | 2% | no | 2 |
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 50 | 39% | no | 10 |
 | Will AOC announce a run for Senate or President before  | 3 | $0.961 | 3.9% | 403 | 4% | yes | 9 |

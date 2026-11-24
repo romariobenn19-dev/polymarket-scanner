@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-285.4 hours, 2026-11-12 16:57:15 → 2026-11-24 14:22:42 UTC, budget $100
+285.9 hours, 2026-11-12 16:57:15 → 2026-11-24 14:52:51 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+6.03 |
+| Rewards earned | $+6.15 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+5.03** (+5.0%) |
-| At this rate, per day | $+0.42 |
+| **Net result** | **$+5.15** (+5.1%) |
+| At this rate, per day | $+0.43 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,15 +15,15 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.973 | 2 | 6.3% |
+| Will the Iranian regime fall before 2028? | $0.974 | 2 | 6.3% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
+| Cuban regime falls by June 30, 2027? | $0.187 | 0 | 8.8% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
-| Cuban regime falls by June 30, 2027? | $0.089 | 0 | 8.3% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
@@ -38,6 +38,7 @@
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.056 | 0 | 3.1% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.050 | 0 | 2.1% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will it be confirmed that a software or configuration error caused the | $0.044 | 0 | 2.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
@@ -53,7 +54,6 @@
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.027 | 0 | 2.2% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
