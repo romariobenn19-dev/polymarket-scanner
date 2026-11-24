@@ -1,13 +1,13 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-248.8 hours, budget $50, $10 per trade
+260.2 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
-| Trades settled or exited | 4 (2 profitable, average 3.9 days held) |
-| Profit on those | $-11.79 |
-| Open trades | 3 (worth $29.04 at today's prices) |
-| **Total now** | **$37.23 (-12.77)** |
+| Trades settled or exited | 5 (3 profitable, average 3.5 days held) |
+| Profit on those | $-11.59 |
+| Open trades | 2 (worth $19.48 at today's prices) |
+| **Total now** | **$37.87 (-12.13)** |
 
 ## Trades
 
@@ -15,7 +15,7 @@
 |---|---|---|---|---|---|
 | Spread: Giants (-2.5) | YES | 90.0¢ | 6 | safety exit (price fell below 70c) | $-3.74 |
 | Will the Democratic Party candidate win the 2026 Mississippi | YES | 97.3¢ | 26 | waiting for settlement |  |
-| Will Jackson Koivun win the 2026 The RSM Classic? | NO | 98.0¢ | 7 | waiting for settlement |  |
+| Will Jackson Koivun win the 2026 The RSM Classic? | NO | 98.0¢ | 7 | settled | $+0.19 |
 | Will "FRESH" first week sales be at least 60k? | NO | 97.7¢ | 43 | safety exit (price fell below 70c) | $-8.83 |
 | Will annual inflation be 3.7% in October? | YES | 96.4¢ | 47 | settled | $+0.36 |
 | Will Core CPI YoY be 2.6% in October? | YES | 95.7¢ | 47 | settled | $+0.43 |
