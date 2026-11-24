@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-283.9 hours, 2026-11-12 16:57:15 → 2026-11-24 12:51:28 UTC, budget $100
+284.4 hours, 2026-11-12 16:57:15 → 2026-11-24 13:22:27 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.79 |
+| Rewards earned | $+5.86 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.79** (+4.8%) |
-| At this rate, per day | $+0.40 |
+| **Net result** | **$+4.86** (+4.9%) |
+| At this rate, per day | $+0.41 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.886 | 2 | 6.4% |
+| Will the Iranian regime fall before 2028? | $0.937 | 2 | 6.3% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
@@ -53,6 +53,7 @@
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
+| Will the Central Bank of Chile make no change to the monetary policy r | $0.020 | 0 | 3.4% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
