@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-271.9 hours, 2026-11-12 16:57:15 → 2026-11-24 00:52:09 UTC, budget $200
+272.4 hours, 2026-11-12 16:57:15 → 2026-11-24 01:22:34 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.34 |
+| Rewards earned | $+8.36 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.34** (+3.2%) |
+| **Net result** | **$+6.36** (+3.2%) |
 | At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -57,10 +57,11 @@
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
+| Netanyahu out by end of 2026? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-35 times it pulled its orders for safety (fast move or other makers leaving).
+36 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
