@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-273.4 hours, 2026-11-12 16:57:15 → 2026-11-24 02:22:53 UTC, budget $100
+273.9 hours, 2026-11-12 16:57:15 → 2026-11-24 02:53:02 UTC, budget $100
 
 | | |
 |---|---|
@@ -54,6 +54,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.001 | 0 | 10.2% |
 
 35 times it pulled its orders for safety (fast move or other makers leaving).
 
