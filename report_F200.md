@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-286.4 hours, 2026-11-12 16:57:15 → 2026-11-24 15:21:22 UTC, budget $200
+294.0 hours, 2026-11-12 16:57:15 → 2026-11-24 22:54:34 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+9.51 |
+| Rewards earned | $+9.55 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+7.51** (+3.8%) |
-| At this rate, per day | $+0.63 |
+| **Net result** | **$+7.55** (+3.8%) |
+| At this rate, per day | $+0.62 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -56,6 +56,7 @@
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Netanyahu out by June 30, 2027? | $0.037 | 0 | 1.8% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.033 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |

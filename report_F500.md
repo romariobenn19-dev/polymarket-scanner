@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-5.5 hours, 2026-11-24 09:52:24 → 2026-11-24 15:21:27 UTC, budget $500
+13.0 hours, 2026-11-24 09:52:24 → 2026-11-24 22:54:39 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+1.56 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+1.56** (+0.3%) |
-| At this rate, per day | $+6.83 |
+| Rewards earned | $+1.65 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+1.65** (+0.3%) |
+| At this rate, per day | $+3.04 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,16 +18,18 @@
 | Cuban regime falls by June 30, 2027? | $0.270 | 0 | 8.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.156 | 0 | 0.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.137 | 0 | 4.8% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.118 | 0 | 2.4% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.090 | 0 | 2.5% |
 | Israel x Iran ceasefire continues through December 15? | $0.082 | 0 | 1.1% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.064 | 0 | 1.3% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.054 | 0 | 2.6% |
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.6% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.033 | 0 | 1.6% |
+| Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.028 | 0 | 1.1% |
 
-1 times it pulled its orders for safety (fast move or other makers leaving).
+2 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 
