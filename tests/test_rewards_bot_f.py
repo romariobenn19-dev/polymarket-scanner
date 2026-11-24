@@ -106,8 +106,6 @@ class Selection(unittest.TestCase):
         self.assertNotIn("d", ids)                                 # $2/day pool can't clear $1.25
 
 
-if __name__ == "__main__":
-    unittest.main()
 
 
 class SelectionShare(unittest.TestCase):
@@ -136,3 +134,17 @@ class Budgets(unittest.TestCase):
             self.assertEqual((cfg.budget, cfg.max_per_market, cfg.daily_loss_limit, cfg.max_size_mult), (budget, per, loss, mult))
             self.assertEqual(cfg.max_markets, 2)
             self.assertEqual(cfg.min_daily_per_market, 1.25)
+
+
+class BudgetScaling(unittest.TestCase):
+    def test_small_budgets_unchanged_and_500_spreads_out(self):
+        import rewards_bot_f as f
+        for b in (50, 100, 200):
+            c = f.budget_config(b)
+            self.assertEqual((c.max_markets, c.max_stuck, c.max_per_market), (2, 2, b / 2))
+        c = f.budget_config(500)
+        self.assertEqual((c.max_markets, c.max_stuck, c.max_per_market, c.daily_loss_limit), (10, 3, 125, 75))
+
+
+if __name__ == "__main__":
+    unittest.main()

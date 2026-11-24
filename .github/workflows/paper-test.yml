@@ -1,4 +1,4 @@
-name: Paper test (rewards bots A/F, settle bot H, arbitrage watch)
+name: Paper test (rewards bots A/F, arbitrage watch)
 
 # Starts automatically every 6 hours (also manually: Actions > Paper test > Run workflow).
 # To stop the automatic runs: Actions > Paper test > ... > Disable workflow.
@@ -47,7 +47,7 @@ jobs:
           fi
           ls -la paper_*.db 2>/dev/null || echo "starting fresh"
 
-      - name: Run versions A, F ($50/$100/$200), H and the arbitrage watch
+      - name: Run versions A, F ($50/$100/$200/$500) and the arbitrage watch
         env:
           HOURS: ${{ inputs.hours || '5.5' }}
         run: |
@@ -55,10 +55,10 @@ jobs:
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F.db > paper_F.log 2>&1 & F=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F100.db --budget 100 > paper_F100.log 2>&1 & F100=$!
           python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F200.db --budget 200 > paper_F200.log 2>&1 & F200=$!
-          python3 settle_bot.py run --hours "$HOURS" --db paper_H.db > paper_H.log 2>&1 & H=$!
+          python3 rewards_bot_f.py run --hours "$HOURS" --db paper_F500.db --budget 500 > paper_F500.log 2>&1 & F500=$!
           python3 arb_watch.py run --hours "$HOURS" --db paper_ARB.db > paper_ARB.log 2>&1 & ARB=$!
           python3 saver.py > saver.log 2>&1 & S=$!
-          wait $A $F $F100 $F200 $H $ARB || true
+          wait $A $F $F100 $F200 $F500 $ARB || true
           kill $S 2>/dev/null || true
           tail -n 3 paper_*.log
 
@@ -67,5 +67,4 @@ jobs:
         run: |
           python3 saver.py --once
           python3 compare.py >> "$GITHUB_STEP_SUMMARY"
-          python3 settle_bot.py report --db paper_H.db >> "$GITHUB_STEP_SUMMARY" || true
           python3 arb_watch.py report --db paper_ARB.db >> "$GITHUB_STEP_SUMMARY" || true

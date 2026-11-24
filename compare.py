@@ -16,7 +16,7 @@ ALL_VERSIONS = [
     ("F100", "paper_F100.db", "Version F with $100"),
     ("F200", "paper_F200.db", "Version F with $200"),
 ]
-WANTED = os.environ.get("PAPER_VERSIONS", "A,F,F100,F200").split(",")
+WANTED = os.environ.get("PAPER_VERSIONS", "A,F,F100,F200,F500").split(",")
 VERSIONS = [v for v in ALL_VERSIONS if v[0] in WANTED]
 
 
@@ -55,7 +55,7 @@ def summary(path):
 
 def main():
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    L = [f"# Paper test comparison ({now})", "", "Same live order books, no real orders. A uses $50; F runs with $50, $100 and $200.", "",
+    L = [f"# Paper test comparison ({now})", "", "Same live order books, no real orders. A uses $50; F runs with $50, $100, $200 and $500.", "",
          "| | " + " | ".join(f"**{v}**" for v, _, _ in VERSIONS) + " |", "|---|" + "---|" * len(VERSIONS)]
     rows = {v: summary(p) for v, p, _ in VERSIONS}
     def line(label, fn):

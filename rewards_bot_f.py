@@ -405,13 +405,18 @@ class PaperBotF(re_.PaperBotE):
 
 
 def budget_config(budget: float) -> ConfigF:
-    """Same rules for every budget; only the money (and so the order sizes) changes:
-    at most half per market (80% if only one market qualifies), daily loss limit 15%."""
+    """Same rules for every budget; only the money changes. Up to $200: 2 markets, at most half per
+    market (80% if only one market qualifies). Above $200: up to 1 market per $50 (max 10), a quarter
+    of the money per market at most, stuck shares allowed in a third of them. Daily loss limit 15%."""
     cfg = ConfigF()
     cfg.budget = budget
     cfg.max_per_market = budget / 2
     cfg.daily_loss_limit = budget * 0.15
     cfg.max_size_mult = max(4, int(budget // 12.5))
+    if budget > 200:            # more money: spread over more markets instead of one ever-bigger order
+        cfg.max_markets = min(10, int(budget // 50))
+        cfg.max_stuck = max(2, cfg.max_markets // 3)
+        cfg.max_per_market = budget / 4
     return cfg
 
 
