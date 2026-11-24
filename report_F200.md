@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-294.0 hours, 2026-11-12 16:57:15 → 2026-11-24 22:54:34 UTC, budget $200
+294.5 hours, 2026-11-12 16:57:15 → 2026-11-24 23:24:25 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+9.55 |
+| Rewards earned | $+9.64 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+7.55** (+3.8%) |
+| **Net result** | **$+7.64** (+3.8%) |
 | At this rate, per day | $+0.62 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -32,6 +32,7 @@
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
@@ -56,7 +57,6 @@
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Netanyahu out by June 30, 2027? | $0.037 | 0 | 1.8% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.033 | 0 | 1.6% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
