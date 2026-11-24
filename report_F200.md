@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-274.9 hours, 2026-11-12 16:57:15 → 2026-11-24 03:53:16 UTC, budget $200
+275.4 hours, 2026-11-12 16:57:15 → 2026-11-24 04:23:26 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.51 |
+| Rewards earned | $+8.55 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.51** (+3.3%) |
+| **Net result** | **$+6.55** (+3.3%) |
 | At this rate, per day | $+0.57 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -24,8 +24,8 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| GTA VI Online released by March 31, 2027? | $0.257 | 0 | 0.8% |
-| US announces end of Iranian blockade by January 31, 2027? | $0.201 | 0 | 1.0% |
+| GTA VI Online released by March 31, 2027? | $0.285 | 0 | 0.7% |
+| US announces end of Iranian blockade by January 31, 2027? | $0.219 | 0 | 1.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |

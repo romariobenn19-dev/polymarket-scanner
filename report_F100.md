@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-274.9 hours, 2026-11-12 16:57:15 → 2026-11-24 03:53:16 UTC, budget $100
+275.4 hours, 2026-11-12 16:57:15 → 2026-11-24 04:23:27 UTC, budget $100
 
 | | |
 |---|---|
@@ -55,7 +55,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
-| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.001 | 0 | 3.8% |
+| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.008 | 0 | 1.1% |
 
 35 times it pulled its orders for safety (fast move or other makers leaving).
 

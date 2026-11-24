@@ -1,13 +1,13 @@
 # Version H (buy near-certain outcomes before settlement): paper results
 
-263.7 hours, budget $50, $10 per trade
+264.2 hours, budget $50, $10 per trade
 
 | | |
 |---|---|
 | Trades settled or exited | 5 (3 profitable, average 3.5 days held) |
 | Profit on those | $-11.59 |
-| Open trades | 2 (worth $19.51 at today's prices) |
-| **Total now** | **$37.91 (-12.09)** |
+| Open trades | 2 (worth $19.52 at today's prices) |
+| **Total now** | **$37.92 (-12.08)** |
 
 ## Trades
 
@@ -26,8 +26,8 @@
 | Reason | Markets |
 |---|---|
 | final figure can still move (weather / votes / range) | 59 |
+| spread over 3c (thin market) | 13 |
 | already holding this event | 13 |
-| spread over 3c (thin market) | 12 |
 | favourite costs 88.0c | 3 |
 | election not clearly decided (under 96c) | 2 |
 | favourite costs 98.5c | 1 |
