@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-284.9 hours, 2026-11-12 16:57:15 → 2026-11-24 13:52:38 UTC, budget $200
+285.4 hours, 2026-11-12 16:57:15 → 2026-11-24 14:22:45 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+9.16 |
+| Rewards earned | $+9.27 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+7.16** (+3.6%) |
-| At this rate, per day | $+0.60 |
+| **Net result** | **$+7.27** (+3.6%) |
+| At this rate, per day | $+0.61 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -33,6 +33,7 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| Cuban regime falls by June 30, 2027? | $0.089 | 0 | 8.3% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
@@ -56,13 +57,12 @@
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.027 | 0 | 2.2% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
-| Cuban regime falls by June 30, 2027? | $0.002 | 0 | 7.7% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.001 | 0 | 3.5% |
 
 38 times it pulled its orders for safety (fast move or other makers leaving).
 
