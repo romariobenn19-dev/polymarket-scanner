@@ -77,6 +77,17 @@ class Bot(unittest.TestCase):
         self.assertFalse(self.bot.consider({**self.c, "market_id": "x", "token": "tx"}, b, 1000))  # event e1 held
 
 
+class GameStart(unittest.TestCase):
+    def test_waits_for_kick_off_not_listed_deadline(self):
+        bot = sb.SettleBot(sb.ConfigH(), ":memory:")
+        m = {"id": "g1", "question": "Spread: Giants (-2.5)", "acceptingOrders": True, "clobTokenIds": '["t", "x"]',
+             "endDate": "2026-11-22T18:00:00Z", "gameStartTime": "2026-11-22 21:25:00+00", "volumeNum": 50000,
+             "bestBid": "0.89", "bestAsk": "0.90"}
+        kick = sb.game_start(m)
+        self.assertEqual(bot.candidates([m], kick + 3 * 3600), [])          # game still on: skip
+        self.assertEqual(len(bot.candidates([m], kick + 7 * 3600)), 1)      # 7h after kick-off: ok
+
+
 class Guards(unittest.TestCase):
     def setUp(self):
         self.bot = sb.SettleBot(sb.ConfigH(), ":memory:")

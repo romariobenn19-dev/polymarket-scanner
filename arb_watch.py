@@ -62,7 +62,7 @@ def scan(con, now: float) -> int:
         if cost is None:
             continue
         n_sets += 1
-        if cost < 0.99:
+        if 0.85 <= cost < 0.99:           # under 85c = an outcome is missing from the list, not a real gap
             try:
                 end = datetime.fromisoformat(e["endDate"].replace("Z", "+00:00")).timestamp()
             except (KeyError, ValueError):
@@ -88,8 +88,8 @@ def report(db_path="paper_ARB.db") -> str:
     L = ["# Sum-to-one gaps (watch only, no trades)", "",
          f"{n} scans over {(last - first) / 3600:.1f} hours. A gap = buying {SHARES} shares of every outcome costs under $0.99.", ""]
     rows = con.execute("""SELECT title, outcomes, MIN(cost), MIN(days_left), MAX(yearly), MAX(augmented), COUNT(*)
-                          FROM gaps GROUP BY event_id ORDER BY MIN(cost) LIMIT 20""").fetchall()
-    short = con.execute("SELECT COUNT(DISTINCT event_id) FROM gaps WHERE days_left <= 14 AND augmented = 0").fetchone()[0]
+                          FROM gaps WHERE cost >= 0.85 GROUP BY event_id ORDER BY MIN(cost) LIMIT 20""").fetchall()
+    short = con.execute("SELECT COUNT(DISTINCT event_id) FROM gaps WHERE days_left <= 14 AND augmented = 0 AND cost >= 0.85").fetchone()[0]
     L += [f"**Different markets with a gap: {len(rows)}. Of those, settling within 14 days and not open to new outcomes: {short}.**", ""]
     if rows:
         L += ["| Market | Outcomes | Best cost | Profit | Days to end | Yearly | New outcomes possible | Times seen |",

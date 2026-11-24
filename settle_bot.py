@@ -129,6 +129,9 @@ class SettleBot:
                 end = datetime.fromisoformat(m["endDate"].replace("Z", "+00:00")).timestamp()
             except (KeyError, ValueError):
                 continue
+            game = game_start(m)
+            if game:                    # sports: the listed deadline can be BEFORE kick-off (Giants lesson)
+                end = max(end, game)
             hours_past = (now - end) / H
             if not (cfg.min_hours_past <= hours_past <= cfg.max_days_past * 24):
                 continue
@@ -257,6 +260,17 @@ class SettleBot:
                     print(f"[{sc.iso(started)}] STOPPED: {errors} failed checks in a row", file=sys.stderr, flush=True)
                     return
             time.sleep(max(0, self.cfg.poll_seconds - (time.time() - started)))
+
+
+def game_start(m: dict):
+    """Kick-off time of a sports market as a timestamp, or None."""
+    g = m.get("gameStartTime")
+    if not g:
+        return None
+    try:
+        return datetime.fromisoformat(g.replace("Z", "+00:00").replace(" ", "T")).timestamp()
+    except ValueError:
+        return None
 
 
 def past_deadline_markets(now: float, max_days: float) -> list:
