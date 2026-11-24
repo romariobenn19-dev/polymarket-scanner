@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-272.4 hours, 2026-11-12 16:57:15 → 2026-11-24 01:22:34 UTC, budget $200
+272.9 hours, 2026-11-12 16:57:15 → 2026-11-24 01:52:45 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.36 |
+| Rewards earned | $+8.39 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.36** (+3.2%) |
+| **Net result** | **$+6.39** (+3.2%) |
 | At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -49,6 +49,7 @@
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
+| Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
@@ -57,7 +58,6 @@
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
-| Netanyahu out by end of 2026? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 

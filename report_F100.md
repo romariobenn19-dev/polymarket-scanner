@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-272.4 hours, 2026-11-12 16:57:15 → 2026-11-24 01:22:37 UTC, budget $100
+272.9 hours, 2026-11-12 16:57:15 → 2026-11-24 01:52:44 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.41 |
+| Rewards earned | $+5.44 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.41** (+4.4%) |
+| **Net result** | **$+4.44** (+4.4%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -37,6 +37,7 @@
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.056 | 0 | 3.1% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.053 | 0 | 2.5% |
+| Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will it be confirmed that a software or configuration error caused the | $0.044 | 0 | 2.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
@@ -51,7 +52,6 @@
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
-| Netanyahu out by end of 2026? | $0.017 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
