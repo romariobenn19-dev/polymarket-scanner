@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-284.4 hours, 2026-11-12 16:57:15 → 2026-11-24 13:22:24 UTC, budget $200
+284.9 hours, 2026-11-12 16:57:15 → 2026-11-24 13:52:38 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+9.11 |
+| Rewards earned | $+9.16 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+7.11** (+3.6%) |
+| **Net result** | **$+7.16** (+3.6%) |
 | At this rate, per day | $+0.60 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $1.177 | 2 | 7.1% |
+| Will the Iranian regime fall before 2028? | $1.214 | 2 | 7.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -26,8 +26,8 @@
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.226 | 0 | 0.9% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.173 | 0 | 1.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.162 | 0 | 1.6% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
@@ -61,6 +61,8 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
+| Cuban regime falls by June 30, 2027? | $0.002 | 0 | 7.7% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.001 | 0 | 3.5% |
 
 38 times it pulled its orders for safety (fast move or other makers leaving).
 

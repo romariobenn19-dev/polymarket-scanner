@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-284.4 hours, 2026-11-12 16:57:15 → 2026-11-24 13:22:27 UTC, budget $100
+284.9 hours, 2026-11-12 16:57:15 → 2026-11-24 13:52:35 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.86 |
+| Rewards earned | $+5.91 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.86** (+4.9%) |
+| **Net result** | **$+4.91** (+4.9%) |
 | At this rate, per day | $+0.41 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.937 | 2 | 6.3% |
+| Will the Iranian regime fall before 2028? | $0.973 | 2 | 6.3% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
@@ -48,15 +48,17 @@
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Will Nate Sheppard be the 2026 D1 Rushing Yards Leader? | $0.035 | 0 | 5.9% |
+| Will the Central Bank of Chile make no change to the monetary policy r | $0.033 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
-| Will the Central Bank of Chile make no change to the monetary policy r | $0.020 | 0 | 3.4% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Cuban regime falls by June 30, 2027? | $0.002 | 0 | 7.7% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.001 | 0 | 3.5% |
 
 35 times it pulled its orders for safety (fast move or other makers leaving).
 
