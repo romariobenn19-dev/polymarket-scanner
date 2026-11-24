@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-271.4 hours, 2026-11-12 16:57:15 → 2026-11-24 00:22:15 UTC, budget $200
+271.9 hours, 2026-11-12 16:57:15 → 2026-11-24 00:52:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.33 |
+| Rewards earned | $+8.34 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.33** (+3.2%) |
+| **Net result** | **$+6.34** (+3.2%) |
 | At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -29,7 +29,7 @@
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
-| GTA VI Online released by March 31, 2027? | $0.122 | 0 | 1.0% |
+| GTA VI Online released by March 31, 2027? | $0.136 | 0 | 0.8% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.111 | 0 | 1.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |

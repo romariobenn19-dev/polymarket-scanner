@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-271.4 hours, 2026-11-12 16:57:15 → 2026-11-24 00:22:18 UTC, budget $100
+271.9 hours, 2026-11-12 16:57:15 → 2026-11-24 00:52:09 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+5.38 |
+| Rewards earned | $+5.39 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+4.38** (+4.4%) |
+| **Net result** | **$+4.39** (+4.4%) |
 | At this rate, per day | $+0.39 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -46,11 +46,11 @@
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
+| Will Nate Sheppard be the 2026 D1 Rushing Yards Leader? | $0.035 | 0 | 5.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
-| Will Nate Sheppard be the 2026 D1 Rushing Yards Leader? | $0.017 | 0 | 5.5% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
