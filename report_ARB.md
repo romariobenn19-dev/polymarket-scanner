@@ -1,19 +1,19 @@
 # Sum-to-one gaps (watch only, no trades)
 
-68 scans over 81.9 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+69 scans over 82.4 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 
 | Market | Outcomes | Best cost | Profit | Days to end | Yearly | New outcomes possible | Times seen |
 |---|---|---|---|---|---|---|---|
-| Maduro Prison Time? | 5 | $0.943 | 5.7% | 403 | 5% | no | 10 |
+| Maduro Prison Time? | 5 | $0.943 | 5.7% | 403 | 5% | no | 11 |
 | Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 7 |
 | Jon Ossoff 2028 election exact outcome? | 4 | $0.946 | 5.4% | 716 | 3% | no | 5 |
-| Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 715 | 3% | no | 31 |
+| Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 715 | 3% | no | 32 |
 | Andy Beshear 2028 election exact outcome? | 4 | $0.954 | 4.6% | 717 | 2% | no | 2 |
 | China Annual Inflation 2026 | 9 | $0.955 | 4.5% | 50 | 39% | no | 10 |
-| Will AOC announce a run for Senate or President before  | 3 | $0.964 | 3.6% | 403 | 3% | yes | 2 |
+| Will AOC announce a run for Senate or President before  | 3 | $0.962 | 3.8% | 403 | 4% | yes | 3 |
 | Kamala Harris 2028 election exact outcome? | 4 | $0.965 | 3.5% | 717 | 2% | no | 13 |
 | Pete Buttigieg 2028 election exact outcome? | 4 | $0.966 | 3.4% | 716 | 2% | no | 12 |
 | Apple’s Market Cap end of 2026? | 7 | $0.967 | 3.3% | 38 | 37% | no | 6 |

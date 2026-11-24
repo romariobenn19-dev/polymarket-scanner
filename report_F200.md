@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-281.9 hours, 2026-11-12 16:57:15 → 2026-11-24 10:51:23 UTC, budget $200
+282.4 hours, 2026-11-12 16:57:15 → 2026-11-24 11:21:46 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.74 |
+| Rewards earned | $+8.81 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.74** (+3.4%) |
-| At this rate, per day | $+0.57 |
+| **Net result** | **$+6.81** (+3.4%) |
+| At this rate, per day | $+0.58 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,15 +15,15 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.930 | 2 | 7.4% |
+| Will the Iranian regime fall before 2028? | $0.980 | 2 | 7.3% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.367 | 0 | 2.5% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
+| GTA VI Online released by March 31, 2027? | $0.336 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
-| GTA VI Online released by March 31, 2027? | $0.309 | 0 | 0.7% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.226 | 0 | 0.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
@@ -61,7 +61,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-37 times it pulled its orders for safety (fast move or other makers leaving).
+38 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
