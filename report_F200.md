@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-281.4 hours, 2026-11-12 16:57:15 → 2026-11-24 10:21:25 UTC, budget $200
+281.9 hours, 2026-11-12 16:57:15 → 2026-11-24 10:51:23 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+8.67 |
+| Rewards earned | $+8.74 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+6.67** (+3.3%) |
+| **Net result** | **$+6.74** (+3.4%) |
 | At this rate, per day | $+0.57 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $0.882 | 2 | 7.5% |
+| Will the Iranian regime fall before 2028? | $0.930 | 2 | 7.4% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.367 | 0 | 2.5% |
@@ -28,9 +28,9 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.226 | 0 | 0.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.152 | 0 | 1.7% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.133 | 0 | 1.7% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
