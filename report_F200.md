@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-304.5 hours, 2026-11-12 16:57:15 → 2026-11-25 09:29:23 UTC, budget $200
+305.0 hours, 2026-11-12 16:57:15 → 2026-11-25 09:59:51 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+11.22 |
+| Rewards earned | $+11.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+9.22** (+4.6%) |
-| At this rate, per day | $+0.73 |
+| **Net result** | **$+9.37** (+4.7%) |
+| At this rate, per day | $+0.74 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Cuban regime falls by June 30, 2027? | $1.531 | 0 | 10.6% |
+| Cuban regime falls by June 30, 2027? | $1.655 | 0 | 10.7% |
 | Will the Iranian regime fall before 2028? | $1.490 | 2 | 6.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
@@ -32,8 +32,8 @@
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.132 | 0 | 0.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |

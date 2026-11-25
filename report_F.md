@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-306.2 hours, 2026-11-12 15:14:49 → 2026-11-25 09:29:23 UTC, budget $50
+306.8 hours, 2026-11-12 15:14:49 → 2026-11-25 09:59:56 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.15 |
+| Rewards earned | $+1.18 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.35** (+0.7%) |
+| **Net result** | **$+0.38** (+0.8%) |
 | At this rate, per day | $+0.03 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,8 +15,8 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will it be confirmed that a software or configuration error caused the | $0.303 | 2 | 6.5% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.132 | 0 | 0.7% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.099 | 0 | 0.8% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
