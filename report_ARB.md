@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-82 scans over 95.9 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+83 scans over 96.4 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 
@@ -20,10 +20,10 @@
 | Bank of Israel Decision in January? | 5 | $0.973 | 2.7% | 44 | 26% | no | 1 |
 | Japan Core-Core CPI YoY in 2026 | 6 | $0.973 | 2.7% | 129 | 8% | no | 12 |
 | Swiss National Bank Decision in June? | 5 | $0.977 | 2.3% | 216 | 4% | no | 1 |
+| Which Millennium Prize Problem will AI solve next? | 6 | $0.977 | 2.3% | 402 | 2% | no | 3 |
 | Largest private company end of November? | 10 | $0.977 | 2.3% | 10 | 129% | no | 2 |
 | Swiss National Bank Decision in March? | 5 | $0.980 | 2.0% | 118 | 7% | no | 9 |
 | Alexandria Ocasio-Cortez 2028 election exact outcome? | 4 | $0.980 | 2.0% | 717 | 1% | no | 1 |
 | Canadian unwrought aluminum duty rate on December 31, 2 | 6 | $0.980 | 2.0% | 403 | 2% | no | 2 |
 | How many more Millennium Prize Problems will AI solve i | 6 | $0.983 | 1.7% | 41 | 17% | no | 1 |
-| Bank of England decision in December? | 5 | $0.985 | 1.5% | 25 | 25% | no | 1 |
 
