@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-25.6 hours, 2026-11-24 09:52:24 → 2026-11-25 11:30:35 UTC, budget $500
+26.1 hours, 2026-11-24 09:52:24 → 2026-11-25 12:00:45 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+4.81 |
+| Rewards earned | $+4.96 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+4.81** (+1.0%) |
-| At this rate, per day | $+4.51 |
+| **Net result** | **$+4.96** (+1.0%) |
+| At this rate, per day | $+4.56 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $1.980 | 0 | 10.5% |
+| Cuban regime falls by June 30, 2027? | $2.084 | 0 | 10.5% |
 | Will the Iranian regime fall before 2028? | $0.709 | 0 | 3.9% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.319 | 0 | 2.0% |
@@ -27,13 +27,13 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.106 | 0 | 1.1% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
+| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.071 | 0 | 2.7% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.067 | 0 | 1.5% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.054 | 0 | 2.6% |
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.6% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
-| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.044 | 0 | 2.5% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.001 | 0 | 2.7% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.019 | 0 | 1.7% |
 
 7 times it pulled its orders for safety (fast move or other makers leaving).
 

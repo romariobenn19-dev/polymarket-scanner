@@ -1,25 +1,25 @@
 # Rewards bot: paper results
 
-306.6 hours, 2026-11-12 16:57:15 → 2026-11-25 11:30:25 UTC, budget $200
+307.1 hours, 2026-11-12 16:57:15 → 2026-11-25 12:00:37 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+11.77 |
+| Rewards earned | $+11.89 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+9.77** (+4.9%) |
-| At this rate, per day | $+0.76 |
+| **Net result** | **$+9.89** (+4.9%) |
+| At this rate, per day | $+0.77 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $1.976 | 0 | 10.6% |
+| Cuban regime falls by June 30, 2027? | $2.080 | 0 | 10.6% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Will the Iranian regime fall before 2028? | $1.490 | 2 | 6.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Zelenskyy out as Ukraine president by June 30, 2027? | $0.397 | 0 | 3.2% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
-| Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.367 | 0 | 2.5% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
