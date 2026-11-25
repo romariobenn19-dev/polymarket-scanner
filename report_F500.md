@@ -1,23 +1,23 @@
 # Rewards bot: paper results
 
-16.1 hours, 2026-11-24 09:52:24 → 2026-11-25 01:55:29 UTC, budget $500
+16.6 hours, 2026-11-24 09:52:24 → 2026-11-25 02:25:38 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+2.86 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+2.86** (+0.6%) |
-| At this rate, per day | $+4.28 |
+| Rewards earned | $+3.05 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| **Net result** | **$+3.05** (+0.6%) |
+| At this rate, per day | $+4.43 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $0.850 | 0 | 10.2% |
-| Will the Iranian regime fall before 2028? | $0.596 | 0 | 4.2% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.312 | 0 | 2.6% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.285 | 0 | 2.1% |
+| Cuban regime falls by June 30, 2027? | $0.961 | 0 | 10.2% |
+| Will the Iranian regime fall before 2028? | $0.626 | 0 | 4.1% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.319 | 0 | 2.0% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.156 | 0 | 0.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.137 | 0 | 4.8% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
@@ -28,6 +28,8 @@
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.6% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
+| Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.001 | 0 | 4.7% |
+| GTA VI Online released by June 30, 2027? | $0.001 | 0 | 0.9% |
 
 4 times it pulled its orders for safety (fast move or other makers leaving).
 
