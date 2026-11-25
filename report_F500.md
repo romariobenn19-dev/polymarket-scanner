@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-27.6 hours, 2026-11-24 09:52:24 → 2026-11-25 13:31:16 UTC, budget $500
+28.1 hours, 2026-11-24 09:52:24 → 2026-11-25 13:59:26 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+5.31 |
+| Rewards earned | $+5.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+5.31** (+1.1%) |
-| At this rate, per day | $+4.61 |
+| **Net result** | **$+5.37** (+1.1%) |
+| At this rate, per day | $+4.58 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,13 +18,13 @@
 | Will the Iranian regime fall before 2028? | $0.709 | 0 | 3.9% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.319 | 0 | 2.0% |
-| Israel x Iran ceasefire continues through December 15? | $0.239 | 0 | 1.1% |
+| Israel x Iran ceasefire continues through December 15? | $0.264 | 0 | 1.1% |
 | GTA VI Online released by June 30, 2027? | $0.198 | 0 | 1.0% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.157 | 0 | 3.0% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.156 | 0 | 0.6% |
+| Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.137 | 0 | 4.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.137 | 0 | 0.5% |
-| Cuban regime falls by December 31, 2027? | $0.111 | 0 | 2.6% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.106 | 0 | 1.1% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
