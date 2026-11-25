@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-309.0 hours, 2026-11-12 16:57:15 → 2026-11-25 13:59:22 UTC, budget $200
+317.2 hours, 2026-11-12 16:57:15 → 2026-11-25 22:09:56 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.14 |
+| Rewards earned | $+12.22 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.14** (+5.1%) |
-| At this rate, per day | $+0.79 |
+| **Net result** | **$+10.22** (+5.1%) |
+| At this rate, per day | $+0.77 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -19,8 +19,8 @@
 | Will the Iranian regime fall before 2028? | $1.490 | 2 | 6.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.391 | 0 | 2.5% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.367 | 0 | 2.5% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
@@ -49,6 +49,7 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | GTA VI Online released by June 30, 2027? | $0.066 | 0 | 0.8% |
+| US x Iran Effective Ceasefire by December 31? | $0.065 | 0 | 1.1% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
@@ -64,7 +65,6 @@
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
-| US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
 38 times it pulled its orders for safety (fast move or other makers leaving).

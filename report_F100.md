@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-309.0 hours, 2026-11-12 16:57:15 → 2026-11-25 13:59:22 UTC, budget $100
+317.2 hours, 2026-11-12 16:57:15 → 2026-11-25 22:10:02 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.30 |
+| Rewards earned | $+8.36 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.30** (+7.3%) |
-| At this rate, per day | $+0.57 |
+| **Net result** | **$+7.36** (+7.4%) |
+| At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -30,6 +30,7 @@
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
+| US x Iran Effective Ceasefire by December 31? | $0.074 | 0 | 1.3% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.064 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
@@ -55,12 +56,12 @@
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
-| US x Iran Effective Ceasefire by December 31? | $0.020 | 0 | 0.8% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
+| Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.011 | 0 | 8.5% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
-35 times it pulled its orders for safety (fast move or other makers leaving).
+37 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 
