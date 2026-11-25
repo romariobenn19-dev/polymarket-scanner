@@ -1,23 +1,23 @@
 # Rewards bot: paper results
 
-14.0 hours, 2026-11-24 09:52:24 → 2026-11-24 23:54:56 UTC, budget $500
+14.5 hours, 2026-11-24 09:52:24 → 2026-11-25 00:24:29 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+2.06 |
+| Rewards earned | $+2.30 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+2.06** (+0.4%) |
-| At this rate, per day | $+3.52 |
+| **Net result** | **$+2.30** (+0.5%) |
+| At this rate, per day | $+3.80 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Will the Iranian regime fall before 2028? | $0.472 | 0 | 4.6% |
-| Cuban regime falls by June 30, 2027? | $0.416 | 0 | 9.9% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.186 | 0 | 2.6% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.169 | 0 | 2.8% |
+| Cuban regime falls by June 30, 2027? | $0.540 | 0 | 10.4% |
+| Will the Iranian regime fall before 2028? | $0.504 | 0 | 4.5% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.232 | 0 | 2.8% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.202 | 0 | 2.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.156 | 0 | 0.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.137 | 0 | 4.8% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
@@ -29,7 +29,7 @@
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
 
-3 times it pulled its orders for safety (fast move or other makers leaving).
+4 times it pulled its orders for safety (fast move or other makers leaving).
 
 0 paper fills (price moved through our order).
 
