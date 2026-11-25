@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-299.0 hours, 2026-11-12 16:57:15 → 2026-11-25 03:54:27 UTC, budget $200
+304.0 hours, 2026-11-12 16:57:15 → 2026-11-25 08:59:24 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+10.93 |
+| Rewards earned | $+11.08 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+8.93** (+4.5%) |
+| **Net result** | **$+9.08** (+4.5%) |
 | At this rate, per day | $+0.72 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Will the Iranian regime fall before 2028? | $1.490 | 2 | 6.2% |
-| Cuban regime falls by June 30, 2027? | $1.285 | 0 | 10.4% |
+| Cuban regime falls by June 30, 2027? | $1.412 | 0 | 10.5% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.379 | 0 | 3.3% |
@@ -26,7 +26,7 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| US announces end of Iranian blockade by January 31, 2027? | $0.226 | 0 | 0.9% |
+| US announces end of Iranian blockade by January 31, 2027? | $0.246 | 0 | 0.9% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.173 | 0 | 1.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
