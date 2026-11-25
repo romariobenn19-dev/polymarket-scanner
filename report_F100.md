@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-317.2 hours, 2026-11-12 16:57:15 → 2026-11-25 22:10:02 UTC, budget $100
+317.7 hours, 2026-11-12 16:57:15 → 2026-11-25 22:39:58 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.36 |
+| Rewards earned | $+8.41 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.36** (+7.4%) |
+| **Net result** | **$+7.41** (+7.4%) |
 | At this rate, per day | $+0.56 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -24,13 +24,13 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.163 | 0 | 0.7% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
+| US x Iran Effective Ceasefire by December 31? | $0.105 | 0 | 1.3% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
-| US x Iran Effective Ceasefire by December 31? | $0.074 | 0 | 1.3% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.064 | 0 | 0.5% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
@@ -53,11 +53,11 @@
 | Will Nate Sheppard be the 2026 D1 Rushing Yards Leader? | $0.035 | 0 | 5.9% |
 | Will the Central Bank of Chile make no change to the monetary policy r | $0.033 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
+| Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.029 | 0 | 5.5% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
-| Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.011 | 0 | 8.5% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 

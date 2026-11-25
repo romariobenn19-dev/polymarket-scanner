@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-100 scans over 117.2 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+101 scans over 117.7 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 

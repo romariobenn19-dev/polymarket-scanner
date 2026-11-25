@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-318.9 hours, 2026-11-12 15:14:49 → 2026-11-25 22:10:05 UTC, budget $50
+319.4 hours, 2026-11-12 15:14:49 → 2026-11-25 22:39:56 UTC, budget $50
 
 | | |
 |---|---|
@@ -33,7 +33,7 @@
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-12 times it pulled its orders for safety (fast move or other makers leaving).
+14 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 

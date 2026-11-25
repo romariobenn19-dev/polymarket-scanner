@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-317.2 hours, 2026-11-12 16:57:15 → 2026-11-25 22:09:56 UTC, budget $200
+317.7 hours, 2026-11-12 16:57:15 → 2026-11-25 22:39:54 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.22 |
+| Rewards earned | $+12.27 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.22** (+5.1%) |
-| At this rate, per day | $+0.77 |
+| **Net result** | **$+10.27** (+5.1%) |
+| At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -18,8 +18,8 @@
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Will the Iranian regime fall before 2028? | $1.490 | 2 | 6.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.391 | 0 | 2.5% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
@@ -36,6 +36,7 @@
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| US x Iran Effective Ceasefire by December 31? | $0.096 | 0 | 1.2% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
@@ -49,7 +50,6 @@
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | GTA VI Online released by June 30, 2027? | $0.066 | 0 | 0.8% |
-| US x Iran Effective Ceasefire by December 31? | $0.065 | 0 | 1.1% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
