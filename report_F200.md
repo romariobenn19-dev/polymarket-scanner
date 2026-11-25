@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-307.6 hours, 2026-11-12 16:57:15 → 2026-11-25 12:30:52 UTC, budget $200
+308.1 hours, 2026-11-12 16:57:15 → 2026-11-25 13:00:57 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.00 |
+| Rewards earned | $+12.07 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.00** (+5.0%) |
+| **Net result** | **$+10.07** (+5.0%) |
 | At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -40,6 +40,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
+| Cuban regime falls by December 31, 2027? | $0.081 | 0 | 2.6% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.080 | 0 | 4.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
@@ -49,9 +50,9 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
-| Cuban regime falls by December 31, 2027? | $0.054 | 0 | 2.5% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
+| GTA VI Online released by June 30, 2027? | $0.047 | 0 | 1.1% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
@@ -65,7 +66,6 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | US x Iran Effective Ceasefire by December 31? | $0.012 | 0 | 0.5% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
-| GTA VI Online released by June 30, 2027? | $0.003 | 0 | 1.8% |
 
 38 times it pulled its orders for safety (fast move or other makers leaving).
 
