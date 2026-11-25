@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-307.1 hours, 2026-11-12 16:57:15 → 2026-11-25 12:00:41 UTC, budget $100
+307.6 hours, 2026-11-12 16:57:15 → 2026-11-25 12:30:47 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.21 |
+| Rewards earned | $+8.30 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.21** (+7.2%) |
-| At this rate, per day | $+0.56 |
+| **Net result** | **$+7.30** (+7.3%) |
+| At this rate, per day | $+0.57 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $2.082 | 0 | 10.6% |
+| Cuban regime falls by June 30, 2027? | $2.169 | 0 | 10.5% |
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $1.081 | 2 | 6.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
