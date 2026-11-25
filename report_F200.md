@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-308.1 hours, 2026-11-12 16:57:15 → 2026-11-25 13:00:57 UTC, budget $200
+308.6 hours, 2026-11-12 16:57:15 → 2026-11-25 13:31:11 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.07 |
+| Rewards earned | $+12.11 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.07** (+5.0%) |
-| At this rate, per day | $+0.78 |
+| **Net result** | **$+10.11** (+5.1%) |
+| At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -34,13 +34,13 @@
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
+| Cuban regime falls by December 31, 2027? | $0.111 | 0 | 2.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
-| Cuban regime falls by December 31, 2027? | $0.081 | 0 | 2.6% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.080 | 0 | 4.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
@@ -48,11 +48,11 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
+| GTA VI Online released by June 30, 2027? | $0.066 | 0 | 0.8% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
-| GTA VI Online released by June 30, 2027? | $0.047 | 0 | 1.1% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
