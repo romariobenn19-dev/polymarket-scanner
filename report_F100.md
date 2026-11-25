@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-305.5 hours, 2026-11-12 16:57:15 → 2026-11-25 10:29:25 UTC, budget $100
+306.1 hours, 2026-11-12 16:57:15 → 2026-11-25 11:00:18 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+7.90 |
+| Rewards earned | $+8.01 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+6.90** (+6.9%) |
-| At this rate, per day | $+0.54 |
+| **Net result** | **$+7.01** (+7.0%) |
+| At this rate, per day | $+0.55 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $1.769 | 0 | 10.7% |
+| Cuban regime falls by June 30, 2027? | $1.875 | 0 | 10.6% |
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
 | Will the Iranian regime fall before 2028? | $1.081 | 2 | 6.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
@@ -22,7 +22,7 @@
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.162 | 0 | 0.7% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.163 | 0 | 0.7% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |

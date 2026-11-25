@@ -1,20 +1,20 @@
 # Rewards bot: paper results
 
-24.6 hours, 2026-11-24 09:52:24 → 2026-11-25 10:29:26 UTC, budget $500
+25.1 hours, 2026-11-24 09:52:24 → 2026-11-25 11:00:24 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+4.49 |
+| Rewards earned | $+4.66 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+4.49** (+0.9%) |
-| At this rate, per day | $+4.38 |
+| **Net result** | **$+4.66** (+0.9%) |
+| At this rate, per day | $+4.45 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
-| Cuban regime falls by June 30, 2027? | $1.771 | 0 | 10.5% |
+| Cuban regime falls by June 30, 2027? | $1.877 | 0 | 10.5% |
 | Will the Iranian regime fall before 2028? | $0.709 | 0 | 3.9% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.319 | 0 | 2.0% |
@@ -31,6 +31,8 @@
 | Cuban regime falls by December 31, 2027? | $0.053 | 0 | 2.6% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
+| Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.034 | 0 | 1.4% |
+| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.023 | 0 | 2.6% |
 
 7 times it pulled its orders for safety (fast move or other makers leaving).
 
