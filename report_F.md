@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-332.5 hours, 2026-11-12 15:14:49 → 2026-11-26 11:44:20 UTC, budget $50
+333.0 hours, 2026-11-12 15:14:49 → 2026-11-26 12:14:30 UTC, budget $50
 
 | | |
 |---|---|
@@ -32,6 +32,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will Russia capture Rai-Oleksandrivka by December 31? | $0.001 | 0 | 19.8% |
 
 14 times it pulled its orders for safety (fast move or other makers leaving).
 
