@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-332.8 hours, 2026-11-12 16:57:15 → 2026-11-26 13:43:09 UTC, budget $100
+341.0 hours, 2026-11-12 16:57:15 → 2026-11-26 21:59:10 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.41 |
+| Rewards earned | $+8.44 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.41** (+7.4%) |
-| At this rate, per day | $+0.53 |
+| **Net result** | **$+7.44** (+7.4%) |
+| At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -54,6 +54,7 @@
 | Will the Central Bank of Chile make no change to the monetary policy r | $0.033 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.029 | 0 | 5.5% |
+| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.029 | 0 | 0.3% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
