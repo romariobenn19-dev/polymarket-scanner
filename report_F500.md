@@ -1,31 +1,31 @@
 # Rewards bot: paper results
 
-40.8 hours, 2026-11-24 09:52:24 → 2026-11-26 02:41:43 UTC, budget $500
+41.3 hours, 2026-11-24 09:52:24 → 2026-11-26 03:09:56 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+6.16 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.50 |
-| **Net result** | **$+6.66** (+1.3%) |
-| At this rate, per day | $+3.92 |
-| Still holding (at midpoint) | $83.50 |
+| Rewards earned | $+6.23 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
+| **Net result** | **$+6.23** (+1.2%) |
+| At this rate, per day | $+3.62 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $0.911 | 1 | 3.7% |
+| Will the Iranian regime fall before 2028? | $0.919 | 2 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.367 | 0 | 2.0% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
+| GTA VI Online released by June 30, 2027? | $0.279 | 0 | 0.9% |
 | Israel x Iran ceasefire continues through December 15? | $0.264 | 0 | 1.1% |
-| GTA VI Online released by June 30, 2027? | $0.259 | 0 | 0.9% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.243 | 0 | 2.4% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.179 | 0 | 0.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.157 | 0 | 0.6% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.157 | 0 | 3.0% |
+| US announces end of Iranian blockade by February 28, 2027? | $0.155 | 0 | 4.7% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
-| US announces end of Iranian blockade by February 28, 2027? | $0.139 | 0 | 4.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.137 | 0 | 0.5% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
@@ -42,8 +42,8 @@
 | Will Rockstar release GTA VI on PC after March 2027? | $0.018 | 0 | 0.7% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.015 | 0 | 1.0% |
 
-12 times it pulled its orders for safety (fast move or other makers leaving).
+13 times it pulled its orders for safety (fast move or other makers leaving).
 
-3 paper fills (price moved through our order).
+4 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
