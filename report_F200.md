@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-328.8 hours, 2026-11-12 16:57:15 → 2026-11-26 09:43:33 UTC, budget $200
+329.3 hours, 2026-11-12 16:57:15 → 2026-11-26 10:13:11 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.76 |
+| Rewards earned | $+12.79 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.76** (+5.4%) |
+| **Net result** | **$+10.79** (+5.4%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -24,9 +24,9 @@
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.286 | 0 | 1.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.162 | 0 | 0.7% |
