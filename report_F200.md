@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-329.3 hours, 2026-11-12 16:57:15 → 2026-11-26 10:13:11 UTC, budget $200
+329.8 hours, 2026-11-12 16:57:15 → 2026-11-26 10:43:55 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.79 |
+| Rewards earned | $+12.84 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.79** (+5.4%) |
+| **Net result** | **$+10.84** (+5.4%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,8 +15,8 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
+| Will the Iranian regime fall before 2028? | $1.835 | 2 | 6.0% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $1.798 | 2 | 6.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
@@ -42,6 +42,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
+| GTA VI Online released by June 30, 2027? | $0.083 | 0 | 0.6% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.080 | 0 | 4.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
@@ -49,7 +50,6 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
-| GTA VI Online released by June 30, 2027? | $0.066 | 0 | 0.8% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |

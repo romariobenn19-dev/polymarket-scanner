@@ -1,4 +1,4 @@
-# Paper test comparison (2026-11-26 10:13 UTC)
+# Paper test comparison (2026-11-26 10:44 UTC)
 
 Same live order books, no real orders. A uses $50; F runs with $50, $100, $200 and $500.
 
@@ -6,15 +6,15 @@ Same live order books, no real orders. A uses $50; F runs with $50, $100, $200 a
 |---|---|---|---|---|
 | What it does | Version 2 as is: both sides, halfway out | E + realistic fills, $1 payout floor, adjusted midpoint, 1 market per event, exit ramp, minute-level risk | Version F with $100 | Version F with $200 |
 | Budget | $50 | $50 | $100 | $200 |
-| Hours running | 95.6 | 95.6 | 94.0 | 93.9 |
-| Rewards (estimated) | $+1.34 | $+1.23 | $+8.41 | $+12.79 |
+| Hours running | 96.1 | 96.1 | 94.5 | 94.4 |
+| Rewards (estimated) | $+1.34 | $+1.23 | $+8.41 | $+12.84 |
 | Rewards Polymarket would pay ($1+/market/day) | $+0.00 | $+0.00 | $+1.73 | $+1.73 |
-| Gain/loss on shares | $+18.92 | $-0.80 | $-1.00 | $-2.00 |
-| **Net result** | **$+20.26** | **$+0.43** | **$+7.41** | **$+10.79** |
-| Net per day (at this pace) | $+5.09 | $+0.11 | $+1.89 | $+2.76 |
+| Gain/loss on shares | $+18.87 | $-0.80 | $-1.00 | $-2.00 |
+| **Net result** | **$+20.21** | **$+0.43** | **$+7.41** | **$+10.84** |
+| Net per day (at this pace) | $+5.05 | $+0.11 | $+1.88 | $+2.76 |
 | Worst point | $-4.40 | $-1.29 | $-5.59 | $-6.60 |
 | Fills | 5 | 2 | 4 | 6 |
-| Safety pauses | 2245 | 14 | 37 | 38 |
+| Safety pauses | 2266 | 14 | 37 | 38 |
 
 - **A** markets: Will Joe Henley win The Voice: Season 30?; Will Diable play for Bilibili Gaming in 2027?; Jensen Huang admits to another affair by December 31?; Next Gemini Flash Model (3.9+) released by December 31, 2026; Will Anthropic be the second-best AI lab at the end of Novem; Will the next Fable model (5.2+) debut at a score of at leas; Will Anthropic raise between $75B and $85B in its IPO?; Will Anthropic have the best Math AI model at the end of Jan; Will Anthropic raise between $65B and $75B in its IPO?; Will NVIDIA's next CEO be an internal candidate?; Will Ian Buck be the next CEO of NVIDIA?; Will the D66–VVD–CDA Dutch coalition break in 2026?; Belgium snap election called by December 31?; Jensen Huang admits to another affair with a woman by Decemb; Will Jensen Huang rejoin NVIDIA by December 31, 2027?; Will 3 Jensen Huang affairs be reported by December 31?; Will Lady Gaga appear at the 2026 NFL Christmas Day halftime; Next Russia-Ukraine senior diplomatic meeting by November 30; Will Jensen Huang publicly testify before Congress by Decemb; Next Russia-Ukraine-EU Trilateral Diplomatic Meeting by Dece; Will Jensen Huang publicly testify before Congress by June 3
 - **F** markets: Tom Holland as Spider-Man?; Will "End of Beginning – Djo" be the top song for 2026?; Will Anthropic raise between $65B and $75B in its IPO?; Will the Ornn RTX 5090 Index be at least $0.75 on November 3; Will HoneyMad finish GTA VI by December 1?; Will HoneyMad finish GTA VI by November 28?; Will Z.ai be the third-best Chinese AI company at the end of; Howard Lutnick out as Secretary of Commerce by March 31, 202; Will it be confirmed that a software or configuration error ; Will Donald Trump post 80-99 Truth Social posts from Novembe; Will Nicolás Maduro be sentenced to no prison time?; Will Putin and Zelenskyy not meet by December 31, 2027?; Will Gemini Krypton debut in the top 3 of the Text Arena lea; 17 or fewer votes for Chris Van Hollen for Senate Democratic; Will Alibaba have the best Chinese AI model at the end of No; Will AI solve the Riemann Hypothesis in 2026?; Will Darius Acuff Jr. win the 2026-27 NBA Rookie of the Year; Will "GTA VI: The Album" first week sales be at least 150k?
