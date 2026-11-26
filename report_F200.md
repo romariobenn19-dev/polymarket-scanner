@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-331.3 hours, 2026-11-12 16:57:15 → 2026-11-26 12:14:21 UTC, budget $200
+331.8 hours, 2026-11-12 16:57:15 → 2026-11-26 12:44:33 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.95 |
+| Rewards earned | $+12.98 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.95** (+5.5%) |
+| **Net result** | **$+10.98** (+5.5%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -18,9 +18,9 @@
 | Will the Iranian regime fall before 2028? | $1.872 | 2 | 5.9% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.423 | 0 | 0.7% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.396 | 0 | 0.7% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
