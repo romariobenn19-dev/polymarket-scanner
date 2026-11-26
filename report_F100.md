@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-341.0 hours, 2026-11-12 16:57:15 → 2026-11-26 21:59:10 UTC, budget $100
+341.5 hours, 2026-11-12 16:57:15 → 2026-11-26 22:28:59 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.44 |
+| Rewards earned | $+8.46 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.44** (+7.4%) |
+| **Net result** | **$+7.46** (+7.5%) |
 | At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -42,6 +42,7 @@
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.050 | 0 | 2.1% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will it be confirmed that a software or configuration error caused the | $0.044 | 0 | 2.3% |
+| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.044 | 0 | 0.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
@@ -54,7 +55,6 @@
 | Will the Central Bank of Chile make no change to the monetary policy r | $0.033 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.029 | 0 | 5.5% |
-| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.029 | 0 | 0.3% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |

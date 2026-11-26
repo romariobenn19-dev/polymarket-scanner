@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-60.1 hours, 2026-11-24 09:52:24 → 2026-11-26 21:59:11 UTC, budget $500
+60.6 hours, 2026-11-24 09:52:24 → 2026-11-26 22:29:05 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+7.35 |
+| Rewards earned | $+7.43 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+7.35** (+1.5%) |
-| At this rate, per day | $+2.93 |
+| **Net result** | **$+7.43** (+1.5%) |
+| At this rate, per day | $+2.94 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,10 +15,10 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.149 | 2 | 3.7% |
+| Will the Iranian regime fall before 2028? | $1.188 | 2 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.445 | 0 | 0.6% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
-| GTA VI Online released by June 30, 2027? | $0.338 | 0 | 0.8% |
+| GTA VI Online released by June 30, 2027? | $0.362 | 0 | 0.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.243 | 0 | 2.4% |
@@ -37,10 +37,10 @@
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
+| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.044 | 0 | 0.3% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
-| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.029 | 0 | 0.3% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.018 | 0 | 0.7% |
 
