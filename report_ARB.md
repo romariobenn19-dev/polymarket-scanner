@@ -1,13 +1,13 @@
 # Sum-to-one gaps (watch only, no trades)
 
-108 scans over 121.2 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+109 scans over 121.7 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 
 | Market | Outcomes | Best cost | Profit | Days to end | Yearly | New outcomes possible | Times seen |
 |---|---|---|---|---|---|---|---|
 | Maduro Prison Time? | 5 | $0.940 | 6.0% | 403 | 6% | no | 14 |
-| Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 41 | 69% | no | 1 |
+| Next leader out of power before 2027? | 22 | $0.943 | 5.7% | 36 | 69% | no | 2 |
 | Gavin Newsom 2028 election exact outcome? | 4 | $0.944 | 5.6% | 717 | 3% | no | 7 |
 | Jon Ossoff 2028 election exact outcome? | 4 | $0.946 | 5.4% | 716 | 3% | no | 5 |
 | Tucker Carlson 2028 election exact outcome? | 4 | $0.952 | 4.8% | 715 | 3% | no | 40 |
