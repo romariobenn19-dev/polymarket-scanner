@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-322.2 hours, 2026-11-12 16:57:15 → 2026-11-26 03:09:53 UTC, budget $200
+327.8 hours, 2026-11-12 16:57:15 → 2026-11-26 08:43:12 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.67 |
+| Rewards earned | $+12.70 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.67** (+5.3%) |
-| At this rate, per day | $+0.79 |
+| **Net result** | **$+10.70** (+5.4%) |
+| At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -27,7 +27,7 @@
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.197 | 0 | 1.5% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.227 | 0 | 1.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.162 | 0 | 0.7% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |

@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-41.3 hours, 2026-11-24 09:52:24 → 2026-11-26 03:09:56 UTC, budget $500
+46.8 hours, 2026-11-24 09:52:24 → 2026-11-26 08:43:19 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+6.23 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+6.23** (+1.2%) |
-| At this rate, per day | $+3.62 |
+| Rewards earned | $+6.31 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+6.31** (+1.3%) |
+| At this rate, per day | $+3.23 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -21,7 +21,7 @@
 | GTA VI Online released by June 30, 2027? | $0.279 | 0 | 0.9% |
 | Israel x Iran ceasefire continues through December 15? | $0.264 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.243 | 0 | 2.4% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.179 | 0 | 0.6% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.209 | 0 | 0.6% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.157 | 0 | 3.0% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.155 | 0 | 4.7% |
@@ -32,15 +32,15 @@
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.067 | 0 | 1.5% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.062 | 0 | 0.5% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | Netanyahu out by June 30, 2027? | $0.038 | 0 | 1.8% |
+| Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.037 | 0 | 1.7% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.035 | 0 | 0.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.018 | 0 | 0.7% |
-| Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.015 | 0 | 1.0% |
 
 13 times it pulled its orders for safety (fast move or other makers leaving).
 
