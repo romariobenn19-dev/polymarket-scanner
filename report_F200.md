@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-330.3 hours, 2026-11-12 16:57:15 → 2026-11-26 11:14:02 UTC, budget $200
+330.8 hours, 2026-11-12 16:57:15 → 2026-11-26 11:44:17 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.89 |
+| Rewards earned | $+12.92 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.89** (+5.4%) |
+| **Net result** | **$+10.92** (+5.5%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -21,7 +21,7 @@
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
-| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.340 | 0 | 0.7% |
+| Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.368 | 0 | 0.7% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
