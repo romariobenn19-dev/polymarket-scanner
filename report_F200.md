@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-318.7 hours, 2026-11-12 16:57:15 → 2026-11-25 23:40:00 UTC, budget $200
+319.2 hours, 2026-11-12 16:57:15 → 2026-11-26 00:10:44 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.36 |
+| Rewards earned | $+12.39 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.36** (+5.2%) |
+| **Net result** | **$+10.39** (+5.2%) |
 | At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -61,6 +61,7 @@
 | Netanyahu out by June 30, 2027? | $0.037 | 0 | 1.8% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
+| Iran full airspace closure by December 31? | $0.030 | 0 | 1.2% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
