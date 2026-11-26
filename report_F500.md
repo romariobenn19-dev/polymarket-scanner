@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-39.8 hours, 2026-11-24 09:52:24 → 2026-11-26 01:41:21 UTC, budget $500
+40.3 hours, 2026-11-24 09:52:24 → 2026-11-26 02:11:31 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+6.06 |
+| Rewards earned | $+6.11 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.50 |
-| **Net result** | **$+6.56** (+1.3%) |
-| At this rate, per day | $+3.95 |
+| **Net result** | **$+6.61** (+1.3%) |
+| At this rate, per day | $+3.94 |
 | Still holding (at midpoint) | $83.50 |
 
 ## Markets quoted
@@ -15,12 +15,12 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $0.880 | 1 | 3.8% |
+| Will the Iranian regime fall before 2028? | $0.896 | 1 | 3.8% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.367 | 0 | 2.0% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Israel x Iran ceasefire continues through December 15? | $0.264 | 0 | 1.1% |
 | GTA VI Online released by June 30, 2027? | $0.258 | 0 | 0.9% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.194 | 0 | 2.4% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.221 | 0 | 2.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.157 | 0 | 3.0% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.156 | 0 | 0.6% |
@@ -40,7 +40,7 @@
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.015 | 0 | 1.0% |
-| Will Rockstar release GTA VI on PC after March 2027? | $0.000 | 0 | 0.9% |
+| Will Rockstar release GTA VI on PC after March 2027? | $0.010 | 0 | 0.8% |
 
 12 times it pulled its orders for safety (fast move or other makers leaving).
 
