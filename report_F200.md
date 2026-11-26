@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-319.2 hours, 2026-11-12 16:57:15 → 2026-11-26 00:10:44 UTC, budget $200
+319.7 hours, 2026-11-12 16:57:15 → 2026-11-26 00:40:57 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.39 |
+| Rewards earned | $+12.42 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.39** (+5.2%) |
+| **Net result** | **$+10.42** (+5.2%) |
 | At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -16,7 +16,7 @@
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
-| Will the Iranian regime fall before 2028? | $1.569 | 2 | 6.2% |
+| Will the Iranian regime fall before 2028? | $1.570 | 2 | 6.2% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
@@ -51,6 +51,7 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | GTA VI Online released by June 30, 2027? | $0.066 | 0 | 0.8% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
@@ -61,7 +62,6 @@
 | Netanyahu out by June 30, 2027? | $0.037 | 0 | 1.8% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
-| Iran full airspace closure by December 31? | $0.030 | 0 | 1.2% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
