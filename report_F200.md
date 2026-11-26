@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-329.8 hours, 2026-11-12 16:57:15 → 2026-11-26 10:43:55 UTC, budget $200
+330.3 hours, 2026-11-12 16:57:15 → 2026-11-26 11:14:02 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+12.84 |
+| Rewards earned | $+12.89 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+10.84** (+5.4%) |
+| **Net result** | **$+10.89** (+5.4%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $1.835 | 2 | 6.0% |
+| Will the Iranian regime fall before 2028? | $1.872 | 2 | 5.9% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
@@ -36,13 +36,13 @@
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
+| GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.096 | 0 | 1.2% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
-| GTA VI Online released by June 30, 2027? | $0.083 | 0 | 0.6% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.080 | 0 | 4.5% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
