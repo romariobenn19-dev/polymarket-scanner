@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-343.7 hours, 2026-11-12 15:14:49 → 2026-11-26 22:59:35 UTC, budget $50
+344.2 hours, 2026-11-12 15:14:49 → 2026-11-26 23:29:05 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.28 |
+| Rewards earned | $+1.30 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.48** (+1.0%) |
+| **Net result** | **$+0.50** (+1.0%) |
 | At this rate, per day | $+0.03 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -28,9 +28,9 @@
 | Will HoneyMad finish GTA VI by November 28? | $0.043 | 0 | 2.6% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
+| Will Nscale IPO by December 31, 2027? | $0.038 | 0 | 4.5% |
 | Will Russia capture Rai-Oleksandrivka by December 31? | $0.034 | 0 | 10.8% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
-| Will Nscale IPO by December 31, 2027? | $0.020 | 0 | 4.7% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
