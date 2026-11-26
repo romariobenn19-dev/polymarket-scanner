@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-341.5 hours, 2026-11-12 16:57:15 → 2026-11-26 22:29:05 UTC, budget $200
+342.0 hours, 2026-11-12 16:57:15 → 2026-11-26 22:59:24 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.10 |
+| Rewards earned | $+13.16 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.10** (+5.6%) |
+| **Net result** | **$+11.16** (+5.6%) |
 | At this rate, per day | $+0.78 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -28,8 +28,8 @@
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.191 | 0 | 0.6% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.162 | 0 | 0.7% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
@@ -63,6 +63,7 @@
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
+| Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.025 | 0 | 0.3% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Israel x Iran ceasefire continues through December 15? | $0.020 | 0 | 0.5% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |

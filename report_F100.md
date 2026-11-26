@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-341.5 hours, 2026-11-12 16:57:15 → 2026-11-26 22:28:59 UTC, budget $100
+342.0 hours, 2026-11-12 16:57:15 → 2026-11-26 22:59:25 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.46 |
+| Rewards earned | $+8.49 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.46** (+7.5%) |
-| At this rate, per day | $+0.52 |
+| **Net result** | **$+7.49** (+7.5%) |
+| At this rate, per day | $+0.53 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -21,8 +21,8 @@
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.191 | 0 | 0.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.163 | 0 | 0.7% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.105 | 0 | 1.3% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
