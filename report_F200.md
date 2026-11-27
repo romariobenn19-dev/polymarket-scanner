@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-356.0 hours, 2026-11-12 16:57:15 → 2026-11-27 12:57:11 UTC, budget $200
+356.5 hours, 2026-11-12 16:57:15 → 2026-11-27 13:27:25 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.92 |
+| Rewards earned | $+13.94 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.92** (+6.0%) |
+| **Net result** | **$+11.94** (+6.0%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -43,11 +43,11 @@
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.088 | 0 | 2.2% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.088 | 0 | 1.5% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.076 | 0 | 1.6% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
@@ -74,6 +74,7 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
+| Iran leadership change by June 30, 2027? | $0.004 | 0 | 8.1% |
 
 46 times it pulled its orders for safety (fast move or other makers leaving).
 

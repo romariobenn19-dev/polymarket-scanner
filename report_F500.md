@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-75.1 hours, 2026-11-24 09:52:24 → 2026-11-27 12:57:17 UTC, budget $500
+75.6 hours, 2026-11-24 09:52:24 → 2026-11-27 13:27:27 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+8.81 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+8.81** (+1.8%) |
+| Rewards earned | $+8.85 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+8.85** (+1.8%) |
 | At this rate, per day | $+2.81 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -17,19 +17,19 @@
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
 | Will the Iranian regime fall before 2028? | $1.319 | 2 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.541 | 0 | 0.6% |
-| GTA VI Online released by June 30, 2027? | $0.443 | 0 | 0.8% |
+| GTA VI Online released by June 30, 2027? | $0.466 | 0 | 0.8% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.243 | 0 | 2.4% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.244 | 0 | 2.4% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.211 | 0 | 3.3% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.210 | 0 | 2.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.175 | 0 | 2.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.162 | 0 | 2.5% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
@@ -49,6 +49,8 @@
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
+| Iran leadership change by June 30, 2027? | $0.004 | 0 | 8.1% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.004 | 0 | 7.0% |
 
 25 times it pulled its orders for safety (fast move or other makers leaving).
 

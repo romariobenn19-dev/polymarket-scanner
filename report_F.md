@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-357.7 hours, 2026-11-12 15:14:49 → 2026-11-27 12:57:16 UTC, budget $50
+358.2 hours, 2026-11-12 15:14:49 → 2026-11-27 13:27:28 UTC, budget $50
 
 | | |
 |---|---|
@@ -35,6 +35,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will Google be the best AI lab on January 15, 2027? | $0.002 | 0 | 13.4% |
 
 19 times it pulled its orders for safety (fast move or other makers leaving).
 

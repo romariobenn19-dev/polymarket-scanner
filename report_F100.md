@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-356.0 hours, 2026-11-12 16:57:15 → 2026-11-27 12:57:13 UTC, budget $100
+356.5 hours, 2026-11-12 16:57:15 → 2026-11-27 13:27:26 UTC, budget $100
 
 | | |
 |---|---|
@@ -64,6 +64,8 @@
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.004 | 0 | 7.1% |
+| Iran leadership change by June 30, 2027? | $0.004 | 0 | 8.1% |
 
 42 times it pulled its orders for safety (fast move or other makers leaving).
 
