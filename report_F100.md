@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-343.5 hours, 2026-11-12 16:57:15 → 2026-11-27 00:30:01 UTC, budget $100
+344.1 hours, 2026-11-12 16:57:15 → 2026-11-27 01:00:16 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.60 |
+| Rewards earned | $+8.63 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.60** (+7.6%) |
+| **Net result** | **$+7.63** (+7.6%) |
 | At this rate, per day | $+0.53 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -52,6 +52,7 @@
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
 | Will Nate Sheppard be the 2026 D1 Rushing Yards Leader? | $0.035 | 0 | 5.9% |
+| US-Iran Hormuz Agreement by January 31, 2027? | $0.035 | 0 | 4.3% |
 | Will the Central Bank of Chile make no change to the monetary policy r | $0.033 | 0 | 2.9% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Rockstar release GTA VI on PC in January 2027 (ET)? | $0.029 | 0 | 5.5% |
