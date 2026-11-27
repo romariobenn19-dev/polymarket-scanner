@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-84.4 hours, 2026-11-24 09:52:24 → 2026-11-27 22:15:23 UTC, budget $500
+84.9 hours, 2026-11-24 09:52:24 → 2026-11-27 22:45:58 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+9.17 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+9.17** (+1.8%) |
-| At this rate, per day | $+2.61 |
+| Rewards earned | $+9.27 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+9.27** (+1.9%) |
+| At this rate, per day | $+2.62 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -19,11 +19,11 @@
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.541 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.466 | 0 | 0.8% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.364 | 0 | 2.5% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.337 | 0 | 2.5% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
-| Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.243 | 0 | 2.2% |
+| Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.265 | 0 | 2.1% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.211 | 0 | 3.3% |
@@ -34,12 +34,12 @@
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.107 | 0 | 0.7% |
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.084 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.070 | 0 | 0.7% |
 | Another NVIDIA board member announced resignation or removal by Decemb | $0.068 | 0 | 0.3% |
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
@@ -53,7 +53,7 @@
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.031 | 0 | 2.3% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 
-27 times it pulled its orders for safety (fast move or other makers leaving).
+29 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

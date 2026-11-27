@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-365.3 hours, 2026-11-12 16:57:15 → 2026-11-27 22:15:24 UTC, budget $200
+365.8 hours, 2026-11-12 16:57:15 → 2026-11-27 22:45:45 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.14 |
+| Rewards earned | $+14.17 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.14** (+6.1%) |
+| **Net result** | **$+12.17** (+6.1%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -40,6 +40,7 @@
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.115 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.105 | 0 | 0.7% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
@@ -54,7 +55,6 @@
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.074 | 2 | 6.1% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.070 | 0 | 0.7% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
 | Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
@@ -78,7 +78,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-48 times it pulled its orders for safety (fast move or other makers leaving).
+49 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
