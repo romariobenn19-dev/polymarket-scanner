@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-344.0 hours, 2026-11-12 16:57:15 → 2026-11-27 01:00:10 UTC, budget $200
+344.6 hours, 2026-11-12 16:57:15 → 2026-11-27 01:30:21 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.40 |
+| Rewards earned | $+13.45 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.40** (+5.7%) |
+| **Net result** | **$+11.45** (+5.7%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -45,6 +45,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| Will Predict.fun launch a token by December 31, 2026? | $0.080 | 0 | 3.8% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
@@ -55,15 +56,14 @@
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
+| US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
-| Will Predict.fun launch a token by December 31, 2026? | $0.046 | 0 | 4.3% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Netanyahu out by June 30, 2027? | $0.037 | 0 | 1.8% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
-| US-Iran Hormuz Agreement by January 31, 2027? | $0.034 | 0 | 4.2% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
