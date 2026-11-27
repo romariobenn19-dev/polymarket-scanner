@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-75.6 hours, 2026-11-24 09:52:24 → 2026-11-27 13:27:27 UTC, budget $500
+76.1 hours, 2026-11-24 09:52:24 → 2026-11-27 13:55:44 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+8.85 |
+| Rewards earned | $+9.01 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+8.85** (+1.8%) |
-| At this rate, per day | $+2.81 |
+| **Net result** | **$+9.01** (+1.8%) |
+| At this rate, per day | $+2.84 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -22,13 +22,13 @@
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.244 | 0 | 2.4% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.275 | 0 | 2.5% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.211 | 0 | 3.3% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.210 | 0 | 2.6% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.202 | 0 | 2.4% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.175 | 0 | 2.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
@@ -37,6 +37,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.084 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
+| Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Another NVIDIA board member announced resignation or removal by Decemb | $0.068 | 0 | 0.3% |
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
@@ -48,9 +49,8 @@
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.031 | 0 | 2.3% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
-| Iran leadership change by June 30, 2027? | $0.004 | 0 | 8.1% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.004 | 0 | 7.0% |
 
 25 times it pulled its orders for safety (fast move or other makers leaving).
 

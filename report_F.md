@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-358.2 hours, 2026-11-12 15:14:49 → 2026-11-27 13:27:28 UTC, budget $50
+358.7 hours, 2026-11-12 15:14:49 → 2026-11-27 13:55:44 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.36 |
+| Rewards earned | $+1.38 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.56** (+1.1%) |
+| **Net result** | **$+0.58** (+1.2%) |
 | At this rate, per day | $+0.04 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -33,11 +33,11 @@
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
 | Netanyahu out by June 30, 2027? | $0.019 | 0 | 5.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
+| Will Google be the best AI lab on January 15, 2027? | $0.014 | 0 | 8.3% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
-| Will Google be the best AI lab on January 15, 2027? | $0.002 | 0 | 13.4% |
 
-19 times it pulled its orders for safety (fast move or other makers leaving).
+20 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
