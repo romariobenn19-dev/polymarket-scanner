@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-353.0 hours, 2026-11-12 16:57:15 → 2026-11-27 09:56:09 UTC, budget $200
+353.5 hours, 2026-11-12 16:57:15 → 2026-11-27 10:25:44 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.76 |
+| Rewards earned | $+13.80 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.76** (+5.9%) |
+| **Net result** | **$+11.80** (+5.9%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -37,6 +37,7 @@
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
+| Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.106 | 0 | 3.4% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
@@ -45,7 +46,6 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
-| Will Rockstar release GTA VI on PC after March 2027? | $0.081 | 0 | 1.5% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
