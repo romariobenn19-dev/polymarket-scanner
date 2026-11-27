@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-355.0 hours, 2026-11-12 16:57:15 → 2026-11-27 11:56:44 UTC, budget $200
+355.5 hours, 2026-11-12 16:57:15 → 2026-11-27 12:27:00 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.89 |
+| Rewards earned | $+13.90 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.89** (+5.9%) |
+| **Net result** | **$+11.90** (+6.0%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -54,13 +54,13 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.063 | 0 | 1.6% |
 | Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.050 | 0 | 3.4% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.047 | 0 | 1.6% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
