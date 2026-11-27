@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-353.5 hours, 2026-11-12 16:57:15 → 2026-11-27 10:25:44 UTC, budget $200
+354.0 hours, 2026-11-12 16:57:15 → 2026-11-27 10:56:26 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.80 |
+| Rewards earned | $+13.82 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.80** (+5.9%) |
+| **Net result** | **$+11.82** (+5.9%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -35,10 +35,10 @@
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
+| Will Predict.fun launch a token by December 31, 2026? | $0.134 | 0 | 3.5% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
-| Will Predict.fun launch a token by December 31, 2026? | $0.106 | 0 | 3.4% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
@@ -75,7 +75,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-45 times it pulled its orders for safety (fast move or other makers leaving).
+46 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
