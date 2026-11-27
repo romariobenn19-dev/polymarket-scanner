@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-344.2 hours, 2026-11-12 15:14:49 → 2026-11-26 23:29:05 UTC, budget $50
+344.8 hours, 2026-11-12 15:14:49 → 2026-11-26 23:59:57 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.30 |
+| Rewards earned | $+1.32 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.50** (+1.0%) |
-| At this rate, per day | $+0.03 |
+| **Net result** | **$+0.52** (+1.0%) |
+| At this rate, per day | $+0.04 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Will it be confirmed that a software or configuration error caused the | $0.303 | 2 | 6.5% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.162 | 0 | 0.6% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.185 | 0 | 0.6% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
@@ -35,7 +35,7 @@
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-15 times it pulled its orders for safety (fast move or other makers leaving).
+16 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 
