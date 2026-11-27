@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-85.4 hours, 2026-11-24 09:52:24 → 2026-11-27 23:16:09 UTC, budget $500
+85.9 hours, 2026-11-24 09:52:24 → 2026-11-27 23:46:20 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+9.42 |
+| Rewards earned | $+9.55 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+9.42** (+1.9%) |
-| At this rate, per day | $+2.65 |
+| **Net result** | **$+9.55** (+1.9%) |
+| At this rate, per day | $+2.67 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -16,9 +16,9 @@
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
 | Will the Iranian regime fall before 2028? | $1.319 | 2 | 3.7% |
-| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.541 | 0 | 0.6% |
+| Will Lindsay Clancy be the #1 searched person on Google this year? | $0.559 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.466 | 0 | 0.8% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.404 | 0 | 2.5% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.440 | 0 | 2.5% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.337 | 0 | 2.5% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.291 | 0 | 2.0% |
@@ -38,6 +38,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.084 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.077 | 0 | 7.2% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Another NVIDIA board member announced resignation or removal by Decemb | $0.068 | 0 | 0.3% |
@@ -52,9 +53,8 @@
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.031 | 0 | 2.3% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.002 | 0 | 8.1% |
 
-29 times it pulled its orders for safety (fast move or other makers leaving).
+30 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

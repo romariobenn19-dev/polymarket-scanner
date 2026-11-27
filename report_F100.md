@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-366.3 hours, 2026-11-12 16:57:15 → 2026-11-27 23:16:05 UTC, budget $100
+366.8 hours, 2026-11-12 16:57:15 → 2026-11-27 23:46:14 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.82 |
+| Rewards earned | $+8.90 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.82** (+7.8%) |
-| At this rate, per day | $+0.51 |
+| **Net result** | **$+7.90** (+7.9%) |
+| At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -30,6 +30,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.082 | 0 | 3.7% |
 | Jack Lowden announced as next James Bond? | $0.077 | 0 | 2.6% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.076 | 0 | 7.2% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |

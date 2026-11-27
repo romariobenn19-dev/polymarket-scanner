@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-366.3 hours, 2026-11-12 16:57:15 → 2026-11-27 23:16:05 UTC, budget $200
+366.8 hours, 2026-11-12 16:57:15 → 2026-11-27 23:46:12 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.26 |
+| Rewards earned | $+14.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.26** (+6.1%) |
-| At this rate, per day | $+0.80 |
+| **Net result** | **$+12.37** (+6.2%) |
+| At this rate, per day | $+0.81 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -38,17 +38,18 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.126 | 0 | 2.8% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.115 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.088 | 0 | 1.5% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.076 | 0 | 7.2% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
@@ -78,7 +79,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-49 times it pulled its orders for safety (fast move or other makers leaving).
+50 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
