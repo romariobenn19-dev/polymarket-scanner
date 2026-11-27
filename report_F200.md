@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-365.8 hours, 2026-11-12 16:57:15 → 2026-11-27 22:45:45 UTC, budget $200
+366.3 hours, 2026-11-12 16:57:15 → 2026-11-27 23:16:05 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.17 |
+| Rewards earned | $+14.26 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.17** (+6.1%) |
+| **Net result** | **$+12.26** (+6.1%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -30,6 +30,7 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.193 | 0 | 1.0% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
@@ -40,7 +41,6 @@
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.115 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.105 | 0 | 0.7% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
