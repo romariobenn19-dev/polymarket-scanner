@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-352.5 hours, 2026-11-12 16:57:15 → 2026-11-27 09:25:44 UTC, budget $200
+353.0 hours, 2026-11-12 16:57:15 → 2026-11-27 09:56:09 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.73 |
+| Rewards earned | $+13.76 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.73** (+5.9%) |
+| **Net result** | **$+11.76** (+5.9%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -45,6 +45,7 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
+| Will Rockstar release GTA VI on PC after March 2027? | $0.081 | 0 | 1.5% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
@@ -59,7 +60,6 @@
 | Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.050 | 0 | 3.4% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
-| Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
