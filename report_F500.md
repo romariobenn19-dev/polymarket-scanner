@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-71.1 hours, 2026-11-24 09:52:24 → 2026-11-27 08:55:54 UTC, budget $500
+71.6 hours, 2026-11-24 09:52:24 → 2026-11-27 09:25:43 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+8.34 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+8.34** (+1.7%) |
+| Rewards earned | $+8.40 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
+| **Net result** | **$+8.40** (+1.7%) |
 | At this rate, per day | $+2.82 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -25,8 +25,8 @@
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.210 | 0 | 2.6% |
+| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.210 | 0 | 3.2% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
-| Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.186 | 0 | 3.1% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.156 | 0 | 3.1% |
@@ -41,14 +41,14 @@
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
+| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.050 | 0 | 3.4% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
-| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.032 | 0 | 4.4% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.028 | 0 | 1.4% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.018 | 0 | 0.7% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.015 | 0 | 1.5% |
 
 22 times it pulled its orders for safety (fast move or other makers leaving).
 
