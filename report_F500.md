@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-64.6 hours, 2026-11-24 09:52:24 → 2026-11-27 02:30:48 UTC, budget $500
+65.1 hours, 2026-11-24 09:52:24 → 2026-11-27 02:59:04 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+8.20 |
+| Rewards earned | $+8.26 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.00 |
-| **Net result** | **$+8.20** (+1.6%) |
-| At this rate, per day | $+3.04 |
+| **Net result** | **$+8.26** (+1.7%) |
+| At this rate, per day | $+3.05 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -29,26 +29,26 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.157 | 0 | 3.0% |
+| Will Predict.fun launch a token by December 31, 2026? | $0.156 | 0 | 3.1% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
-| Will Predict.fun launch a token by December 31, 2026? | $0.131 | 0 | 3.2% |
+| Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
-| Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.102 | 0 | 4.1% |
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Another NVIDIA board member announced resignation or removal by Decemb | $0.068 | 0 | 0.3% |
+| Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
-| Netanyahu out by June 30, 2027? | $0.043 | 0 | 1.8% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.018 | 0 | 0.7% |
 
-20 times it pulled its orders for safety (fast move or other makers leaving).
+22 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 

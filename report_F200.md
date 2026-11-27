@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-345.6 hours, 2026-11-12 16:57:15 → 2026-11-27 02:30:42 UTC, budget $200
+346.0 hours, 2026-11-12 16:57:15 → 2026-11-27 02:59:01 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.61 |
+| Rewards earned | $+13.65 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.61** (+5.8%) |
+| **Net result** | **$+11.65** (+5.8%) |
 | At this rate, per day | $+0.81 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -37,6 +37,7 @@
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
+| Will Predict.fun launch a token by December 31, 2026? | $0.106 | 0 | 3.4% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
@@ -44,7 +45,6 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
-| Will Predict.fun launch a token by December 31, 2026? | $0.081 | 0 | 3.8% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
@@ -53,6 +53,7 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
+| Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
 | Russia x Ukraine ceasefire agreement by December 31, 2027? | $0.050 | 0 | 3.7% |
@@ -60,7 +61,6 @@
 | Will Rockstar release GTA VI on PC after March 2027? | $0.048 | 0 | 1.5% |
 | Netanyahu out by end of 2026? | $0.045 | 0 | 1.2% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.043 | 0 | 2.5% |
-| Netanyahu out by June 30, 2027? | $0.042 | 0 | 1.8% |
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
@@ -73,7 +73,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-43 times it pulled its orders for safety (fast move or other makers leaving).
+45 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 

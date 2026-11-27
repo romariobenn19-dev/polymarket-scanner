@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-347.3 hours, 2026-11-12 15:14:49 → 2026-11-27 02:30:53 UTC, budget $50
+347.7 hours, 2026-11-12 15:14:49 → 2026-11-27 02:59:02 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.35 |
+| Rewards earned | $+1.36 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.55** (+1.1%) |
+| **Net result** | **$+0.56** (+1.1%) |
 | At this rate, per day | $+0.04 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -31,12 +31,12 @@
 | Will Nscale IPO by December 31, 2027? | $0.038 | 0 | 4.5% |
 | Will Russia capture Rai-Oleksandrivka by December 31? | $0.034 | 0 | 10.8% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
+| Netanyahu out by June 30, 2027? | $0.019 | 0 | 5.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
-| Netanyahu out by June 30, 2027? | $0.005 | 0 | 10.6% |
 
-17 times it pulled its orders for safety (fast move or other makers leaving).
+19 times it pulled its orders for safety (fast move or other makers leaving).
 
 2 paper fills (price moved through our order).
 

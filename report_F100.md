@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-345.6 hours, 2026-11-12 16:57:15 → 2026-11-27 02:30:44 UTC, budget $100
+346.0 hours, 2026-11-12 16:57:15 → 2026-11-27 02:58:59 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.65 |
+| Rewards earned | $+8.69 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.65** (+7.7%) |
+| **Net result** | **$+7.69** (+7.7%) |
 | At this rate, per day | $+0.53 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -45,6 +45,7 @@
 | Will it be confirmed that a software or configuration error caused the | $0.044 | 0 | 2.3% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.044 | 0 | 0.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.043 | 0 | 0.4% |
+| Netanyahu out by June 30, 2027? | $0.043 | 0 | 6.1% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
@@ -62,9 +63,8 @@
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
-| Netanyahu out by June 30, 2027? | $0.005 | 0 | 10.0% |
 
-41 times it pulled its orders for safety (fast move or other makers leaving).
+42 times it pulled its orders for safety (fast move or other makers leaving).
 
 4 paper fills (price moved through our order).
 
