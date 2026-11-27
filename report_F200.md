@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-355.5 hours, 2026-11-12 16:57:15 → 2026-11-27 12:27:00 UTC, budget $200
+356.0 hours, 2026-11-12 16:57:15 → 2026-11-27 12:57:11 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.90 |
+| Rewards earned | $+13.92 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.90** (+6.0%) |
+| **Net result** | **$+11.92** (+6.0%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -47,6 +47,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.084 | 0 | 2.1% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.076 | 0 | 1.6% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
 | JD Vance Republican nomination odds leader on March 31? | $0.075 | 0 | 3.3% |
@@ -54,7 +55,6 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.063 | 0 | 1.6% |
 | Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |

@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-74.6 hours, 2026-11-24 09:52:24 → 2026-11-27 12:27:04 UTC, budget $500
+75.1 hours, 2026-11-24 09:52:24 → 2026-11-27 12:57:17 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+8.77 |
+| Rewards earned | $+8.81 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $+0.00 |
-| **Net result** | **$+8.77** (+1.8%) |
-| At this rate, per day | $+2.82 |
+| **Net result** | **$+8.81** (+1.8%) |
+| At this rate, per day | $+2.81 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -17,7 +17,7 @@
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
 | Will the Iranian regime fall before 2028? | $1.319 | 2 | 3.7% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.541 | 0 | 0.6% |
-| GTA VI Online released by June 30, 2027? | $0.416 | 0 | 0.8% |
+| GTA VI Online released by June 30, 2027? | $0.443 | 0 | 0.8% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.326 | 0 | 2.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
@@ -29,8 +29,8 @@
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.210 | 0 | 2.6% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.162 | 0 | 2.5% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
-| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.150 | 0 | 2.7% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
