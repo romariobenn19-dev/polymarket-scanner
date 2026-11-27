@@ -1,6 +1,6 @@
 # Sum-to-one gaps (watch only, no trades)
 
-129 scans over 144.5 hours. A gap = buying 5 shares of every outcome costs under $0.99.
+130 scans over 145.0 hours. A gap = buying 5 shares of every outcome costs under $0.99.
 
 **Different markets with a gap: 20. Of those, settling within 14 days and not open to new outcomes: 2.**
 
@@ -25,5 +25,5 @@
 | Swiss National Bank Decision in March? | 5 | $0.980 | 2.0% | 118 | 7% | no | 9 |
 | Alexandria Ocasio-Cortez 2028 election exact outcome? | 4 | $0.980 | 2.0% | 717 | 1% | no | 1 |
 | Canadian unwrought aluminum duty rate on December 31, 2 | 6 | $0.980 | 2.0% | 403 | 2% | no | 2 |
-| How many more Millennium Prize Problems will AI solve i | 6 | $0.983 | 1.7% | 41 | 17% | no | 1 |
+| Bank of England Decision in March? | 5 | $0.982 | 1.8% | 112 | 6% | no | 1 |
 

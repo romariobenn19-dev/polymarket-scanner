@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-344.6 hours, 2026-11-12 16:57:15 → 2026-11-27 01:30:21 UTC, budget $200
+345.1 hours, 2026-11-12 16:57:15 → 2026-11-27 02:00:31 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.45 |
+| Rewards earned | $+13.51 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.45** (+5.7%) |
+| **Net result** | **$+11.51** (+5.8%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -31,6 +31,7 @@
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
+| US x Iran Effective Ceasefire by December 31? | $0.155 | 0 | 1.5% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
@@ -38,7 +39,6 @@
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
-| US x Iran Effective Ceasefire by December 31? | $0.096 | 0 | 1.2% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.089 | 0 | 2.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
@@ -73,7 +73,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-42 times it pulled its orders for safety (fast move or other makers leaving).
+43 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
