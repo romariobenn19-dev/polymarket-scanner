@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-343.0 hours, 2026-11-12 16:57:15 → 2026-11-26 23:59:52 UTC, budget $200
+343.5 hours, 2026-11-12 16:57:15 → 2026-11-27 00:30:02 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.27 |
+| Rewards earned | $+13.32 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.27** (+5.6%) |
+| **Net result** | **$+11.32** (+5.7%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -28,14 +28,14 @@
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
-| Will AI solve the Riemann Hypothesis in 2026? | $0.237 | 0 | 0.6% |
+| Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
+| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
-| Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.109 | 0 | 4.2% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.096 | 0 | 1.2% |
@@ -71,7 +71,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-41 times it pulled its orders for safety (fast move or other makers leaving).
+42 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
