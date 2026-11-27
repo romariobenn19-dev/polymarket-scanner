@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-346.8 hours, 2026-11-12 15:14:49 → 2026-11-27 02:00:42 UTC, budget $50
+347.3 hours, 2026-11-12 15:14:49 → 2026-11-27 02:30:53 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.34 |
+| Rewards earned | $+1.35 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.54** (+1.1%) |
+| **Net result** | **$+0.55** (+1.1%) |
 | At this rate, per day | $+0.04 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -34,6 +34,7 @@
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Netanyahu out by June 30, 2027? | $0.005 | 0 | 10.6% |
 
 17 times it pulled its orders for safety (fast move or other makers leaving).
 
