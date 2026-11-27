@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-346.0 hours, 2026-11-12 16:57:15 → 2026-11-27 02:58:59 UTC, budget $100
+352.0 hours, 2026-11-12 16:57:15 → 2026-11-27 08:55:48 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+8.69 |
+| Rewards earned | $+8.70 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+7.69** (+7.7%) |
+| **Net result** | **$+7.70** (+7.7%) |
 | At this rate, per day | $+0.53 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -60,6 +60,7 @@
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.015 | 0 | 1.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |

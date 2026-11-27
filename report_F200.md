@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-346.0 hours, 2026-11-12 16:57:15 → 2026-11-27 02:59:01 UTC, budget $200
+352.0 hours, 2026-11-12 16:57:15 → 2026-11-27 08:55:46 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.65 |
+| Rewards earned | $+13.70 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.65** (+5.8%) |
-| At this rate, per day | $+0.81 |
+| **Net result** | **$+11.70** (+5.8%) |
+| At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -64,12 +64,14 @@
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
+| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.032 | 0 | 4.4% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
 | Howard Lutnick out as Secretary of Commerce by December 31? | $0.024 | 0 | 0.2% |
 | Israel x Iran ceasefire continues through December 15? | $0.020 | 0 | 0.5% |
 | Will Georgia Bulldogs win the 2027 CFP National Championship? | $0.019 | 0 | 1.3% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.017 | 0 | 1.0% |
+| Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.015 | 0 | 1.5% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
