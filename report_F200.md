@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-354.0 hours, 2026-11-12 16:57:15 → 2026-11-27 10:56:26 UTC, budget $200
+354.5 hours, 2026-11-12 16:57:15 → 2026-11-27 11:26:41 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+13.82 |
+| Rewards earned | $+13.87 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+11.82** (+5.9%) |
+| **Net result** | **$+11.87** (+5.9%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -30,12 +30,12 @@
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
+| Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
-| Will Predict.fun launch a token by December 31, 2026? | $0.134 | 0 | 3.5% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
