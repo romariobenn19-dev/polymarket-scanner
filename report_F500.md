@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-96.9 hours, 2026-11-24 09:52:24 → 2026-11-28 10:45:51 UTC, budget $500
+97.4 hours, 2026-11-24 09:52:24 → 2026-11-28 11:16:03 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+11.20 |
+| Rewards earned | $+11.34 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+10.63** (+2.1%) |
-| At this rate, per day | $+2.63 |
+| **Net result** | **$+10.77** (+2.2%) |
+| At this rate, per day | $+2.65 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,14 +15,14 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.584 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.617 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.530 | 0 | 0.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.529 | 0 | 2.5% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.446 | 0 | 3.7% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.444 | 0 | 1.8% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.404 | 0 | 0.7% |
-| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.338 | 0 | 2.5% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.481 | 0 | 3.6% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.461 | 0 | 1.8% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.430 | 0 | 0.7% |
+| Will Putin and Zelenskyy not meet by December 31, 2027? | $0.363 | 0 | 2.5% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.7% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.291 | 0 | 2.0% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
@@ -56,7 +56,7 @@
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 
-34 times it pulled its orders for safety (fast move or other makers leaving).
+35 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 

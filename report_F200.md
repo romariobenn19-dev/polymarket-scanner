@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-377.8 hours, 2026-11-12 16:57:15 → 2026-11-28 10:45:46 UTC, budget $200
+378.3 hours, 2026-11-12 16:57:15 → 2026-11-28 11:16:00 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.12 |
+| Rewards earned | $+15.19 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.55** (+6.3%) |
+| **Net result** | **$+12.62** (+6.3%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,16 +15,16 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $2.045 | 2 | 5.6% |
+| Will the Iranian regime fall before 2028? | $2.078 | 2 | 5.6% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.350 | 0 | 2.6% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.315 | 0 | 2.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |

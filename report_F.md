@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-379.5 hours, 2026-11-12 15:14:49 → 2026-11-28 10:45:51 UTC, budget $50
+380.0 hours, 2026-11-12 15:14:49 → 2026-11-28 11:16:03 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.43 |
+| Rewards earned | $+1.44 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.50 |
-| **Net result** | **$+0.93** (+1.9%) |
+| **Net result** | **$+0.94** (+1.9%) |
 | At this rate, per day | $+0.06 |
 | Still holding (at midpoint) | $13.90 |
 
@@ -18,11 +18,11 @@
 | Will AI solve the Riemann Hypothesis in 2026? | $0.206 | 0 | 0.6% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
+| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.069 | 1 | 4.6% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.056 | 0 | 2.6% |
 | 17 or fewer votes for Chris Van Hollen for Senate Democratic Leader? | $0.054 | 0 | 10.0% |
-| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.052 | 1 | 4.9% |
 | Will Darius Acuff Jr. win the 2026-27 NBA Rookie of the Year? | $0.047 | 0 | 13.7% |
 | Will Anthropic raise between $65B and $75B in its IPO? | $0.047 | 0 | 2.6% |
 | Will Z.ai be the third-best Chinese AI company at the end of November  | $0.047 | 0 | 4.2% |
@@ -38,7 +38,7 @@
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-21 times it pulled its orders for safety (fast move or other makers leaving).
+22 times it pulled its orders for safety (fast move or other makers leaving).
 
 3 paper fills (price moved through our order).
 
