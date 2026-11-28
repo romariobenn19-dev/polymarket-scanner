@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-367.3 hours, 2026-11-12 16:57:15 → 2026-11-28 00:16:27 UTC, budget $200
+367.8 hours, 2026-11-12 16:57:15 → 2026-11-28 00:46:38 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.48 |
+| Rewards earned | $+14.52 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.48** (+6.2%) |
+| **Net result** | **$+12.52** (+6.3%) |
 | At this rate, per day | $+0.82 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -32,6 +32,7 @@
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.193 | 0 | 1.0% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.177 | 0 | 5.6% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
@@ -39,7 +40,6 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.133 | 0 | 6.3% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.115 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
