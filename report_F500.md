@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-95.9 hours, 2026-11-24 09:52:24 → 2026-11-28 09:45:25 UTC, budget $500
+96.4 hours, 2026-11-24 09:52:24 → 2026-11-28 10:15:36 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+10.89 |
+| Rewards earned | $+11.04 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+10.32** (+2.1%) |
-| At this rate, per day | $+2.58 |
+| **Net result** | **$+10.46** (+2.1%) |
+| At this rate, per day | $+2.61 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,13 +15,13 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.514 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.549 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.530 | 0 | 0.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.529 | 0 | 2.5% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.391 | 0 | 1.9% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.368 | 0 | 3.9% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.348 | 0 | 0.8% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.417 | 0 | 1.8% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.395 | 0 | 3.7% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.376 | 0 | 0.8% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.337 | 0 | 2.5% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.7% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.291 | 0 | 2.0% |
@@ -52,9 +52,9 @@
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.035 | 0 | 2.3% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
-| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.001 | 0 | 2.6% |
 
 34 times it pulled its orders for safety (fast move or other makers leaving).
 

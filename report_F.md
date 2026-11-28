@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-378.5 hours, 2026-11-12 15:14:49 → 2026-11-28 09:45:27 UTC, budget $50
+379.0 hours, 2026-11-12 15:14:49 → 2026-11-28 10:15:39 UTC, budget $50
 
 | | |
 |---|---|
-| Rewards earned | $+1.38 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-0.80 |
-| **Net result** | **$+0.58** (+1.2%) |
-| At this rate, per day | $+0.04 |
-| Still holding (at midpoint) | $0.00 |
+| Rewards earned | $+1.41 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-0.60 |
+| **Net result** | **$+0.81** (+1.6%) |
+| At this rate, per day | $+0.05 |
+| Still holding (at midpoint) | $13.80 |
 
 ## Markets quoted
 
@@ -31,15 +31,15 @@
 | Will Nscale IPO by December 31, 2027? | $0.038 | 0 | 4.5% |
 | Will Russia capture Rai-Oleksandrivka by December 31? | $0.034 | 0 | 10.8% |
 | Will "End of Beginning – Djo" be the top song for 2026? | $0.033 | 0 | 5.6% |
+| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.033 | 1 | 5.8% |
 | Netanyahu out by June 30, 2027? | $0.019 | 0 | 5.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.016 | 0 | 2.2% |
 | Will Google be the best AI lab on January 15, 2027? | $0.014 | 0 | 8.3% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
-| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.002 | 0 | 9.5% |
 
-20 times it pulled its orders for safety (fast move or other makers leaving).
+21 times it pulled its orders for safety (fast move or other makers leaving).
 
-2 paper fills (price moved through our order).
+3 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

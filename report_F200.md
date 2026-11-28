@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-376.8 hours, 2026-11-12 16:57:15 → 2026-11-28 09:45:12 UTC, budget $200
+377.3 hours, 2026-11-12 16:57:15 → 2026-11-28 10:15:33 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.98 |
+| Rewards earned | $+15.05 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.41** (+6.2%) |
+| **Net result** | **$+12.48** (+6.2%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -30,9 +30,9 @@
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.309 | 0 | 0.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.265 | 0 | 2.5% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.236 | 0 | 2.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
@@ -69,6 +69,7 @@
 | Will the Xi and Takaichi handshake last 6–10 seconds during the summit | $0.041 | 0 | 1.8% |
 | Will HoneyMad finish GTA VI by December 1? | $0.041 | 0 | 2.0% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.034 | 0 | 2.3% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.033 | 0 | 0.5% |
 | Kimberly Powell announced resignation or removal by November 30, 2026? | $0.030 | 0 | 1.4% |
 | Will Anthropic sell between 6% and 7% of its shares in its IPO? | $0.028 | 0 | 2.0% |
