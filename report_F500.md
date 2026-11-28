@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-95.4 hours, 2026-11-24 09:52:24 → 2026-11-28 09:15:13 UTC, budget $500
+95.9 hours, 2026-11-24 09:52:24 → 2026-11-28 09:45:25 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+10.75 |
+| Rewards earned | $+10.89 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+10.18** (+2.0%) |
-| At this rate, per day | $+2.56 |
+| **Net result** | **$+10.32** (+2.1%) |
+| At this rate, per day | $+2.58 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,14 +15,14 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.482 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.514 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.530 | 0 | 0.8% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.510 | 0 | 2.6% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.341 | 0 | 4.2% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.529 | 0 | 2.5% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.391 | 0 | 1.9% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.368 | 0 | 3.9% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.348 | 0 | 0.8% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.337 | 0 | 2.5% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.316 | 0 | 0.8% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.7% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.291 | 0 | 2.0% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
@@ -39,9 +39,9 @@
 | Another NVIDIA board member announced resignation or removal by Decemb | $0.125 | 0 | 0.3% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.120 | 0 | 1.6% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
+| JD Vance Republican nomination odds leader on March 31? | $0.108 | 0 | 1.7% |
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
-| JD Vance Republican nomination odds leader on March 31? | $0.081 | 0 | 1.7% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
@@ -54,6 +54,7 @@
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.001 | 0 | 2.6% |
 
 34 times it pulled its orders for safety (fast move or other makers leaving).
 

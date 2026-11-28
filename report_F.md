@@ -1,6 +1,6 @@
 # Rewards bot: paper results
 
-378.0 hours, 2026-11-12 15:14:49 → 2026-11-28 09:15:14 UTC, budget $50
+378.5 hours, 2026-11-12 15:14:49 → 2026-11-28 09:45:27 UTC, budget $50
 
 | | |
 |---|---|
@@ -36,6 +36,7 @@
 | Will Google be the best AI lab on January 15, 2027? | $0.014 | 0 | 8.3% |
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
+| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.002 | 0 | 9.5% |
 
 20 times it pulled its orders for safety (fast move or other makers leaving).
 

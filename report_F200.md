@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-376.3 hours, 2026-11-12 16:57:15 → 2026-11-28 09:15:06 UTC, budget $200
+376.8 hours, 2026-11-12 16:57:15 → 2026-11-28 09:45:12 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.92 |
+| Rewards earned | $+14.98 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.35** (+6.2%) |
+| **Net result** | **$+12.41** (+6.2%) |
 | At this rate, per day | $+0.79 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -27,12 +27,12 @@
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.309 | 0 | 0.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.276 | 0 | 0.8% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.209 | 0 | 2.6% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.236 | 0 | 2.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
