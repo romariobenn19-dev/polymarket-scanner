@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-387.5 hours, 2026-11-12 16:57:15 → 2026-11-28 20:28:57 UTC, budget $200
+388.0 hours, 2026-11-12 16:57:15 → 2026-11-28 20:58:55 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.47 |
+| Rewards earned | $+15.52 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.90** (+6.5%) |
+| **Net result** | **$+12.95** (+6.5%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $2.134 | 2 | 5.5% |
+| Will the Iranian regime fall before 2028? | $2.159 | 2 | 5.5% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
@@ -42,8 +42,8 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
+| Iran leadership change by June 30, 2027? | $0.123 | 0 | 4.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
-| Iran leadership change by June 30, 2027? | $0.101 | 0 | 5.0% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |

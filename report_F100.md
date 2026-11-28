@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-387.5 hours, 2026-11-12 16:57:15 → 2026-11-28 20:28:58 UTC, budget $100
+388.0 hours, 2026-11-12 16:57:15 → 2026-11-28 20:58:56 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.46 |
+| Rewards earned | $+9.49 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
-| **Net result** | **$+7.89** (+7.9%) |
+| **Net result** | **$+7.92** (+7.9%) |
 | At this rate, per day | $+0.49 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -26,8 +26,8 @@
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
+| Iran leadership change by June 30, 2027? | $0.122 | 0 | 4.1% |
 | US x Iran Effective Ceasefire by December 31? | $0.105 | 0 | 1.3% |
-| Iran leadership change by June 30, 2027? | $0.100 | 0 | 5.0% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.097 | 0 | 2.7% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
@@ -66,12 +66,12 @@
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.028 | 0 | 1.4% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
 | Will AI solve 2 more Millennium Prize Problems in 2026? | $0.023 | 0 | 1.6% |
+| Will "Avengers: Doomsday" Opening Weekend Box Office be at least 400m? | $0.022 | 0 | 5.7% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
-| Will "Avengers: Doomsday" Opening Weekend Box Office be at least 400m? | $0.012 | 0 | 8.6% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
-47 times it pulled its orders for safety (fast move or other makers leaving).
+49 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
