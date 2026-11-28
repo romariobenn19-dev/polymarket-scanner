@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-379.8 hours, 2026-11-12 16:57:15 → 2026-11-28 12:46:33 UTC, budget $200
+380.3 hours, 2026-11-12 16:57:15 → 2026-11-28 13:14:36 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.36 |
+| Rewards earned | $+15.42 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.79** (+6.4%) |
+| **Net result** | **$+12.85** (+6.4%) |
 | At this rate, per day | $+0.81 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -19,11 +19,11 @@
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.416 | 0 | 2.6% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.383 | 0 | 0.8% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.373 | 0 | 2.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
@@ -49,6 +49,7 @@
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.088 | 0 | 1.5% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.084 | 0 | 1.9% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
@@ -58,7 +59,6 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.062 | 0 | 2.1% |
 | Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |

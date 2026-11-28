@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-379.8 hours, 2026-11-12 16:57:15 → 2026-11-28 12:46:39 UTC, budget $100
+380.3 hours, 2026-11-12 16:57:15 → 2026-11-28 13:14:36 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.41 |
+| Rewards earned | $+9.43 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
-| **Net result** | **$+7.83** (+7.8%) |
+| **Net result** | **$+7.86** (+7.9%) |
 | At this rate, per day | $+0.50 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -65,10 +65,10 @@
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.028 | 0 | 1.4% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.023 | 0 | 1.6% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
-| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.002 | 0 | 1.6% |
 
 45 times it pulled its orders for safety (fast move or other makers leaving).
 
