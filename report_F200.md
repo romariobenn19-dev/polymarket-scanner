@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-369.3 hours, 2026-11-12 16:57:15 → 2026-11-28 02:17:12 UTC, budget $200
+369.8 hours, 2026-11-12 16:57:15 → 2026-11-28 02:45:22 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.68 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.68** (+6.3%) |
-| At this rate, per day | $+0.82 |
-| Still holding (at midpoint) | $0.00 |
+| Rewards earned | $+14.73 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-3.25 |
+| **Net result** | **$+11.48** (+5.7%) |
+| At this rate, per day | $+0.75 |
+| Still holding (at midpoint) | $7.75 |
 
 ## Markets quoted
 
@@ -26,8 +26,8 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 1 | 4.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.303 | 0 | 4.8% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
@@ -35,13 +35,13 @@
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.164 | 0 | 2.5% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.118 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
@@ -79,8 +79,8 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-50 times it pulled its orders for safety (fast move or other makers leaving).
+51 times it pulled its orders for safety (fast move or other makers leaving).
 
-6 paper fills (price moved through our order).
+7 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
