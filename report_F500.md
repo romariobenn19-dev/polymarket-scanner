@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-94.4 hours, 2026-11-24 09:52:24 → 2026-11-28 08:14:49 UTC, budget $500
+94.9 hours, 2026-11-24 09:52:24 → 2026-11-28 08:44:33 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+10.48 |
+| Rewards earned | $+10.58 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+9.91** (+2.0%) |
-| At this rate, per day | $+2.52 |
+| **Net result** | **$+10.01** (+2.0%) |
+| At this rate, per day | $+2.53 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,18 +15,18 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.415 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.447 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | GTA VI Online released by June 30, 2027? | $0.530 | 0 | 0.8% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.486 | 0 | 2.6% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.390 | 0 | 1.9% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.337 | 0 | 2.5% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.7% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.295 | 0 | 4.3% |
 | Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.291 | 0 | 2.0% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.275 | 0 | 4.5% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.259 | 0 | 0.9% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.282 | 0 | 0.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.211 | 0 | 3.3% |
@@ -46,16 +46,16 @@
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |
+| JD Vance Republican nomination odds leader on March 31? | $0.055 | 0 | 1.7% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
 | Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.050 | 0 | 3.4% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.032 | 0 | 1.5% |
-| JD Vance Republican nomination odds leader on March 31? | $0.027 | 0 | 1.7% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.023 | 2 | 3.0% |
 
-33 times it pulled its orders for safety (fast move or other makers leaving).
+34 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
