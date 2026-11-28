@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-378.3 hours, 2026-11-12 16:57:15 → 2026-11-28 11:16:00 UTC, budget $200
+378.8 hours, 2026-11-12 16:57:15 → 2026-11-28 11:46:11 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.19 |
+| Rewards earned | $+15.25 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.62** (+6.3%) |
+| **Net result** | **$+12.68** (+6.3%) |
 | At this rate, per day | $+0.80 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,20 +15,20 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $2.078 | 2 | 5.6% |
+| Will the Iranian regime fall before 2028? | $2.108 | 2 | 5.6% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.350 | 0 | 2.6% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.370 | 0 | 2.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.310 | 0 | 0.8% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.309 | 0 | 0.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
@@ -41,7 +41,7 @@
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.126 | 0 | 3.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
@@ -80,7 +80,7 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-53 times it pulled its orders for safety (fast move or other makers leaving).
+54 times it pulled its orders for safety (fast move or other makers leaving).
 
 8 paper fills (price moved through our order).
 

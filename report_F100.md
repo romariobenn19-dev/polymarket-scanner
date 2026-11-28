@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-378.3 hours, 2026-11-12 16:57:15 → 2026-11-28 11:15:59 UTC, budget $100
+378.8 hours, 2026-11-12 16:57:15 → 2026-11-28 11:46:13 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.35 |
+| Rewards earned | $+9.37 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
-| **Net result** | **$+7.78** (+7.8%) |
+| **Net result** | **$+7.80** (+7.8%) |
 | At this rate, per day | $+0.49 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -22,7 +22,7 @@
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.258 | 0 | 0.5% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.216 | 0 | 2.6% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.236 | 0 | 2.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
@@ -67,8 +67,9 @@
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.002 | 0 | 3.2% |
 
-44 times it pulled its orders for safety (fast move or other makers leaving).
+45 times it pulled its orders for safety (fast move or other makers leaving).
 
 6 paper fills (price moved through our order).
 
