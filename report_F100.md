@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-377.3 hours, 2026-11-12 16:57:15 → 2026-11-28 10:15:34 UTC, budget $100
+377.8 hours, 2026-11-12 16:57:15 → 2026-11-28 10:45:48 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.26 |
+| Rewards earned | $+9.31 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
-| **Net result** | **$+7.69** (+7.7%) |
+| **Net result** | **$+7.74** (+7.7%) |
 | At this rate, per day | $+0.49 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -24,8 +24,8 @@
 | Will AI solve the Riemann Hypothesis in 2026? | $0.258 | 0 | 0.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.181 | 0 | 2.7% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.131 | 0 | 2.4% |
 | US x Iran Effective Ceasefire by December 31? | $0.105 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.097 | 0 | 2.7% |
 | Will Ben Ferguson be the next White House Press Secretary? | $0.089 | 0 | 2.0% |
