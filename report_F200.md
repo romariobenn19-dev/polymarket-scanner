@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-368.3 hours, 2026-11-12 16:57:15 → 2026-11-28 01:16:45 UTC, budget $200
+368.8 hours, 2026-11-12 16:57:15 → 2026-11-28 01:47:00 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.57 |
+| Rewards earned | $+14.63 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.57** (+6.3%) |
+| **Net result** | **$+12.63** (+6.3%) |
 | At this rate, per day | $+0.82 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $1.950 | 2 | 5.9% |
+| Will the Iranian regime fall before 2028? | $1.969 | 2 | 5.8% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
@@ -28,9 +28,9 @@
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.263 | 0 | 5.0% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.222 | 0 | 5.3% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.193 | 0 | 1.0% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
