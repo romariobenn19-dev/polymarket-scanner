@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-107.1 hours, 2026-11-24 09:52:24 → 2026-11-28 20:58:56 UTC, budget $500
+107.6 hours, 2026-11-24 09:52:24 → 2026-11-28 21:29:25 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+12.09 |
+| Rewards earned | $+12.20 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+11.52** (+2.3%) |
-| At this rate, per day | $+2.58 |
+| **Net result** | **$+11.63** (+2.3%) |
+| At this rate, per day | $+2.59 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.784 | 2 | 3.5% |
+| Will the Iranian regime fall before 2028? | $1.810 | 2 | 3.5% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.582 | 0 | 2.5% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.570 | 0 | 0.8% |
@@ -30,15 +30,15 @@
 | Will AI solve the Riemann Hypothesis in 2026? | $0.232 | 0 | 0.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.230 | 0 | 0.6% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.211 | 0 | 3.3% |
+| Another NVIDIA board member announced resignation or removal by Decemb | $0.208 | 0 | 0.3% |
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.202 | 0 | 2.4% |
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
-| Another NVIDIA board member announced resignation or removal by Decemb | $0.181 | 0 | 0.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
+| Iran leadership change by June 30, 2027? | $0.167 | 0 | 4.2% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
+| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.133 | 0 | 3.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
-| Iran leadership change by June 30, 2027? | $0.123 | 0 | 4.2% |
-| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.121 | 0 | 4.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.120 | 0 | 1.6% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
 | JD Vance Republican nomination odds leader on March 31? | $0.108 | 0 | 1.7% |
