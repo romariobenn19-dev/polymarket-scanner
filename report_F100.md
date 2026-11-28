@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-379.3 hours, 2026-11-12 16:57:15 → 2026-11-28 12:16:22 UTC, budget $100
+379.8 hours, 2026-11-12 16:57:15 → 2026-11-28 12:46:39 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.39 |
+| Rewards earned | $+9.41 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
-| **Net result** | **$+7.82** (+7.8%) |
-| At this rate, per day | $+0.49 |
+| **Net result** | **$+7.83** (+7.8%) |
+| At this rate, per day | $+0.50 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -53,6 +53,7 @@
 | Will Alibaba have the best Chinese AI model at the end of November 202 | $0.041 | 0 | 9.8% |
 | Will Morgan Wallen be the Billboard #1 top artist in 2026? | $0.041 | 0 | 2.1% |
 | Callum Turner announced as next James Bond? | $0.040 | 0 | 4.9% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.038 | 0 | 1.3% |
 | Will Chovy win Worlds 2026 Finals MVP? | $0.038 | 0 | 5.5% |
 | Will an AI lab announce another Millennium Prize solution by December  | $0.036 | 0 | 0.9% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.036 | 0 | 1.6% |
@@ -64,10 +65,10 @@
 | Will Fernando Mendoza win the 2026 NFL Offensive Rookie of the Year aw | $0.028 | 0 | 4.7% |
 | Alexandria Ocasio-Cortez Democratic nomination odds leader on December | $0.028 | 0 | 1.4% |
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.027 | 0 | 1.9% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.023 | 0 | 1.5% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.014 | 0 | 1.0% |
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.002 | 0 | 1.6% |
 
 45 times it pulled its orders for safety (fast move or other makers leaving).
 

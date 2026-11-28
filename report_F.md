@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-381.0 hours, 2026-11-12 15:14:49 → 2026-11-28 12:16:28 UTC, budget $50
+381.5 hours, 2026-11-12 15:14:49 → 2026-11-28 12:46:40 UTC, budget $50
 
 | | |
 |---|---|
 | Rewards earned | $+1.47 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-1.10 |
-| **Net result** | **$+0.37** (+0.7%) |
-| At this rate, per day | $+0.02 |
-| Still holding (at midpoint) | $13.30 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-1.45 |
+| **Net result** | **$+0.03** (+0.1%) |
+| At this rate, per day | $+0.00 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
@@ -17,7 +17,7 @@
 | Will it be confirmed that a software or configuration error caused the | $0.303 | 2 | 6.5% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.206 | 0 | 0.6% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.113 | 0 | 2.9% |
-| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.097 | 1 | 4.1% |
+| Will the total domestic gross for "The Hunger Games: Sunrise on the Re | $0.097 | 2 | 4.1% |
 | Will Gemini Krypton debut in the top 3 of the Text Arena leaderboard b | $0.070 | 0 | 8.0% |
 | Will the Ornn RTX 5090 Index be at least $0.75 on November 30, 2026? | $0.068 | 0 | 8.0% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.065 | 0 | 0.5% |
@@ -38,8 +38,8 @@
 | Will Nicolás Maduro be sentenced to no prison time? | $0.012 | 0 | 1.9% |
 | Tom Holland as Spider-Man? | $0.008 | 0 | 4.4% |
 
-23 times it pulled its orders for safety (fast move or other makers leaving).
+24 times it pulled its orders for safety (fast move or other makers leaving).
 
-3 paper fills (price moved through our order).
+4 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

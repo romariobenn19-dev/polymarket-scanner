@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-98.4 hours, 2026-11-24 09:52:24 → 2026-11-28 12:16:29 UTC, budget $500
+98.9 hours, 2026-11-24 09:52:24 → 2026-11-28 12:46:41 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+11.59 |
+| Rewards earned | $+11.74 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+11.02** (+2.2%) |
-| At this rate, per day | $+2.69 |
+| **Net result** | **$+11.17** (+2.2%) |
+| At this rate, per day | $+2.71 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,15 +15,15 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.675 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.705 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.558 | 0 | 2.5% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.582 | 0 | 2.5% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.540 | 0 | 0.8% |
 | GTA VI Online released by June 30, 2027? | $0.530 | 0 | 0.8% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.501 | 0 | 3.4% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.498 | 0 | 0.8% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.498 | 0 | 1.8% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.513 | 0 | 1.8% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.504 | 0 | 3.4% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.381 | 0 | 2.5% |
-| Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.313 | 0 | 1.9% |
+| Will Ulf Kristersson be the next Prime Minister of Sweden? | $0.347 | 0 | 1.8% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.7% |
 | Will no qualifying US-Iran senior diplomatic meeting take place by Dec | $0.285 | 0 | 3.0% |
 | Israel x Iran ceasefire continues through December 15? | $0.284 | 0 | 1.0% |
@@ -44,7 +44,7 @@
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
-| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.059 | 0 | 2.0% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.060 | 0 | 2.0% |
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |

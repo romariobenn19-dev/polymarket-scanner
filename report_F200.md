@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-379.3 hours, 2026-11-12 16:57:15 → 2026-11-28 12:16:24 UTC, budget $200
+379.8 hours, 2026-11-12 16:57:15 → 2026-11-28 12:46:33 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.30 |
+| Rewards earned | $+15.36 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.73** (+6.4%) |
+| **Net result** | **$+12.79** (+6.4%) |
 | At this rate, per day | $+0.81 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -22,8 +22,8 @@
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.411 | 0 | 2.5% |
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
-| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.370 | 0 | 2.5% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.343 | 0 | 0.8% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.383 | 0 | 0.8% |
+| Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.373 | 0 | 2.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
@@ -36,9 +36,9 @@
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.162 | 0 | 2.2% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.147 | 0 | 2.5% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
@@ -58,7 +58,7 @@
 | Will no Israeli government be formed after the 2026 Knesset election? | $0.074 | 0 | 4.6% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.065 | 0 | 0.4% |
 | Will AI solve 0 more Millennium Prize Problems in 2026? | $0.064 | 0 | 0.5% |
-| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.061 | 0 | 2.1% |
+| Will AI solve 2 more Millennium Prize Problems in 2026? | $0.062 | 0 | 2.1% |
 | Netanyahu out by June 30, 2027? | $0.059 | 0 | 2.2% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Will Donald Trump post 80-99 Truth Social posts from November 20 to No | $0.056 | 0 | 7.9% |
