@@ -1,12 +1,12 @@
 # Rewards bot: paper results
 
-367.8 hours, 2026-11-12 16:57:15 → 2026-11-28 00:46:38 UTC, budget $100
+368.3 hours, 2026-11-12 16:57:15 → 2026-11-28 01:16:51 UTC, budget $100
 
 | | |
 |---|---|
-| Rewards earned | $+9.00 |
+| Rewards earned | $+9.05 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-1.00 |
-| **Net result** | **$+8.00** (+8.0%) |
+| **Net result** | **$+8.05** (+8.0%) |
 | At this rate, per day | $+0.52 |
 | Still holding (at midpoint) | $0.00 |
 
@@ -16,14 +16,14 @@
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.169 | 0 | 10.5% |
 | Will Russia invade another country by December 31, 2027? | $1.246 | 0 | 4.0% |
-| Will the Iranian regime fall before 2028? | $1.081 | 2 | 6.1% |
+| Will the Iranian regime fall before 2028? | $1.082 | 2 | 6.1% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.258 | 0 | 0.5% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.223 | 0 | 5.3% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
 | Will Donald Trump post 60-79 Truth Social posts from November 24 to De | $0.191 | 2 | 6.1% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.177 | 0 | 5.6% |
 | Will Anthropic's IPO valuation be between $1.25T and $1.50T? | $0.140 | 0 | 3.9% |
 | US x Iran Effective Ceasefire by December 31? | $0.105 | 0 | 1.3% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.097 | 0 | 2.7% |
