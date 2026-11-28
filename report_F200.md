@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-378.8 hours, 2026-11-12 16:57:15 → 2026-11-28 11:46:11 UTC, budget $200
+379.3 hours, 2026-11-12 16:57:15 → 2026-11-28 12:16:24 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+15.25 |
+| Rewards earned | $+15.30 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
-| **Net result** | **$+12.68** (+6.3%) |
-| At this rate, per day | $+0.80 |
+| **Net result** | **$+12.73** (+6.4%) |
+| At this rate, per day | $+0.81 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -23,10 +23,10 @@
 | Zelenskyy out as Ukraine president by June 30, 2027? | $0.410 | 0 | 3.1% |
 | GTA VI Online released by March 31, 2027? | $0.384 | 0 | 0.8% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.370 | 0 | 2.5% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.343 | 0 | 0.8% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.331 | 0 | 1.5% |
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.310 | 0 | 0.8% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
 | Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
@@ -38,10 +38,10 @@
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
+| Will Elon Musk post 1400+ tweets in December 2026? | $0.147 | 0 | 2.5% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
-| Will Elon Musk post 1400+ tweets in December 2026? | $0.126 | 0 | 3.1% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
 | Will the Xi and Takaichi handshake last 2–6 seconds during the summit? | $0.097 | 0 | 2.8% |
 | GTA VI Online released by June 30, 2027? | $0.097 | 0 | 0.5% |
