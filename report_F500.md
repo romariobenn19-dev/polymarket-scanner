@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-99.4 hours, 2026-11-24 09:52:24 → 2026-11-28 13:14:35 UTC, budget $500
+106.6 hours, 2026-11-24 09:52:24 → 2026-11-28 20:29:02 UTC, budget $500
 
 | | |
 |---|---|
-| Rewards earned | $+11.87 |
+| Rewards earned | $+11.98 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-0.57 |
-| **Net result** | **$+11.30** (+2.3%) |
-| At this rate, per day | $+2.73 |
+| **Net result** | **$+11.41** (+2.3%) |
+| At this rate, per day | $+2.57 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -15,7 +15,7 @@
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.171 | 0 | 10.4% |
-| Will the Iranian regime fall before 2028? | $1.733 | 2 | 3.6% |
+| Will the Iranian regime fall before 2028? | $1.758 | 2 | 3.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.617 | 0 | 0.6% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.582 | 0 | 2.5% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.570 | 0 | 0.8% |
@@ -34,22 +34,22 @@
 | US announces end of Iranian blockade by February 28, 2027? | $0.201 | 0 | 4.4% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.167 | 0 | 1.2% |
 | Will NVIDIA resume China AI chip shipments by December 31, 2027? | $0.159 | 0 | 0.3% |
+| Another NVIDIA board member announced resignation or removal by Decemb | $0.154 | 0 | 0.3% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.6% |
 | Will Donald Trump post 60-79 Truth Social posts from November 27 to De | $0.130 | 0 | 4.2% |
-| Another NVIDIA board member announced resignation or removal by Decemb | $0.125 | 0 | 0.3% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.120 | 0 | 1.6% |
 | Jon Ossoff 2028 presidential odds leader on December 31? | $0.109 | 0 | 1.8% |
 | JD Vance Republican nomination odds leader on March 31? | $0.108 | 0 | 1.7% |
+| Iran leadership change by June 30, 2027? | $0.101 | 0 | 5.1% |
 | US x Iran Effective Ceasefire by December 31? | $0.085 | 0 | 1.7% |
 | Will Dejan Šoškić be the next Prime Minister of Serbia? | $0.083 | 0 | 3.8% |
-| Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
+| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.082 | 0 | 3.7% |
 | GTA VI Online released by March 31, 2027? | $0.075 | 0 | 1.1% |
 | Will AI solve 2 more Millennium Prize Problems in 2026? | $0.071 | 0 | 1.6% |
 | Netanyahu out by June 30, 2027? | $0.058 | 0 | 1.9% |
 | Iran full airspace closure by December 31? | $0.057 | 0 | 1.1% |
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.056 | 0 | 2.0% |
 | Will Magdalena Andersson be the next Prime Minister of Sweden? | $0.051 | 0 | 1.2% |
-| Russia x Ukraine ceasefire agreement by May 31, 2027? | $0.050 | 0 | 3.4% |
 | US-Iran Hormuz Agreement by January 31, 2027? | $0.049 | 0 | 3.2% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.047 | 0 | 2.6% |
 | Netanyahu out by March 31, 2027? | $0.036 | 0 | 1.7% |
