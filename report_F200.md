@@ -1,21 +1,21 @@
 # Rewards bot: paper results
 
-369.8 hours, 2026-11-12 16:57:15 → 2026-11-28 02:45:22 UTC, budget $200
+375.3 hours, 2026-11-12 16:57:15 → 2026-11-28 08:14:43 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.73 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-3.25 |
-| **Net result** | **$+11.48** (+5.7%) |
-| At this rate, per day | $+0.75 |
-| Still holding (at midpoint) | $7.75 |
+| Rewards earned | $+14.79 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-2.57 |
+| **Net result** | **$+12.22** (+6.1%) |
+| At this rate, per day | $+0.78 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
 | Market | Rewards | Fills | Share of rewards (avg) |
 |---|---|---|---|
 | Cuban regime falls by June 30, 2027? | $2.167 | 0 | 10.5% |
-| Will the Iranian regime fall before 2028? | $1.979 | 2 | 5.7% |
+| Will the Iranian regime fall before 2028? | $2.012 | 2 | 5.7% |
 | Will Russia invade another country by December 31, 2027? | $1.798 | 2 | 4.0% |
 | Another GTA VI trailer released by November 30? | $0.694 | 0 | 4.4% |
 | Howard Lutnick out as Secretary of Commerce by March 31, 2027? | $0.454 | 0 | 0.7% |
@@ -26,12 +26,12 @@
 | Will "Encore" be played last at the 2027 Big Game halftime show? | $0.324 | 0 | 0.6% |
 | Will Lindsay Clancy be the #1 searched person on Google this year? | $0.312 | 0 | 1.4% |
 | US x Iran Effective Ceasefire by November 30? | $0.310 | 0 | 1.0% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 1 | 4.8% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
 | Houthis capture Taiz city by December 31? | $0.308 | 0 | 1.3% |
 | US announces end of Iranian blockade by January 31, 2027? | $0.268 | 0 | 0.9% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.259 | 0 | 0.5% |
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
-| Will 4 Jensen Huang affairs be reported by December 31? | $0.193 | 0 | 1.0% |
+| Will 4 Jensen Huang affairs be reported by December 31? | $0.220 | 0 | 0.9% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
 | Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
@@ -79,8 +79,8 @@
 | Russia x Ukraine ceasefire agreement by April 30, 2027? | $0.014 | 0 | 0.9% |
 | Will Anthropic's valuation hit (HIGH) $2.0T by December 31? | $0.009 | 0 | 0.3% |
 
-51 times it pulled its orders for safety (fast move or other makers leaving).
+52 times it pulled its orders for safety (fast move or other makers leaving).
 
-7 paper fills (price moved through our order).
+8 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._

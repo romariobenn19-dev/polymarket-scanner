@@ -1,14 +1,14 @@
 # Rewards bot: paper results
 
-369.8 hours, 2026-11-12 16:57:15 → 2026-11-28 02:45:23 UTC, budget $100
+375.3 hours, 2026-11-12 16:57:15 → 2026-11-28 08:14:42 UTC, budget $100
 
 | | |
 |---|---|
 | Rewards earned | $+9.16 |
-| Gain/loss on shares bought and sold (valued at midpoint) | $-2.25 |
-| **Net result** | **$+6.91** (+6.9%) |
-| At this rate, per day | $+0.45 |
-| Still holding (at midpoint) | $7.75 |
+| Gain/loss on shares bought and sold (valued at midpoint) | $-1.57 |
+| **Net result** | **$+7.59** (+7.6%) |
+| At this rate, per day | $+0.49 |
+| Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
 
@@ -19,7 +19,7 @@
 | Will the Iranian regime fall before 2028? | $1.111 | 2 | 5.8% |
 | Another GTA VI trailer released by November 30? | $0.822 | 0 | 4.0% |
 | US x Iran Effective Ceasefire by November 30? | $0.371 | 0 | 1.1% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 1 | 4.8% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.309 | 2 | 4.8% |
 | Will Putin and Zelenskyy not meet by December 31, 2027? | $0.278 | 0 | 2.8% |
 | Will AI solve the Riemann Hypothesis in 2026? | $0.258 | 0 | 0.5% |
 | Kimberly Powell announced resignation or removal by December 31, 2026? | $0.195 | 0 | 1.3% |
@@ -68,8 +68,8 @@
 | Pedro Sánchez out as PM of Spain by January 15, 2027? | $0.009 | 0 | 0.9% |
 | Will Denmark be 2nd in the World Happiness Report 2027? | $0.008 | 0 | 0.4% |
 
-43 times it pulled its orders for safety (fast move or other makers leaving).
+44 times it pulled its orders for safety (fast move or other makers leaving).
 
-5 paper fills (price moved through our order).
+6 paper fills (price moved through our order).
 
 _Paper test against live order books; see rewards_bot.py for the assumptions. Hours of data say little: judge it over several days that include news-driven moves._
