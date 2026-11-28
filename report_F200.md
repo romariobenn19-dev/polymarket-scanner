@@ -1,13 +1,13 @@
 # Rewards bot: paper results
 
-366.8 hours, 2026-11-12 16:57:15 → 2026-11-27 23:46:12 UTC, budget $200
+367.3 hours, 2026-11-12 16:57:15 → 2026-11-28 00:16:27 UTC, budget $200
 
 | | |
 |---|---|
-| Rewards earned | $+14.37 |
+| Rewards earned | $+14.48 |
 | Gain/loss on shares bought and sold (valued at midpoint) | $-2.00 |
-| **Net result** | **$+12.37** (+6.2%) |
-| At this rate, per day | $+0.81 |
+| **Net result** | **$+12.48** (+6.2%) |
+| At this rate, per day | $+0.82 |
 | Still holding (at midpoint) | $0.00 |
 
 ## Markets quoted
@@ -32,13 +32,14 @@
 | US x Iran Effective Ceasefire by December 31? | $0.251 | 0 | 1.9% |
 | Will 4 Jensen Huang affairs be reported by December 31? | $0.193 | 0 | 1.0% |
 | Will Predict.fun launch a token by December 31, 2026? | $0.178 | 0 | 3.7% |
+| Marco Rubio Republican nomination odds runner-up on December 31? | $0.172 | 0 | 3.0% |
 | Will Donald Trump post 80-99 Truth Social posts from November 24 to De | $0.171 | 0 | 3.9% |
 | Next Claude Opus (5.6+) released by November 30, 2026? | $0.160 | 0 | 2.6% |
 | Will the next Fable model (5.2+) debut in the top 10 of the Text Arena | $0.151 | 0 | 3.6% |
 | Will Anthropic's IPO valuation be between $1.50T and $1.75T? | $0.146 | 0 | 3.6% |
 | Cuban regime falls by December 31, 2027? | $0.140 | 0 | 2.7% |
 | Will Anthropic announce a Millennium Prize solution by December 31, 20 | $0.134 | 0 | 3.7% |
-| Marco Rubio Republican nomination odds runner-up on December 31? | $0.126 | 0 | 2.8% |
+| Marco Rubio out as Secretary of State by March 31, 2027? | $0.133 | 0 | 6.3% |
 | Will Elon Musk post 1400+ tweets in December 2026? | $0.124 | 0 | 3.1% |
 | Will the US Section 232 tariff rate on Canadian primary aluminum be >2 | $0.115 | 0 | 2.2% |
 | Will Rockstar release GTA VI on PC after March 2027? | $0.114 | 0 | 1.6% |
@@ -49,7 +50,6 @@
 | Will Elon Musk post 1000+ tweets in November 2026? | $0.087 | 0 | 2.0% |
 | Will "GTA VI: The Album" first week sales be at least 150k? | $0.085 | 0 | 2.0% |
 | Tesla and SpaceX merger officially announced by December 31? | $0.081 | 0 | 1.3% |
-| Marco Rubio out as Secretary of State by March 31, 2027? | $0.076 | 0 | 7.2% |
 | Iran leadership change by June 30, 2027? | $0.076 | 0 | 7.3% |
 | Will it be confirmed that a software or configuration error caused the | $0.076 | 0 | 2.9% |
 | Israel x Iran ceasefire continues through December 31? | $0.075 | 0 | 1.6% |
